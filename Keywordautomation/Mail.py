@@ -3,7 +3,7 @@ from ConfigParser import SafeConfigParser
 
 class mail(object):
     def __init__(self):
-         self.MANDRILL_API_KEY = 'JJgvzSiBFGGoe-9v6eEoHw'
+         self.MANDRILL_API_KEY = '<mandril api key>'
          self.mandrill_client = mandrill.Mandrill(self.MANDRILL_API_KEY)
          self.message = { 'from_email': 'neo_support@ogilvy.com',
          'from_name': 'SUPPORT',
