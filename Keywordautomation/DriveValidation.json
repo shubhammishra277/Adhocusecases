@@ -1,11 +1,3 @@
 {
-  "type": "service_account",
-  "private_key_id": "92868c30cf547e0b72463c19918062a4cab64bb6",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDLDBQ5Qk5RwALL\nTc7BpQHClmuLfLJO5yMCfNQ6NtiNyu0ek/c3XuSMMTQhJvznCVsm6kCYD1fotTBD\naGENuDsvlp2VmGFknraQefEXJUpNPuQJ7e1A9MqZKdvfZm415RPWG2YRIO4FayPq\ny0yp2UwyAPgJvgmnmd92JWssKHXdDVcMgQRB04FECTo83+Cx/9fyz7u69iCPR4Gl\nRlMlwyHxWNWEpGYxM2PC849JzUoYvRJXDqdM6/PxgJsDsrvYX/v0cVUKJdFXj63E\nCurjyfB3haI3is2sXttZMFJ8TdtfPwVQuDCdkwSmwAwaAPe7h0Ir9SvCFHAjwhZc\n+NpvALcjAgMBAAECggEBAIqC8+zXmZvU81MDAg9BZAD9IeImr3B55n0U8KXBslqP\n2s/oOlXQavJjwl73PMDSthbG6EeS9/IsX/8r3kFAs0dUZK2fJJlCV+IY/Wk/q/8j\n7uYDI70TAH4Zev9b3cTwP2boi+kVYKnbm8XY57RaIstds9bZh7aIllL/Vavq8fRX\npHnZdxNX++dmHer9CFxsSHmilnJayGTZLjZ8nWcGr4bQ1zdio4TdNDNc1GeLNSar\nwPsrgZiKCrJlIz8Yr3Y5j+HwFl7SgjgNw5+bdrs5yDDb9zSDWIi+7we2W7eqjJ+C\nTRMKhml5TEtt3l1Yn/TG4FSSzsvWvwF6FOOuh4QasJkCgYEA9LyiUEdHt3hQYjQE\nssRRWuzuaIt0UHCwyrz4I0v/hzcKDlqNrjXdPtVHM4ddlDP6d5pdRGziLrcMu7HZ\n09UxJUSoHm/phH7NNoT8uXssJR2hCOhyLG1L0CM74aumnt2BoPpUmqtlVGekhPJh\naA03uvTM/9Nrph2jyoBpaoSBWB8CgYEA1GRHQfXSVVLANLfDLFzSqrrQv0jbBEgD\nqQjqvblvALVBUMkz5ll1jUvOP0xdasow94qmK4UdRb0Co6s4xsLVBGsytG4PDrVz\nv/1OmVuOyhT9MUGFo4TnAsRFWtIYQI4LuP84xjZAvCuC+mjykO1Jvn/DlWMx/q+s\n8F1JucHRUH0CgYEA61OK25h+vEtDN/p+3gppk/2pDPuzHzoMtRVZoE8OaM0irUSj\nYXVHxYg9C65I7B3C5EiZEBeGsZav9rcAFnGz7PsEkSfZKd7nolnjzNJEU3gXBULF\nrjR2JrAKf2eXMsEZSVoMCiFusOdrya5qvSugf/OuPvvjUfrEKQ6qzpKU8M8CgYEA\njLmQmTymS1BT99oWIGu0TdkP/N3p9/E7M6Gr319hFAgEqeFWWPbHM4KZukj/0IT9\nYtbj+Qvu9Eki2YzWRqPK/m2EoBYYNfe2JOxSSrxmZLD5fcxbHpgtdCDVjzKLTSKQ\n09ePJ43E4Ki31PD6X1pJtUX0MiQSeRyvKme1NLYd2QUCgYBFknFs0nyIUoF6dJ2s\nrC80810GLQSlaks2z5thqnCJzYeRPcxDcfNWdpa2t8EouT39Bo0wU8bNQNlT66+M\neny4NwoOTlgoiEl+6QzP7M2JrjJw4Jk1NGXXjU1gh2Zwk9qUzq74tY0yGxTozPU/\nSiPkPpB921w+nrNLIgnL4n030A==\n-----END PRIVATE KEY-----\n",
-  "client_email": "neoindia-141808@appspot.gserviceaccount.com",
-  "client_id": "113426508134360124524",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://accounts.google.com/o/oauth2/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neoindia-141808%40appspot.gserviceaccount.com"
+<auth for validating with google drive>
 }
