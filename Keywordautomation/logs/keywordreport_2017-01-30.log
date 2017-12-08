@@ -1,8 +1,0 @@
-2017-01-30 14:13:02,478  - INFO - Clearing previous csv and xlsx files
-2017-01-30 14:13:02,500  - INFO - starting for daily report
-2017-01-30 14:13:02,501  - INFO - Keyreport file is present,so skipping creation
-2017-01-30 14:13:02,772  - ERROR - Keyword file is not present
-Traceback (most recent call last):
-  File "test_bak.py", line 17, in keywordparser
-    f=open("%s/keywords.txt"%filepath,"r")
-IOError: [Errno 2] No such file or directory: '/home/shubham/Desktop/Documents/Documents_Media//keywords.txt'
