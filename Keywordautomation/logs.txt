@@ -1,0 +1,3 @@
+inside send
+path /home/shubham/Desktop/Documents/Keywordsautomation/Documents_Media
+inside process opener

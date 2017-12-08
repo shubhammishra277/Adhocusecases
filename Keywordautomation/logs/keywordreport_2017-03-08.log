@@ -1,0 +1,24 @@
+2017-03-08 16:48:39,307  - INFO - Connected to local Database
+2017-03-08 16:48:39,308  - INFO - Downloading keyword report data
+2017-03-08 16:48:39,309  - INFO - Data Download complete
+2017-03-08 17:25:17,969  - INFO - Connected to local Database
+2017-03-08 17:25:17,969  - INFO - Downloading keyword report data
+2017-03-08 17:25:17,970  - INFO - Data Download complete
+2017-03-08 17:25:19,498  - INFO - deleted old data
+2017-03-08 17:25:19,498  - INFO - Loading the data into table 
+2017-03-08 17:25:19,499  - INFO - query fired for loading the data LOAD DATA  INFILE '/home/shubham/Desktop/Documents/Documents_Media/KeyReport.csv' INTO TABLE CS109.Keyreport CHARACTER SET UTF8 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '
+' IGNORE 1 ROWS 
+2017-03-08 17:25:50,411  - INFO - loaded new data into the table
+2017-03-08 17:25:50,412  - INFO - executing query select "original_keyword","accountcount","campaigncount","cost" union all select Replace(Replace(Replace(concat(trim(Both "+" from  trim(Both "#" from Keyword)),"_",Match_type),"+",""),"]",""),"[",""),count(distinct(Account)),count(distinct(Campaign)),(sum(Cost)/1000000) from CS109.Keyreport group by Keyword,Match_type INTO OUTFILE "/home/shubham/Desktop/Documents/Documents_Media/perf.csv" CHARACTER SET UTF8 FIELDS TERMINATED BY "," ENCLOSED BY "\"" LINES TERMINATED BY "\n"
+2017-03-08 17:29:48,324  - INFO - perf data created
+2017-03-08 17:29:48,351  - INFO - executing query select "Original_keyword","Customer_ID","Account","Campaign","Campaign_state","Ad_group","Ad_group_state","Keyword","Keyword_state","Match_Type","clicks","impressions","cost" union all select Replace(Replace(Replace(concat(trim(Both "+" from  trim(Both "#" from Keyword)),"_",Match_type),"+",""),"]",""),"[","") as c1,Customer_ID,Account,Campaign,Campaign_state,Ad_group,Ad_group_state,Keyword,Keyword_state,Match_type,sum(Clicks),sum(Impressions),(sum(Cost)/1000000) from Keyreport group by c1,Customer_ID,Account,Campaign,Campaign_state,Ad_group,Ad_group_state,Keyword,Keyword_state,Match_type INTO OUTFILE "/home/shubham/Desktop/Documents/Documents_Media/key.csv" CHARACTER SET UTF8 FIELDS TERMINATED BY "," ENCLOSED BY "\"" LINES TERMINATED BY "\n"
+2017-03-08 17:50:30,530  - INFO - keyword data created
+2017-03-08 17:50:30,546  - INFO - starting making excel file
+2017-03-08 17:55:55,668  - INFO - Connected to local Database
+2017-03-08 17:55:55,674  - INFO - starting making excel file
+2017-03-08 18:02:05,908  - INFO - Connected to local Database
+2017-03-08 18:02:05,935  - INFO - starting making excel file
+2017-03-08 18:06:16,799  - INFO - Connected to local Database
+2017-03-08 18:06:16,800  - INFO - starting making excel file
+2017-03-08 18:10:20,287  - INFO - Connected to local Database
+2017-03-08 18:10:20,302  - INFO - starting making excel file

@@ -1,0 +1,685 @@
+2017-03-07 12:58:10,170  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-03-07 12:58:10,171  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-03-07 12:58:21,645  - INFO - Connected to drive
+2017-03-07 12:58:21,645  - INFO - Connected to google drive
+
+2017-03-07 12:58:41,921  - INFO - List of accounts ['2809296861', '7813355720', '4804168647', '2231303651', '5689562067', '8697947664', '1507219704', '7652731314', '4718565953', '4427418816', '4414603918', '9641959361', '7997640368', '8368566800', '1913979284', '2677004727', '6256210439', '5449804993', '5324634234', '7153553492', '5305821365', '1775729480', '2944469928', '7636545669', '1076682543', '7902277106', '8725279362', '8638326204', '7883681562', '4830309918', '5168582986', '7079507033', '7008363161', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '5596963937', '8652974884', '1158680681', '5905426474', '9315874047', '8808092456', '1437740590', '1980447844', '5385948464', '5481211928', '8048364176', '8317079318', '8894727133', '8950841751', '5727312516', '7653538731', '5260395623', '2055158184', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '8847228380', '3407444652', '2010858735', '8676621406', '3602460396', '3924629577', '5033784069', '6986394311', '6508276876', '2376534971', '1236436471', '7162590027', '4234305823', '4943932774', '3484811464', '9517338753', '7491622727', '9469342557', '5429001474', '1086771272', '9050771087', '1131954238', '7067472045']
+2017-03-07 12:58:41,921  - INFO - no. of Yaml files:84
+2017-03-07 12:58:41,940  - INFO - starting for this account id :2809296861
+2017-03-07 12:58:41,942  - INFO - starting for this account id :7813355720
+2017-03-07 12:58:41,946  - INFO - starting for this account id :4804168647
+2017-03-07 12:58:41,962  - INFO - starting for this account id :2231303651
+2017-03-07 12:58:41,962  - INFO - starting for this account id :8697947664
+2017-03-07 12:58:41,965  - INFO - starting for this account id :5689562067
+2017-03-07 12:58:41,976  - INFO - starting for this account id :1507219704
+2017-03-07 12:58:41,980  - INFO - starting for this account id :7652731314
+2017-03-07 12:58:42,001  - INFO - starting for this account id :4718565953
+2017-03-07 12:58:42,013  - INFO - starting for this account id :4427418816
+2017-03-07 12:58:42,019  - INFO - starting for this account id :7997640368
+2017-03-07 12:58:42,024  - INFO - starting for this account id :9641959361
+2017-03-07 12:58:42,022  - INFO - starting for this account id :4414603918
+2017-03-07 12:58:42,033  - INFO - starting for this account id :8368566800
+2017-03-07 12:58:42,048  - INFO - starting for this account id :1913979284
+2017-03-07 12:58:42,064  - INFO - starting for this account id :2677004727
+2017-03-07 12:58:42,076  - INFO - starting for this account id :5449804993
+2017-03-07 12:58:42,078  - INFO - starting for this account id :6256210439
+2017-03-07 12:58:42,082  - INFO - starting for this account id :7153553492
+2017-03-07 12:58:42,086  - INFO - starting for this account id :5305821365
+2017-03-07 12:58:42,109  - INFO - starting for this account id :5324634234
+2017-03-07 12:58:42,112  - INFO - starting for this account id :7636545669
+2017-03-07 12:58:42,114  - INFO - starting for this account id :2944469928
+2017-03-07 12:58:42,116  - INFO - starting for this account id :1775729480
+2017-03-07 12:58:42,121  - INFO - starting for this account id :1076682543
+2017-03-07 12:58:42,124  - INFO - starting for this account id :7902277106
+2017-03-07 12:58:42,173  - INFO - starting for this account id :8725279362
+2017-03-07 12:58:42,190  - INFO - starting for this account id :8638326204
+2017-03-07 12:58:42,209  - INFO - starting for this account id :7883681562
+2017-03-07 12:58:42,213  - INFO - starting for this account id :5168582986
+2017-03-07 12:58:42,208  - INFO - starting for this account id :4830309918
+2017-03-07 12:58:42,221  - INFO - starting for this account id :7079507033
+2017-03-07 12:58:42,252  - INFO - starting for this account id :7008363161
+2017-03-07 12:58:42,256  - INFO - starting for this account id :9391425334
+2017-03-07 12:58:42,271  - INFO - starting for this account id :4033594085
+2017-03-07 12:58:42,285  - INFO - starting for this account id :1181577747
+2017-03-07 12:58:42,293  - INFO - starting for this account id :5643789204
+2017-03-07 12:58:42,302  - INFO - starting for this account id :7194648907
+2017-03-07 12:58:42,310  - INFO - starting for this account id :5596963937
+2017-03-07 12:58:42,317  - INFO - starting for this account id :8652974884
+2017-03-07 12:58:42,345  - INFO - starting for this account id :1158680681
+2017-03-07 12:58:42,349  - INFO - starting for this account id :5905426474
+2017-03-07 12:58:42,361  - INFO - starting for this account id :9315874047
+2017-03-07 12:58:42,368  - INFO - starting for this account id :1437740590
+2017-03-07 12:58:42,387  - INFO - starting for this account id :8808092456
+2017-03-07 12:58:42,393  - INFO - starting for this account id :5385948464
+2017-03-07 12:58:42,397  - INFO - starting for this account id :1980447844
+2017-03-07 12:58:42,417  - INFO - starting for this account id :5481211928
+2017-03-07 12:58:42,430  - INFO - starting for this account id :8950841751
+2017-03-07 12:58:42,433  - INFO - starting for this account id :8048364176
+2017-03-07 12:58:42,439  - INFO - starting for this account id :8317079318
+2017-03-07 12:58:42,432  - INFO - starting for this account id :8894727133
+2017-03-07 12:58:42,449  - INFO - starting for this account id :2055158184
+2017-03-07 12:58:42,457  - INFO - starting for this account id :5727312516
+2017-03-07 12:58:42,460  - INFO - starting for this account id :3507344855
+2017-03-07 12:58:42,463  - INFO - starting for this account id :7653538731
+2017-03-07 12:58:42,485  - INFO - starting for this account id :1119144035
+2017-03-07 12:58:42,486  - INFO - starting for this account id :5260395623
+2017-03-07 12:58:42,490  - INFO - starting for this account id :3303736528
+2017-03-07 12:58:42,503  - INFO - starting for this account id :4143834440
+2017-03-07 12:58:42,527  - INFO - starting for this account id :8847228380
+2017-03-07 12:58:42,516  - INFO - starting for this account id :5543791114
+2017-03-07 12:58:42,572  - INFO - starting for this account id :3407444652
+2017-03-07 12:58:42,573  - INFO - starting for this account id :8676621406
+2017-03-07 12:58:42,583  - INFO - starting for this account id :2010858735
+2017-03-07 12:58:42,634  - INFO - starting for this account id :3602460396
+2017-03-07 12:58:42,638  - INFO - starting for this account id :5033784069
+2017-03-07 12:58:42,645  - INFO - starting for this account id :6986394311
+2017-03-07 12:58:42,649  - INFO - starting for this account id :6508276876
+2017-03-07 12:58:42,653  - INFO - starting for this account id :3924629577
+2017-03-07 12:58:42,661  - INFO - starting for this account id :2376534971
+2017-03-07 12:58:42,677  - INFO - starting for this account id :7491622727
+2017-03-07 12:58:42,688  - INFO - starting for this account id :9469342557
+2017-03-07 12:58:42,693  - INFO - starting for this account id :1086771272
+2017-03-07 12:58:42,696  - INFO - starting for this account id :1236436471
+2017-03-07 12:58:42,701  - INFO - starting for this account id :4234305823
+2017-03-07 12:58:42,706  - INFO - starting for this account id :7162590027
+2017-03-07 12:58:42,707  - INFO - starting for this account id :5429001474
+2017-03-07 12:58:42,713  - INFO - starting for this account id :3484811464
+2017-03-07 12:58:42,728  - INFO - starting for this account id :9517338753
+2017-03-07 12:58:42,721  - INFO - starting for this account id :4943932774
+2017-03-07 12:58:42,743  - INFO - starting for this account id :9050771087
+2017-03-07 12:58:42,752  - INFO - starting for this account id :1131954238
+2017-03-07 12:58:42,783  - INFO - starting for this account id :7067472045
+2017-03-07 12:58:52,042  - INFO - This process is complete
+2017-03-07 12:58:52,563  - INFO - This process is complete
+2017-03-07 12:58:53,328  - INFO - This process is complete
+2017-03-07 12:58:55,199  - INFO - This process is complete
+2017-03-07 12:58:55,553  - INFO - This process is complete
+2017-03-07 12:58:56,528  - INFO - This process is complete
+2017-03-07 12:58:56,570  - INFO - This process is complete
+2017-03-07 12:58:56,661  - INFO - This process is complete
+2017-03-07 12:58:57,365  - INFO - This process is complete
+2017-03-07 12:58:57,903  - INFO - This process is complete
+2017-03-07 12:58:58,385  - INFO - This process is complete
+2017-03-07 12:58:59,101  - INFO - This process is complete
+2017-03-07 12:58:59,383  - INFO - This process is complete
+2017-03-07 12:59:00,059  - INFO - This process is complete
+2017-03-07 12:59:00,300  - INFO - This process is complete
+2017-03-07 12:59:00,502  - INFO - This process is complete
+2017-03-07 12:59:02,442  - ERROR - error occured for 3507344855 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 38, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 159, in __init__
+    self.build_schema()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 220, in build_schema
+    self.schema = container.load(self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 92, in load
+    child.open_imports(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 301, in open_imports
+    imported = imp.open(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 581, in open
+    result = self.download(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 597, in download
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-03-07 12:59:02,536  - INFO - This process is complete
+2017-03-07 12:59:04,362  - ERROR - error occured for 7902277106 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 38, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 159, in __init__
+    self.build_schema()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 220, in build_schema
+    self.schema = container.load(self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 92, in load
+    child.open_imports(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 301, in open_imports
+    imported = imp.open(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 581, in open
+    result = self.download(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 597, in download
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-03-07 12:59:04,364  - INFO - This process is complete
+2017-03-07 12:59:04,673  - INFO - This process is complete
+2017-03-07 12:59:05,090  - ERROR - error occured for 5260395623 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 81, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1495, in _DownloadReport
+    response = self._DownloadReportAsStream(post_body, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1546, in _DownloadReportAsStream
+    return self.url_opener.open(request)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-03-07 12:59:05,095  - INFO - This process is complete
+2017-03-07 12:59:06,009  - INFO - This process is complete
+2017-03-07 12:59:06,019  - INFO - This process is complete
+2017-03-07 12:59:06,519  - INFO - This process is complete
+2017-03-07 12:59:06,617  - INFO - This process is complete
+2017-03-07 12:59:06,722  - INFO - This process is complete
+2017-03-07 12:59:07,182  - INFO - This process is complete
+2017-03-07 12:59:07,243  - INFO - This process is complete
+2017-03-07 12:59:08,779  - INFO - This process is complete
+2017-03-07 12:59:09,578  - INFO - This process is complete
+2017-03-07 12:59:11,380  - INFO - This process is complete
+2017-03-07 12:59:11,445  - INFO - This process is complete
+2017-03-07 12:59:11,664  - INFO - This process is complete
+2017-03-07 12:59:11,720  - INFO - This process is complete
+2017-03-07 12:59:11,891  - INFO - This process is complete
+2017-03-07 12:59:12,663  - INFO - This process is complete
+2017-03-07 12:59:13,038  - INFO - This process is complete
+2017-03-07 12:59:13,477  - INFO - This process is complete
+2017-03-07 12:59:13,948  - ERROR - error occured for 4033594085 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 81, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1495, in _DownloadReport
+    response = self._DownloadReportAsStream(post_body, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1546, in _DownloadReportAsStream
+    return self.url_opener.open(request)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-03-07 12:59:13,949  - INFO - This process is complete
+2017-03-07 12:59:14,920  - INFO - This process is complete
+2017-03-07 12:59:15,656  - INFO - This process is complete
+2017-03-07 12:59:15,709  - INFO - This process is complete
+2017-03-07 12:59:15,789  - INFO - This process is complete
+2017-03-07 12:59:15,807  - INFO - This process is complete
+2017-03-07 12:59:17,077  - INFO - This process is complete
+2017-03-07 12:59:18,509  - INFO - This process is complete
+2017-03-07 12:59:19,163  - INFO - This process is complete
+2017-03-07 12:59:20,997  - INFO - This process is complete
+2017-03-07 12:59:21,342  - INFO - This process is complete
+2017-03-07 12:59:22,838  - INFO - This process is complete
+2017-03-07 12:59:23,226  - INFO - This process is complete
+2017-03-07 12:59:25,023  - INFO - This process is complete
+2017-03-07 12:59:25,393  - INFO - This process is complete
+2017-03-07 12:59:26,643  - INFO - This process is complete
+2017-03-07 12:59:29,270  - INFO - This process is complete
+2017-03-07 12:59:29,879  - INFO - This process is complete
+2017-03-07 12:59:30,479  - INFO - This process is complete
+2017-03-07 12:59:32,481  - INFO - This process is complete
+2017-03-07 12:59:32,489  - ERROR - error occured for 5727312516 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 81, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1495, in _DownloadReport
+    response = self._DownloadReportAsStream(post_body, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1546, in _DownloadReportAsStream
+    return self.url_opener.open(request)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 104] Connection reset by peer>
+2017-03-07 12:59:32,491  - INFO - This process is complete
+2017-03-07 12:59:33,354  - INFO - This process is complete
+2017-03-07 12:59:38,664  - INFO - This process is complete
+2017-03-07 12:59:38,921  - INFO - This process is complete
+2017-03-07 12:59:41,454  - INFO - This process is complete
+2017-03-07 12:59:41,862  - INFO - This process is complete
+2017-03-07 12:59:42,826  - INFO - This process is complete
+2017-03-07 12:59:43,324  - INFO - This process is complete
+2017-03-07 12:59:48,555  - INFO - This process is complete
+2017-03-07 12:59:49,077  - INFO - This process is complete
+2017-03-07 12:59:51,903  - INFO - This process is complete
+2017-03-07 13:00:10,421  - INFO - This process is complete
+2017-03-07 13:00:19,992  - INFO - This process is complete
+2017-03-07 13:00:26,773  - INFO - This process is complete
+2017-03-07 13:00:32,903  - INFO - This process is complete
+2017-03-07 13:00:53,551  - INFO - This process is complete
+2017-03-07 13:01:22,774  - INFO - This process is complete
+2017-03-07 13:01:24,190  - INFO - This process is complete
+2017-03-07 13:01:42,264  - INFO - This process is complete
+2017-03-07 13:02:24,853  - INFO - This process is complete
+2017-03-07 13:03:04,652  - INFO - This process is complete
+2017-03-07 13:03:09,250  - INFO - This process is complete
+2017-03-07 13:03:15,699  - INFO - This process is complete
+2017-03-07 13:03:54,173  - INFO - This process is complete
+2017-03-07 13:03:55,204  - INFO - This process is complete
+2017-03-07 13:05:23,201  - INFO - This process is complete
+2017-03-07 13:05:46,013  - INFO - This process is complete
+2017-03-07 13:05:46,345  - INFO - doing aggregation to create a single Keyreport file
+2017-03-07 14:57:14,716  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-03-07 14:57:14,736  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-03-07 14:57:18,376  - INFO - Connected to drive
+2017-03-07 14:57:18,376  - INFO - Connected to google drive
+
+2017-03-07 14:57:27,297  - INFO - List of accounts ['2809296861', '7813355720', '4804168647', '2231303651', '5689562067', '8697947664', '1507219704', '7652731314', '4718565953', '4427418816', '4414603918', '9641959361', '7997640368', '8368566800', '1913979284', '2677004727', '6256210439', '5449804993', '5324634234', '7153553492', '5305821365', '1775729480', '2944469928', '7636545669', '1076682543', '7902277106', '8725279362', '8638326204', '7883681562', '4830309918', '5168582986', '7079507033', '7008363161', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '5596963937', '8652974884', '1158680681', '5905426474', '9315874047', '8808092456', '1437740590', '1980447844', '5385948464', '5481211928', '8048364176', '8317079318', '8894727133', '8950841751', '5727312516', '7653538731', '5260395623', '2055158184', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '8847228380', '3407444652', '2010858735', '8676621406', '3602460396', '3924629577', '5033784069', '6986394311', '6508276876', '2376534971', '1236436471', '7162590027', '4234305823', '4943932774', '3484811464', '9517338753', '7491622727', '9469342557', '5429001474', '1086771272', '9050771087', '1131954238', '7067472045']
+2017-03-07 14:57:27,297  - INFO - no. of Yaml files:84
+2017-03-07 14:57:27,311  - INFO - starting for this account id :2809296861
+2017-03-07 14:57:27,313  - INFO - starting for this account id :7813355720
+2017-03-07 14:57:27,314  - INFO - starting for this account id :4804168647
+2017-03-07 14:57:27,331  - INFO - starting for this account id :2231303651
+2017-03-07 14:57:27,334  - INFO - starting for this account id :5689562067
+2017-03-07 14:57:27,341  - INFO - starting for this account id :8697947664
+2017-03-07 14:57:27,343  - INFO - starting for this account id :1507219704
+2017-03-07 14:57:27,347  - INFO - starting for this account id :7652731314
+2017-03-07 14:57:27,377  - INFO - starting for this account id :4718565953
+2017-03-07 14:57:27,378  - INFO - starting for this account id :4427418816
+2017-03-07 14:57:27,388  - INFO - starting for this account id :9641959361
+2017-03-07 14:57:27,391  - INFO - starting for this account id :7997640368
+2017-03-07 14:57:27,397  - INFO - starting for this account id :4414603918
+2017-03-07 14:57:27,413  - INFO - starting for this account id :8368566800
+2017-03-07 14:57:27,418  - INFO - starting for this account id :2677004727
+2017-03-07 14:57:27,424  - INFO - starting for this account id :6256210439
+2017-03-07 14:57:27,433  - INFO - starting for this account id :5449804993
+2017-03-07 14:57:27,435  - INFO - starting for this account id :1913979284
+2017-03-07 14:57:27,456  - INFO - starting for this account id :7153553492
+2017-03-07 14:57:27,461  - INFO - starting for this account id :5324634234
+2017-03-07 14:57:27,477  - INFO - starting for this account id :5305821365
+2017-03-07 14:57:27,485  - INFO - starting for this account id :1775729480
+2017-03-07 14:57:27,489  - INFO - starting for this account id :8725279362
+2017-03-07 14:57:27,496  - INFO - starting for this account id :7883681562
+2017-03-07 14:57:27,499  - INFO - starting for this account id :2944469928
+2017-03-07 14:57:27,503  - INFO - starting for this account id :8638326204
+2017-03-07 14:57:27,509  - INFO - starting for this account id :4830309918
+2017-03-07 14:57:27,510  - INFO - starting for this account id :7636545669
+2017-03-07 14:57:27,513  - INFO - starting for this account id :5168582986
+2017-03-07 14:57:27,517  - INFO - starting for this account id :1076682543
+2017-03-07 14:57:27,521  - INFO - starting for this account id :9391425334
+2017-03-07 14:57:27,534  - INFO - starting for this account id :7902277106
+2017-03-07 14:57:27,544  - INFO - starting for this account id :4033594085
+2017-03-07 14:57:27,552  - INFO - starting for this account id :7079507033
+2017-03-07 14:57:27,561  - INFO - starting for this account id :7008363161
+2017-03-07 14:57:27,563  - INFO - starting for this account id :9315874047
+2017-03-07 14:57:27,571  - INFO - starting for this account id :8808092456
+2017-03-07 14:57:27,577  - INFO - starting for this account id :1437740590
+2017-03-07 14:57:27,589  - INFO - starting for this account id :1181577747
+2017-03-07 14:57:27,593  - INFO - starting for this account id :1980447844
+2017-03-07 14:57:27,597  - INFO - starting for this account id :5385948464
+2017-03-07 14:57:27,604  - INFO - starting for this account id :5481211928
+2017-03-07 14:57:27,611  - INFO - starting for this account id :1158680681
+2017-03-07 14:57:27,614  - INFO - starting for this account id :5905426474
+2017-03-07 14:57:27,625  - INFO - starting for this account id :8894727133
+2017-03-07 14:57:27,631  - INFO - starting for this account id :8048364176
+2017-03-07 14:57:27,635  - INFO - starting for this account id :8317079318
+2017-03-07 14:57:27,645  - INFO - starting for this account id :5643789204
+2017-03-07 14:57:27,649  - INFO - starting for this account id :8652974884
+2017-03-07 14:57:27,649  - INFO - starting for this account id :7194648907
+2017-03-07 14:57:27,653  - INFO - starting for this account id :5596963937
+2017-03-07 14:57:27,690  - INFO - starting for this account id :7653538731
+2017-03-07 14:57:27,705  - INFO - starting for this account id :5727312516
+2017-03-07 14:57:27,714  - INFO - starting for this account id :1119144035
+2017-03-07 14:57:27,713  - INFO - starting for this account id :2055158184
+2017-03-07 14:57:27,741  - INFO - starting for this account id :8950841751
+2017-03-07 14:57:27,749  - INFO - starting for this account id :5260395623
+2017-03-07 14:57:27,803  - INFO - starting for this account id :8847228380
+2017-03-07 14:57:27,749  - INFO - starting for this account id :5543791114
+2017-03-07 14:57:27,829  - INFO - starting for this account id :3507344855
+2017-03-07 14:57:27,841  - INFO - starting for this account id :3303736528
+2017-03-07 14:57:27,861  - INFO - starting for this account id :3407444652
+2017-03-07 14:57:27,865  - INFO - starting for this account id :8676621406
+2017-03-07 14:57:27,867  - INFO - starting for this account id :4143834440
+2017-03-07 14:57:27,880  - INFO - starting for this account id :2010858735
+2017-03-07 14:57:28,041  - INFO - starting for this account id :9050771087
+2017-03-07 14:57:28,008  - INFO - starting for this account id :9517338753
+2017-03-07 14:57:27,995  - INFO - starting for this account id :1236436471
+2017-03-07 14:57:27,971  - INFO - starting for this account id :6986394311
+2017-03-07 14:57:28,037  - INFO - starting for this account id :1086771272
+2017-03-07 14:57:27,992  - INFO - starting for this account id :2376534971
+2017-03-07 14:57:28,000  - INFO - starting for this account id :4234305823
+2017-03-07 14:57:28,012  - INFO - starting for this account id :7491622727
+2017-03-07 14:57:28,005  - INFO - starting for this account id :4943932774
+2017-03-07 14:57:27,997  - INFO - starting for this account id :7162590027
+2017-03-07 14:57:28,004  - INFO - starting for this account id :3484811464
+2017-03-07 14:57:27,969  - INFO - starting for this account id :5033784069
+2017-03-07 14:57:27,939  - INFO - starting for this account id :3924629577
+2017-03-07 14:57:28,044  - INFO - starting for this account id :7067472045
+2017-03-07 14:57:27,997  - INFO - starting for this account id :6508276876
+2017-03-07 14:57:28,040  - INFO - starting for this account id :5429001474
+2017-03-07 14:57:27,937  - INFO - starting for this account id :3602460396
+2017-03-07 14:57:28,044  - INFO - starting for this account id :1131954238
+2017-03-07 14:57:28,012  - INFO - starting for this account id :9469342557
+2017-03-07 14:57:49,441  - INFO - This process is complete
+2017-03-07 14:57:50,471  - INFO - This process is complete
+2017-03-07 14:57:53,341  - INFO - This process is complete
+2017-03-07 14:57:55,143  - INFO - This process is complete
+2017-03-07 14:57:55,164  - INFO - This process is complete
+2017-03-07 14:57:55,992  - INFO - This process is complete
+2017-03-07 14:57:56,487  - INFO - This process is complete
+2017-03-07 14:57:57,011  - INFO - This process is complete
+2017-03-07 14:57:57,058  - INFO - This process is complete
+2017-03-07 14:57:57,830  - INFO - This process is complete
+2017-03-07 14:57:58,020  - INFO - This process is complete
+2017-03-07 14:57:58,256  - INFO - This process is complete
+2017-03-07 14:57:58,389  - INFO - This process is complete
+2017-03-07 14:57:58,689  - INFO - This process is complete
+2017-03-07 14:57:58,748  - INFO - This process is complete
+2017-03-07 14:57:59,120  - INFO - This process is complete
+2017-03-07 14:57:59,595  - INFO - This process is complete
+2017-03-07 14:57:59,697  - INFO - This process is complete
+2017-03-07 14:57:59,809  - INFO - This process is complete
+2017-03-07 14:57:59,958  - INFO - This process is complete
+2017-03-07 14:58:00,193  - INFO - This process is complete
+2017-03-07 14:58:00,600  - ERROR - error occured for 5260395623 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 38, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 159, in __init__
+    self.build_schema()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 220, in build_schema
+    self.schema = container.load(self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 92, in load
+    child.open_imports(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 301, in open_imports
+    imported = imp.open(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 581, in open
+    result = self.download(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 597, in download
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-03-07 14:57:59,119  - ERROR - error occured for 5905426474 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 38, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 159, in __init__
+    self.build_schema()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 220, in build_schema
+    self.schema = container.load(self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 92, in load
+    child.open_imports(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 301, in open_imports
+    imported = imp.open(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 581, in open
+    result = self.download(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 597, in download
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-03-07 14:58:01,080  - INFO - This process is complete
+2017-03-07 14:58:01,080  - INFO - This process is complete
+2017-03-07 14:58:01,179  - INFO - This process is complete
+2017-03-07 14:58:01,253  - INFO - This process is complete
+2017-03-07 14:58:01,695  - INFO - This process is complete
+2017-03-07 14:58:01,723  - INFO - This process is complete
+2017-03-07 14:58:01,932  - ERROR - error occured for 7883681562 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 81, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1495, in _DownloadReport
+    response = self._DownloadReportAsStream(post_body, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1546, in _DownloadReportAsStream
+    return self.url_opener.open(request)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-03-07 14:58:01,969  - INFO - This process is complete
+2017-03-07 14:58:02,444  - INFO - This process is complete
+2017-03-07 14:58:02,464  - INFO - This process is complete
+2017-03-07 14:58:03,193  - INFO - This process is complete
+2017-03-07 14:58:03,291  - INFO - This process is complete
+2017-03-07 14:58:03,306  - INFO - This process is complete
+2017-03-07 14:58:04,470  - INFO - This process is complete
+2017-03-07 14:58:04,806  - INFO - This process is complete
+2017-03-07 14:58:05,355  - INFO - This process is complete
+2017-03-07 14:58:05,410  - ERROR - error occured for 9469342557 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 81, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1495, in _DownloadReport
+    response = self._DownloadReportAsStream(post_body, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1546, in _DownloadReportAsStream
+    return self.url_opener.open(request)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-03-07 14:58:05,415  - INFO - This process is complete
+2017-03-07 14:58:06,381  - INFO - This process is complete
+2017-03-07 14:58:06,496  - INFO - This process is complete
+2017-03-07 14:58:06,751  - INFO - This process is complete
+2017-03-07 14:58:06,895  - INFO - This process is complete
+2017-03-07 14:58:07,268  - INFO - This process is complete
+2017-03-07 14:58:07,640  - INFO - This process is complete
+2017-03-07 14:58:07,674  - INFO - This process is complete
+2017-03-07 14:58:07,910  - INFO - This process is complete
+2017-03-07 14:58:08,689  - INFO - This process is complete
+2017-03-07 14:58:09,051  - INFO - This process is complete
+2017-03-07 14:58:09,108  - INFO - This process is complete
+2017-03-07 14:58:10,258  - INFO - This process is complete
+2017-03-07 14:58:11,351  - INFO - This process is complete
+2017-03-07 14:58:12,003  - INFO - This process is complete
+2017-03-07 14:58:13,428  - ERROR - error occured for 8808092456 
+Traceback (most recent call last):
+  File "keywords_bak.py", line 87, in filegenerator
+    GetKeywordURLs(account)
+  File "keywords_bak.py", line 81, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1495, in _DownloadReport
+    response = self._DownloadReportAsStream(post_body, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1546, in _DownloadReportAsStream
+    return self.url_opener.open(request)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 104] Connection reset by peer>
+2017-03-07 14:58:13,432  - INFO - This process is complete
+2017-03-07 14:58:14,092  - INFO - This process is complete
+2017-03-07 14:58:14,239  - INFO - This process is complete
+2017-03-07 14:58:15,347  - INFO - This process is complete
+2017-03-07 14:58:16,805  - INFO - This process is complete
+2017-03-07 14:58:17,813  - INFO - This process is complete
+2017-03-07 14:58:20,357  - INFO - This process is complete
+2017-03-07 14:58:21,574  - INFO - This process is complete
+2017-03-07 14:58:22,400  - INFO - This process is complete
+2017-03-07 14:58:23,210  - INFO - This process is complete
+2017-03-07 14:58:26,265  - INFO - This process is complete
+2017-03-07 14:58:32,076  - INFO - This process is complete
+2017-03-07 14:58:33,271  - INFO - This process is complete
+2017-03-07 14:58:34,257  - INFO - This process is complete
+2017-03-07 14:58:37,915  - INFO - This process is complete
+2017-03-07 14:58:43,132  - INFO - This process is complete
+2017-03-07 14:58:43,658  - INFO - This process is complete
+2017-03-07 14:58:44,200  - INFO - This process is complete
+2017-03-07 14:58:49,659  - INFO - This process is complete
+2017-03-07 14:58:53,687  - INFO - This process is complete
+2017-03-07 14:58:56,799  - INFO - This process is complete
+2017-03-07 14:59:14,361  - INFO - This process is complete
+2017-03-07 14:59:29,890  - INFO - This process is complete
+2017-03-07 14:59:31,430  - INFO - This process is complete
+2017-03-07 14:59:32,352  - INFO - This process is complete
+2017-03-07 14:59:53,719  - INFO - This process is complete
+2017-03-07 14:59:58,689  - INFO - This process is complete
+2017-03-07 15:00:16,136  - INFO - This process is complete
+2017-03-07 15:00:35,908  - INFO - This process is complete
+2017-03-07 15:01:28,425  - INFO - This process is complete
+2017-03-07 15:02:06,203  - INFO - This process is complete
+2017-03-07 15:03:28,144  - INFO - This process is complete
+2017-03-07 15:07:13,464  - INFO - This process is complete
+2017-03-07 15:07:13,829  - INFO - doing aggregation to create a single Keyreport file
+2017-03-07 15:13:46,418  - INFO - doing aggregation to create a single Keyreport file
+2017-03-07 15:14:23,761  - INFO - doing aggregation to create a single Keyreport file
+2017-03-07 15:15:11,454  - INFO - doing aggregation to create a single Keyreport file

@@ -1,0 +1,747 @@
+2017-01-31 14:37:23,008  - INFO - Clearing previous csv and xlsx files
+2017-01-31 14:37:23,041  - INFO - starting for daily report
+2017-01-31 14:37:23,041  - INFO - Keyreport file not present,so creating it
+2017-01-31 14:37:23,046  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-01-31 14:37:23,046  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-01-31 14:37:24,875  - INFO - Connected to drive
+2017-01-31 14:37:24,875  - INFO - Connected to google drive
+
+2017-01-31 14:37:29,427  - INFO - List of accounts ['7813355720', '4804168647', '2231303651', '5689562067', '8697947664', '7652731314', '4718565953', '4427418816', '4414603918', '9641959361', '7997640368', '8368566800', '1913979284', '2677004727', '5449804993', '5305821365', '1775729480', '2944469928', '7636545669', '7902277106', '8725279362', '8638326204', '7883681562', '4830309918', '7008363161', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '8652974884', '1158680681', '5905426474', '9315874047', '8808092456', '1437740590', '1980447844', '5481211928', '8048364176', '8317079318', '8894727133', '8950841751', '5727312516', '5260395623', '2055158184', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '8847228380', '2010858735', '8676621406', '3924629577', '5033784069', '6986394311', '6508276876', '1236436471', '7162590027', '4234305823', '9343489685', '3484811464', '9517338753', '7491622727', '9469342557', '1086771272', '9050771087', '7067472045']
+2017-01-31 14:37:29,427  - INFO - no. of Yaml files:68
+2017-01-31 14:37:29,433  - INFO - starting for this account id :7813355720
+2017-01-31 14:37:29,435  - INFO - starting for this account id :4804168647
+2017-01-31 14:37:29,445  - INFO - starting for this account id :5689562067
+2017-01-31 14:37:29,446  - INFO - starting for this account id :2231303651
+2017-01-31 14:37:29,455  - INFO - starting for this account id :7652731314
+2017-01-31 14:37:29,454  - INFO - starting for this account id :8697947664
+2017-01-31 14:37:29,462  - INFO - starting for this account id :4414603918
+2017-01-31 14:37:29,465  - INFO - starting for this account id :4718565953
+2017-01-31 14:37:29,473  - INFO - starting for this account id :4427418816
+2017-01-31 14:37:29,477  - INFO - starting for this account id :7997640368
+2017-01-31 14:37:29,481  - INFO - starting for this account id :8368566800
+2017-01-31 14:37:29,485  - INFO - starting for this account id :1913979284
+2017-01-31 14:37:29,491  - INFO - starting for this account id :9641959361
+2017-01-31 14:37:29,496  - INFO - starting for this account id :2677004727
+2017-01-31 14:37:29,497  - INFO - starting for this account id :8725279362
+2017-01-31 14:37:29,501  - INFO - starting for this account id :5449804993
+2017-01-31 14:37:29,505  - INFO - starting for this account id :2944469928
+2017-01-31 14:37:29,508  - INFO - starting for this account id :4830309918
+2017-01-31 14:37:29,511  - INFO - starting for this account id :8638326204
+2017-01-31 14:37:29,515  - INFO - starting for this account id :7883681562
+2017-01-31 14:37:29,517  - INFO - starting for this account id :5305821365
+2017-01-31 14:37:29,520  - INFO - starting for this account id :7902277106
+2017-01-31 14:37:29,524  - INFO - starting for this account id :7636545669
+2017-01-31 14:37:29,531  - INFO - starting for this account id :7008363161
+2017-01-31 14:37:29,533  - INFO - starting for this account id :1775729480
+2017-01-31 14:37:29,550  - INFO - starting for this account id :9391425334
+2017-01-31 14:37:29,557  - INFO - starting for this account id :4033594085
+2017-01-31 14:37:29,573  - INFO - starting for this account id :1181577747
+2017-01-31 14:37:29,590  - INFO - starting for this account id :5643789204
+2017-01-31 14:37:29,605  - INFO - starting for this account id :7194648907
+2017-01-31 14:37:29,646  - INFO - starting for this account id :8652974884
+2017-01-31 14:37:29,649  - INFO - starting for this account id :1158680681
+2017-01-31 14:37:29,677  - INFO - starting for this account id :5905426474
+2017-01-31 14:37:29,700  - INFO - starting for this account id :5481211928
+2017-01-31 14:37:29,704  - INFO - starting for this account id :8048364176
+2017-01-31 14:37:29,705  - INFO - starting for this account id :9315874047
+2017-01-31 14:37:29,709  - INFO - starting for this account id :8317079318
+2017-01-31 14:37:29,713  - INFO - starting for this account id :1437740590
+2017-01-31 14:37:29,717  - INFO - starting for this account id :8808092456
+2017-01-31 14:37:29,721  - INFO - starting for this account id :8894727133
+2017-01-31 14:37:29,725  - INFO - starting for this account id :3507344855
+2017-01-31 14:37:29,729  - INFO - starting for this account id :1980447844
+2017-01-31 14:37:29,733  - INFO - starting for this account id :8950841751
+2017-01-31 14:37:29,737  - INFO - starting for this account id :4143834440
+2017-01-31 14:37:29,739  - INFO - starting for this account id :5727312516
+2017-01-31 14:37:29,741  - INFO - starting for this account id :2055158184
+2017-01-31 14:37:29,745  - INFO - starting for this account id :1119144035
+2017-01-31 14:37:29,761  - INFO - starting for this account id :5260395623
+2017-01-31 14:37:29,765  - INFO - starting for this account id :3303736528
+2017-01-31 14:37:29,769  - INFO - starting for this account id :5543791114
+2017-01-31 14:37:29,787  - INFO - starting for this account id :8847228380
+2017-01-31 14:37:29,821  - INFO - starting for this account id :2010858735
+2017-01-31 14:37:29,837  - INFO - starting for this account id :8676621406
+2017-01-31 14:37:29,841  - INFO - starting for this account id :5033784069
+2017-01-31 14:37:29,842  - INFO - starting for this account id :3924629577
+2017-01-31 14:37:29,861  - INFO - starting for this account id :6986394311
+2017-01-31 14:37:29,861  - INFO - starting for this account id :4234305823
+2017-01-31 14:37:29,868  - INFO - starting for this account id :6508276876
+2017-01-31 14:37:29,869  - INFO - starting for this account id :3484811464
+2017-01-31 14:37:29,873  - INFO - starting for this account id :9343489685
+2017-01-31 14:37:29,881  - INFO - starting for this account id :7162590027
+2017-01-31 14:37:29,887  - INFO - starting for this account id :1236436471
+2017-01-31 14:37:29,891  - INFO - starting for this account id :9517338753
+2017-01-31 14:37:29,905  - INFO - starting for this account id :7491622727
+2017-01-31 14:37:29,909  - INFO - starting for this account id :1086771272
+2017-01-31 14:37:29,921  - INFO - starting for this account id :9469342557
+2017-01-31 14:37:29,921  - INFO - starting for this account id :9050771087
+2017-01-31 14:37:29,952  - INFO - starting for this account id :7067472045
+2017-01-31 14:37:36,533  - INFO - This process is complete
+2017-01-31 14:37:37,872  - INFO - This process is complete
+2017-01-31 14:37:38,945  - INFO - This process is complete
+2017-01-31 14:37:39,076  - INFO - This process is complete
+2017-01-31 14:37:39,168  - INFO - This process is complete
+2017-01-31 14:37:40,033  - INFO - This process is complete
+2017-01-31 14:37:40,226  - INFO - This process is complete
+2017-01-31 14:37:40,576  - INFO - This process is complete
+2017-01-31 14:37:41,839  - INFO - This process is complete
+2017-01-31 14:37:41,969  - INFO - This process is complete
+2017-01-31 14:37:44,413  - INFO - This process is complete
+2017-01-31 14:37:46,702  - INFO - This process is complete
+2017-01-31 14:37:48,740  - INFO - This process is complete
+2017-01-31 14:37:49,073  - INFO - This process is complete
+2017-01-31 14:37:49,218  - INFO - This process is complete
+2017-01-31 14:37:50,309  - INFO - This process is complete
+2017-01-31 14:37:51,574  - INFO - This process is complete
+2017-01-31 14:37:51,917  - INFO - This process is complete
+2017-01-31 14:37:53,281  - INFO - This process is complete
+2017-01-31 14:37:53,448  - INFO - This process is complete
+2017-01-31 14:37:53,902  - INFO - This process is complete
+2017-01-31 14:37:54,848  - INFO - This process is complete
+2017-01-31 14:37:55,988  - INFO - This process is complete
+2017-01-31 14:37:56,795  - INFO - This process is complete
+2017-01-31 14:37:57,408  - INFO - This process is complete
+2017-01-31 14:38:03,726  - INFO - This process is complete
+2017-01-31 14:38:03,919  - INFO - This process is complete
+2017-01-31 14:38:07,649  - INFO - This process is complete
+2017-01-31 14:38:10,685  - INFO - This process is complete
+2017-01-31 14:38:12,472  - INFO - This process is complete
+2017-01-31 14:38:15,903  - INFO - This process is complete
+2017-01-31 14:38:16,644  - INFO - This process is complete
+2017-01-31 14:38:18,628  - INFO - This process is complete
+2017-01-31 14:38:20,401  - INFO - This process is complete
+2017-01-31 14:38:22,814  - INFO - This process is complete
+2017-01-31 14:38:25,829  - INFO - This process is complete
+2017-01-31 14:38:33,075  - INFO - This process is complete
+2017-01-31 14:38:39,451  - INFO - This process is complete
+2017-01-31 14:38:46,967  - INFO - This process is complete
+2017-01-31 14:38:58,282  - INFO - This process is complete
+2017-01-31 14:38:59,733  - INFO - This process is complete
+2017-01-31 14:39:01,062  - INFO - This process is complete
+2017-01-31 14:39:12,078  - INFO - This process is complete
+2017-01-31 14:39:12,389  - INFO - This process is complete
+2017-01-31 14:39:14,144  - INFO - This process is complete
+2017-01-31 14:39:17,817  - INFO - This process is complete
+2017-01-31 14:39:17,983  - INFO - This process is complete
+2017-01-31 14:39:24,660  - INFO - This process is complete
+2017-01-31 14:39:30,217  - INFO - This process is complete
+2017-01-31 14:39:44,787  - INFO - This process is complete
+2017-01-31 14:39:56,738  - INFO - This process is complete
+2017-01-31 14:39:57,319  - INFO - This process is complete
+2017-01-31 14:39:58,206  - INFO - This process is complete
+2017-01-31 14:40:01,246  - INFO - This process is complete
+2017-01-31 14:40:34,807  - INFO - This process is complete
+2017-01-31 14:40:43,025  - INFO - This process is complete
+2017-01-31 14:40:54,529  - INFO - This process is complete
+2017-01-31 14:41:17,947  - INFO - This process is complete
+2017-01-31 14:41:36,871  - INFO - This process is complete
+2017-01-31 14:41:40,753  - INFO - This process is complete
+2017-01-31 14:41:47,303  - INFO - This process is complete
+2017-01-31 14:42:08,869  - INFO - This process is complete
+2017-01-31 14:42:20,263  - INFO - This process is complete
+2017-01-31 14:42:49,654  - INFO - This process is complete
+2017-01-31 14:43:43,493  - INFO - This process is complete
+2017-01-31 14:44:00,567  - INFO - This process is complete
+2017-01-31 14:46:19,201  - INFO - This process is complete
+2017-01-31 14:47:15,868  - INFO - This process is complete
+2017-01-31 14:47:16,776  - INFO - doing aggregation to create a single Keyreport file
+2017-01-31 14:47:27,395  - INFO - Keyreport file is present,so skipping creation
+2017-01-31 14:47:29,481  - ERROR - Keyword file is not present
+Traceback (most recent call last):
+  File "test_bak.py", line 17, in keywordparser
+    f=open("%s/keywords.txt"%filepath,"r")
+IOError: [Errno 2] No such file or directory: '/home/shubham/Desktop/Documents/Documents_Media/keywords.txt'
+2017-01-31 14:54:54,148  - INFO - Clearing previous csv and xlsx files
+2017-01-31 14:54:54,154  - INFO - starting for daily report
+2017-01-31 14:54:54,154  - INFO - Keyreport file is present,so skipping creation
+2017-01-31 14:55:31,929  - INFO - inside daily loop
+2017-01-31 14:55:31,953  - INFO - Data file for 9 partition is created
+2017-01-31 14:55:31,963  - INFO - This process 9 is complete
+2017-01-31 14:56:20,937  - INFO - inside daily loop
+2017-01-31 14:56:20,940  - INFO - starting for ibm transform customer experience keyword
+2017-01-31 14:56:20,956  - INFO - keyword,account_count,account_count,cost are ibm transform customer experience,1,2,0.0
+2017-01-31 14:56:21,014  - INFO - Data file for 6 partition is created
+2017-01-31 14:56:21,018  - INFO - This process 6 is complete
+2017-01-31 14:56:21,110  - INFO - inside daily loop
+2017-01-31 14:56:21,140  - INFO - starting for digital reinvention keyword
+2017-01-31 14:56:21,145  - INFO - keyword,account_count,account_count,cost are digital reinvention,3,7,14.64
+2017-01-31 14:56:21,162  - INFO - starting for digital reinvention solutions keyword
+2017-01-31 14:56:21,167  - INFO - keyword,account_count,account_count,cost are digital reinvention solutions,1,2,0.0
+2017-01-31 14:56:21,198  - INFO - Data file for 2 partition is created
+2017-01-31 14:56:21,215  - INFO - This process 2 is complete
+2017-01-31 14:56:21,248  - INFO - inside daily loop
+2017-01-31 14:56:21,256  - INFO - starting for transforming customer experience keyword
+2017-01-31 14:56:21,272  - INFO - keyword,account_count,account_count,cost are transforming customer experience,1,2,0.0
+2017-01-31 14:56:21,275  - INFO - starting for customer experience analytics keyword
+2017-01-31 14:56:21,277  - INFO - keyword,account_count,account_count,cost are customer experience analytics,5,14,0.0
+2017-01-31 14:56:21,283  - INFO - starting for digital reinvention strategy keyword
+2017-01-31 14:56:21,306  - INFO - keyword,account_count,account_count,cost are digital reinvention strategy,1,2,0.0
+2017-01-31 14:56:21,387  - INFO - Data file for 4 partition is created
+2017-01-31 14:56:21,387  - INFO - This process 4 is complete
+2017-01-31 14:56:21,453  - INFO - inside daily loop
+2017-01-31 14:56:21,460  - INFO - starting for ibm enhanced customer experience keyword
+2017-01-31 14:56:21,463  - INFO - keyword,account_count,account_count,cost are ibm enhanced customer experience,1,2,0.0
+2017-01-31 14:56:21,463  - INFO - starting for transform customer experience keyword
+2017-01-31 14:56:21,474  - INFO - keyword,account_count,account_count,cost are transform customer experience,1,2,6.16
+2017-01-31 14:56:21,474  - INFO - starting for ibm advanced predictive analytics keyword
+2017-01-31 14:56:21,495  - INFO - keyword,account_count,account_count,cost are ibm advanced predictive analytics,4,14,0.0
+2017-01-31 14:56:21,569  - INFO - Data file for 3 partition is created
+2017-01-31 14:56:21,569  - INFO - This process 3 is complete
+2017-01-31 14:56:21,889  - INFO - inside daily loop
+2017-01-31 14:56:21,890  - INFO - starting for ibm cognitive business solutions keyword
+2017-01-31 14:56:21,895  - INFO - keyword,account_count,account_count,cost are ibm cognitive business solutions,1,7,2.34
+2017-01-31 14:56:21,895  - INFO - starting for improve employee engagement keyword
+2017-01-31 14:56:21,898  - INFO - keyword,account_count,account_count,cost are improve employee engagement,1,2,0.0
+2017-01-31 14:56:21,919  - INFO - Data file for 0 partition is created
+2017-01-31 14:56:21,919  - INFO - This process 0 is complete
+2017-01-31 14:56:22,341  - INFO - inside daily loop
+2017-01-31 14:56:22,344  - INFO - starting for ibm improve employee engagement keyword
+2017-01-31 14:56:22,347  - INFO - keyword,account_count,account_count,cost are ibm improve employee engagement,1,2,0.0
+2017-01-31 14:56:22,348  - INFO - starting for ibm digital reinvention keyword
+2017-01-31 14:56:22,350  - INFO - keyword,account_count,account_count,cost are ibm digital reinvention,1,2,0.0
+2017-01-31 14:56:22,350  - INFO - starting for ibm customer experience analytics keyword
+2017-01-31 14:56:22,357  - INFO - keyword,account_count,account_count,cost are ibm customer experience analytics,4,12,24.13
+2017-01-31 14:56:22,402  - INFO - Data file for 1 partition is created
+2017-01-31 14:56:22,402  - INFO - This process 1 is complete
+2017-01-31 14:56:22,478  - INFO - inside daily loop
+2017-01-31 14:56:22,480  - INFO - starting for enhanced customer experience keyword
+2017-01-31 14:56:22,483  - INFO - keyword,account_count,account_count,cost are enhanced customer experience,1,2,0.0
+2017-01-31 14:56:22,483  - INFO - starting for smarter commerce solutions keyword
+2017-01-31 14:56:22,485  - INFO - keyword,account_count,account_count,cost are smarter commerce solutions,1,1,0.0
+2017-01-31 14:56:22,498  - INFO - Data file for 5 partition is created
+2017-01-31 14:56:22,498  - INFO - This process 5 is complete
+2017-01-31 14:56:22,725  - INFO - inside daily loop
+2017-01-31 14:56:22,726  - INFO - starting for cognitive business solutions keyword
+2017-01-31 14:56:22,731  - INFO - keyword,account_count,account_count,cost are cognitive business solutions,1,8,0.0
+2017-01-31 14:56:22,749  - INFO - Data file for 8 partition is created
+2017-01-31 14:56:22,749  - INFO - This process 8 is complete
+2017-01-31 14:56:22,823  - INFO - inside daily loop
+2017-01-31 14:56:22,825  - INFO - starting for advanced predictive analytics keyword
+2017-01-31 14:56:22,827  - INFO - keyword,account_count,account_count,cost are advanced predictive analytics,5,104,8.46
+2017-01-31 14:56:22,828  - INFO - starting for ibm smarter commerce solutions keyword
+2017-01-31 14:56:22,830  - INFO - keyword,account_count,account_count,cost are ibm smarter commerce solutions,1,1,0.0
+2017-01-31 14:56:22,865  - INFO - Data file for 7 partition is created
+2017-01-31 14:56:22,865  - INFO - This process 7 is complete
+2017-01-31 14:56:23,576  - INFO - Starting aggregation
+2017-01-31 15:14:49,390  - INFO - Clearing previous csv and xlsx files
+2017-01-31 15:14:49,394  - INFO - starting for daily report
+2017-01-31 15:14:49,394  - INFO - Keyreport file is present,so skipping creation
+2017-01-31 15:15:11,931  - INFO - inside daily loop
+2017-01-31 15:15:11,974  - INFO - Data file for 9 partition is created
+2017-01-31 15:15:11,978  - INFO - This process 9 is complete
+2017-01-31 15:17:19,341  - INFO - inside daily loop
+2017-01-31 15:17:19,345  - INFO - starting for mobility services keyword
+2017-01-31 15:17:19,355  - INFO - keyword,account_count,account_count,cost are mobility services,6,34,209.85
+2017-01-31 15:17:19,356  - INFO - starting for ibm systems services keyword
+2017-01-31 15:17:19,358  - INFO - keyword,account_count,account_count,cost are ibm systems services,3,18,0.0
+2017-01-31 15:17:19,363  - INFO - starting for mac managed mobility services keyword
+2017-01-31 15:17:19,367  - INFO - keyword,account_count,account_count,cost are mac managed mobility services,5,23,0.0
+2017-01-31 15:17:19,374  - INFO - starting for mobile infrastructure consulting services keyword
+2017-01-31 15:17:19,377  - INFO - keyword,account_count,account_count,cost are mobile infrastructure consulting services,5,22,0.0
+2017-01-31 15:17:19,587  - INFO - Data file for 2 partition is created
+2017-01-31 15:17:19,587  - INFO - This process 2 is complete
+2017-01-31 15:17:22,507  - INFO - inside daily loop
+2017-01-31 15:17:22,509  - INFO - starting for resiliency consulting keyword
+2017-01-31 15:17:22,512  - INFO - keyword,account_count,account_count,cost are resiliency consulting,5,40,0.0
+2017-01-31 15:17:22,513  - INFO - starting for data center services keyword
+2017-01-31 15:17:22,515  - INFO - keyword,account_count,account_count,cost are data center services,5,41,98.92
+2017-01-31 15:17:22,516  - INFO - starting for ibm business continuity services keyword
+2017-01-31 15:17:22,519  - INFO - keyword,account_count,account_count,cost are ibm business continuity services,5,32,0.0
+2017-01-31 15:17:22,644  - INFO - Data file for 0 partition is created
+2017-01-31 15:17:22,644  - INFO - This process 0 is complete
+2017-01-31 15:17:23,101  - INFO - inside daily loop
+2017-01-31 15:17:23,103  - INFO - starting for ibm software defined networking keyword
+2017-01-31 15:17:23,110  - INFO - keyword,account_count,account_count,cost are ibm software defined networking,6,35,0.0
+2017-01-31 15:17:23,111  - INFO - inside daily loop
+2017-01-31 15:17:23,113  - INFO - starting for ibm managed mobility services keyword
+2017-01-31 15:17:23,113  - INFO - starting for business continuity management keyword
+2017-01-31 15:17:23,117  - INFO - keyword,account_count,account_count,cost are business continuity management,5,75,8.66
+2017-01-31 15:17:23,118  - INFO - starting for ibm disaster recovery service keyword
+2017-01-31 15:17:23,120  - INFO - keyword,account_count,account_count,cost are ibm disaster recovery service,5,28,0.0
+2017-01-31 15:17:23,120  - INFO - keyword,account_count,account_count,cost are ibm managed mobility services,6,29,4.1
+2017-01-31 15:17:23,121  - INFO - starting for ibm resiliency consulting keyword
+2017-01-31 15:17:23,121  - INFO - starting for ibm programmable networking services keyword
+2017-01-31 15:17:23,124  - INFO - keyword,account_count,account_count,cost are ibm programmable networking services,5,1,0.0
+2017-01-31 15:17:23,124  - INFO - starting for ibm resiliency consulting services keyword
+2017-01-31 15:17:23,127  - INFO - keyword,account_count,account_count,cost are ibm resiliency consulting services,4,24,0.0
+2017-01-31 15:17:23,128  - INFO - keyword,account_count,account_count,cost are ibm resiliency consulting,5,40,0.0
+2017-01-31 15:17:23,128  - INFO - starting for ibm managed services keyword
+2017-01-31 15:17:23,136  - INFO - keyword,account_count,account_count,cost are ibm managed services,5,64,20.21
+2017-01-31 15:17:23,136  - INFO - starting for ibm mobility infrastructure services keyword
+2017-01-31 15:17:23,143  - INFO - keyword,account_count,account_count,cost are ibm mobility infrastructure services,5,2,0.0
+2017-01-31 15:17:23,143  - INFO - starting for mobile device procurement keyword
+2017-01-31 15:17:23,146  - INFO - keyword,account_count,account_count,cost are mobile device procurement,5,22,1.01
+2017-01-31 15:17:23,146  - INFO - starting for multinetwork services keyword
+2017-01-31 15:17:23,153  - INFO - keyword,account_count,account_count,cost are multinetwork services,5,1,0.0
+2017-01-31 15:17:23,153  - INFO - starting for ibm business continuity management keyword
+2017-01-31 15:17:23,163  - INFO - keyword,account_count,account_count,cost are ibm business continuity management,5,61,0.0
+2017-01-31 15:17:23,296  - INFO - Data file for 6 partition is created
+2017-01-31 15:17:23,307  - INFO - This process 6 is complete
+2017-01-31 15:17:23,347  - INFO - inside daily loop
+2017-01-31 15:17:23,353  - INFO - starting for business continuity services keyword
+2017-01-31 15:17:23,367  - INFO - keyword,account_count,account_count,cost are business continuity services,5,32,22.46
+2017-01-31 15:17:23,367  - INFO - starting for ibm network communication service keyword
+2017-01-31 15:17:23,370  - INFO - keyword,account_count,account_count,cost are ibm network communication service,5,21,0.0
+2017-01-31 15:17:23,370  - INFO - starting for ibm device procurement keyword
+2017-01-31 15:17:23,373  - INFO - keyword,account_count,account_count,cost are ibm device procurement,5,22,0.0
+2017-01-31 15:17:23,373  - INFO - starting for mobility infrastructure services keyword
+2017-01-31 15:17:23,376  - INFO - keyword,account_count,account_count,cost are mobility infrastructure services,5,24,0.0
+2017-01-31 15:17:23,387  - INFO - starting for cloud networking services keyword
+2017-01-31 15:17:23,390  - INFO - keyword,account_count,account_count,cost are cloud networking services,5,21,0.0
+2017-01-31 15:17:23,390  - INFO - starting for resiliency consulting services keyword
+2017-01-31 15:17:23,393  - INFO - keyword,account_count,account_count,cost are resiliency consulting services,4,24,0.0
+2017-01-31 15:17:23,393  - INFO - starting for mobility services management keyword
+2017-01-31 15:17:23,396  - INFO - keyword,account_count,account_count,cost are mobility services management,5,21,0.0
+2017-01-31 15:17:23,406  - INFO - starting for ibm resiliency communications keyword
+2017-01-31 15:17:23,409  - INFO - keyword,account_count,account_count,cost are ibm resiliency communications,5,3,0.0
+2017-01-31 15:17:23,410  - INFO - starting for managed mobility services keyword
+2017-01-31 15:17:23,413  - INFO - keyword,account_count,account_count,cost are managed mobility services,6,50,22.32
+2017-01-31 15:17:23,499  - INFO - Data file for 3 partition is created
+2017-01-31 15:17:23,500  - INFO - This process 3 is complete
+2017-01-31 15:17:23,702  - INFO - Data file for 4 partition is created
+2017-01-31 15:17:23,702  - INFO - This process 4 is complete
+2017-01-31 15:17:23,866  - INFO - inside daily loop
+2017-01-31 15:17:23,867  - INFO - starting for ibm network consulting strategy keyword
+2017-01-31 15:17:23,872  - INFO - keyword,account_count,account_count,cost are ibm network consulting strategy,5,22,0.0
+2017-01-31 15:17:23,872  - INFO - starting for technology support services keyword
+2017-01-31 15:17:23,875  - INFO - keyword,account_count,account_count,cost are technology support services,5,23,8.42
+2017-01-31 15:17:23,876  - INFO - starting for ibm technology support services keyword
+2017-01-31 15:17:23,880  - INFO - keyword,account_count,account_count,cost are ibm technology support services,5,23,0.0
+2017-01-31 15:17:23,880  - INFO - starting for software defined networking keyword
+2017-01-31 15:17:23,883  - INFO - keyword,account_count,account_count,cost are software defined networking,6,35,180.75
+2017-01-31 15:17:23,884  - INFO - starting for resiliency services keyword
+2017-01-31 15:17:23,886  - INFO - keyword,account_count,account_count,cost are resiliency services,5,43,0.26
+2017-01-31 15:17:24,014  - INFO - Data file for 5 partition is created
+2017-01-31 15:17:24,015  - INFO - This process 5 is complete
+2017-01-31 15:17:24,080  - INFO - inside daily loop
+2017-01-31 15:17:24,082  - INFO - starting for ibm resiliency services keyword
+2017-01-31 15:17:24,086  - INFO - keyword,account_count,account_count,cost are ibm resiliency services,5,43,20.19
+2017-01-31 15:17:24,086  - INFO - starting for ibm resiliency communications management keyword
+2017-01-31 15:17:24,089  - INFO - keyword,account_count,account_count,cost are ibm resiliency communications management,5,2,0.0
+2017-01-31 15:17:24,089  - INFO - starting for resiliency backup service keyword
+2017-01-31 15:17:24,094  - INFO - keyword,account_count,account_count,cost are resiliency backup service,5,22,0.0
+2017-01-31 15:17:24,094  - INFO - starting for ibm managed continuity services keyword
+2017-01-31 15:17:24,096  - INFO - keyword,account_count,account_count,cost are ibm managed continuity services,5,22,0.0
+2017-01-31 15:17:24,147  - INFO - Data file for 7 partition is created
+2017-01-31 15:17:24,148  - INFO - This process 7 is complete
+2017-01-31 15:17:24,247  - INFO - inside daily loop
+2017-01-31 15:17:24,248  - INFO - starting for managed network services keyword
+2017-01-31 15:17:24,251  - INFO - keyword,account_count,account_count,cost are managed network services,5,29,0.0
+2017-01-31 15:17:24,251  - INFO - starting for resiliency communications keyword
+2017-01-31 15:17:24,253  - INFO - keyword,account_count,account_count,cost are resiliency communications,5,3,0.0
+2017-01-31 15:17:24,253  - INFO - starting for ibm cloud networking keyword
+2017-01-31 15:17:24,255  - INFO - keyword,account_count,account_count,cost are ibm cloud networking,5,25,0.0
+2017-01-31 15:17:24,255  - INFO - starting for ibm cloud networking services keyword
+2017-01-31 15:17:24,256  - INFO - keyword,account_count,account_count,cost are ibm cloud networking services,5,21,0.0
+2017-01-31 15:17:24,257  - INFO - starting for programmable networking services keyword
+2017-01-31 15:17:24,258  - INFO - keyword,account_count,account_count,cost are programmable networking services,5,1,0.0
+2017-01-31 15:17:24,258  - INFO - starting for device procurement keyword
+2017-01-31 15:17:24,260  - INFO - keyword,account_count,account_count,cost are device procurement,1,1,0.0
+2017-01-31 15:17:24,260  - INFO - starting for systems services keyword
+2017-01-31 15:17:24,262  - INFO - keyword,account_count,account_count,cost are systems services,3,18,0.0
+2017-01-31 15:17:24,262  - INFO - starting for managed network analytics keyword
+2017-01-31 15:17:24,264  - INFO - keyword,account_count,account_count,cost are managed network analytics,5,1,0.0
+2017-01-31 15:17:24,264  - INFO - starting for managed services keyword
+2017-01-31 15:17:24,266  - INFO - keyword,account_count,account_count,cost are managed services,5,63,1925.31
+2017-01-31 15:17:24,266  - INFO - starting for automate network management keyword
+2017-01-31 15:17:24,268  - INFO - keyword,account_count,account_count,cost are automate network management,5,22,0.0
+2017-01-31 15:17:24,379  - INFO - inside daily loop
+2017-01-31 15:17:24,380  - INFO - starting for disaster recovery service keyword
+2017-01-31 15:17:24,383  - INFO - Data file for 1 partition is created
+2017-01-31 15:17:24,383  - INFO - This process 1 is complete
+2017-01-31 15:17:24,383  - INFO - keyword,account_count,account_count,cost are disaster recovery service,5,28,0.0
+2017-01-31 15:17:24,383  - INFO - starting for ibm mobility services keyword
+2017-01-31 15:17:24,385  - INFO - keyword,account_count,account_count,cost are ibm mobility services,6,36,0.0
+2017-01-31 15:17:24,385  - INFO - starting for ibm data center services keyword
+2017-01-31 15:17:24,388  - INFO - keyword,account_count,account_count,cost are ibm data center services,5,41,0.0
+2017-01-31 15:17:24,388  - INFO - starting for ibm mac managed mobility services keyword
+2017-01-31 15:17:24,390  - INFO - keyword,account_count,account_count,cost are ibm mac managed mobility services,5,23,0.0
+2017-01-31 15:17:24,390  - INFO - starting for resiliency communications management keyword
+2017-01-31 15:17:24,392  - INFO - keyword,account_count,account_count,cost are resiliency communications management,5,2,0.0
+2017-01-31 15:17:24,392  - INFO - starting for ibm multinetwork services keyword
+2017-01-31 15:17:24,394  - INFO - keyword,account_count,account_count,cost are ibm multinetwork services,5,1,0.0
+2017-01-31 15:17:24,394  - INFO - starting for network communication service keyword
+2017-01-31 15:17:24,396  - INFO - keyword,account_count,account_count,cost are network communication service,5,21,0.0
+2017-01-31 15:17:24,396  - INFO - starting for cloud networking keyword
+2017-01-31 15:17:24,398  - INFO - keyword,account_count,account_count,cost are cloud networking,5,25,34.87
+2017-01-31 15:17:24,399  - INFO - starting for ibm managed network analytics keyword
+2017-01-31 15:17:24,400  - INFO - keyword,account_count,account_count,cost are ibm managed network analytics,5,1,0.0
+2017-01-31 15:17:24,473  - INFO - Data file for 8 partition is created
+2017-01-31 15:17:24,473  - INFO - This process 8 is complete
+2017-01-31 15:17:25,106  - INFO - Starting aggregation
+2017-01-31 15:19:57,140  - INFO - Clearing previous csv and xlsx files
+2017-01-31 15:19:57,144  - INFO - starting for daily report
+2017-01-31 15:19:57,144  - INFO - Keyreport file is present,so skipping creation
+2017-01-31 15:20:11,603  - INFO - inside daily loop
+2017-01-31 15:20:11,613  - INFO - starting for text analysis keyword
+2017-01-31 15:20:11,619  - INFO - keyword,account_count,account_count,cost are text analysis,2,6,0.0
+2017-01-31 15:20:11,668  - INFO - Data file for 9 partition is created
+2017-01-31 15:20:11,669  - INFO - This process 9 is complete
+2017-01-31 15:21:08,909  - INFO - inside daily loop
+2017-01-31 15:21:08,910  - INFO - starting for ibm watson keyword extraction keyword
+2017-01-31 15:21:08,918  - INFO - keyword,account_count,account_count,cost are ibm watson keyword extraction,2,9,0.0
+2017-01-31 15:21:08,955  - INFO - Data file for 8 partition is created
+2017-01-31 15:21:08,962  - INFO - This process 8 is complete
+2017-01-31 15:21:09,040  - INFO - inside daily loop
+2017-01-31 15:21:09,041  - INFO - starting for ibm watson sentiment analysis keyword
+2017-01-31 15:21:09,053  - INFO - keyword,account_count,account_count,cost are ibm watson sentiment analysis,2,9,1.73
+2017-01-31 15:21:09,054  - INFO - starting for watson developer cloud keyword
+2017-01-31 15:21:09,057  - INFO - keyword,account_count,account_count,cost are watson developer cloud,3,10,122.26
+2017-01-31 15:21:09,064  - INFO - starting for watson sentiment analysis keyword
+2017-01-31 15:21:09,069  - INFO - keyword,account_count,account_count,cost are watson sentiment analysis,2,16,6.8
+2017-01-31 15:21:09,171  - INFO - Data file for 1 partition is created
+2017-01-31 15:21:09,171  - INFO - This process 1 is complete
+2017-01-31 15:21:09,749  - INFO - inside daily loop
+2017-01-31 15:21:09,750  - INFO - starting for watson relationship extraction keyword
+2017-01-31 15:21:09,754  - INFO - keyword,account_count,account_count,cost are watson relationship extraction,2,10,0.0
+2017-01-31 15:21:09,761  - INFO - starting for ibm watson relationship extraction keyword
+2017-01-31 15:21:09,764  - INFO - keyword,account_count,account_count,cost are ibm watson relationship extraction,2,6,0.0
+2017-01-31 15:21:09,826  - INFO - Data file for 4 partition is created
+2017-01-31 15:21:09,828  - INFO - This process 4 is complete
+2017-01-31 15:21:10,271  - INFO - inside daily loop
+2017-01-31 15:21:10,273  - INFO - starting for watson cloud api keyword
+2017-01-31 15:21:10,277  - INFO - keyword,account_count,account_count,cost are watson cloud api,1,1,0.0
+2017-01-31 15:21:10,289  - INFO - Data file for 0 partition is created
+2017-01-31 15:21:10,289  - INFO - This process 0 is complete
+2017-01-31 15:21:10,408  - INFO - inside daily loop
+2017-01-31 15:21:10,409  - INFO - starting for watson entity extraction keyword
+2017-01-31 15:21:10,413  - INFO - keyword,account_count,account_count,cost are watson entity extraction,2,13,3.39
+2017-01-31 15:21:10,413  - INFO - starting for ibm watson entity extraction keyword
+2017-01-31 15:21:10,416  - INFO - keyword,account_count,account_count,cost are ibm watson entity extraction,2,6,0.0
+2017-01-31 15:21:10,416  - INFO - starting for ibm watson cognitive services keyword
+2017-01-31 15:21:10,420  - INFO - keyword,account_count,account_count,cost are ibm watson cognitive services,2,4,0.0
+2017-01-31 15:21:10,459  - INFO - Data file for 3 partition is created
+2017-01-31 15:21:10,459  - INFO - This process 3 is complete
+2017-01-31 15:21:10,652  - INFO - inside daily loop
+2017-01-31 15:21:10,654  - INFO - starting for watson keyword extraction keyword
+2017-01-31 15:21:10,657  - INFO - keyword,account_count,account_count,cost are watson keyword extraction,2,7,2.39
+2017-01-31 15:21:10,658  - INFO - starting for ibm text analysis keyword
+2017-01-31 15:21:10,661  - INFO - keyword,account_count,account_count,cost are ibm text analysis,1,6,0.0
+2017-01-31 15:21:10,661  - INFO - starting for ibm watson text analysis keyword
+2017-01-31 15:21:10,665  - INFO - keyword,account_count,account_count,cost are ibm watson text analysis,1,6,0.0
+2017-01-31 15:21:10,697  - INFO - Data file for 7 partition is created
+2017-01-31 15:21:10,698  - INFO - This process 7 is complete
+2017-01-31 15:21:10,707  - INFO - inside daily loop
+2017-01-31 15:21:10,709  - INFO - starting for watson text analysis keyword
+2017-01-31 15:21:10,717  - INFO - keyword,account_count,account_count,cost are watson text analysis,1,6,0.0
+2017-01-31 15:21:10,717  - INFO - starting for watson cognitive computing keyword
+2017-01-31 15:21:10,721  - INFO - keyword,account_count,account_count,cost are watson cognitive computing,7,23,11.01
+2017-01-31 15:21:10,722  - INFO - starting for watson cognitive services keyword
+2017-01-31 15:21:10,727  - INFO - inside daily loop
+2017-01-31 15:21:10,729  - INFO - starting for ibm watson cloud keyword
+2017-01-31 15:21:10,731  - INFO - keyword,account_count,account_count,cost are watson cognitive services,2,4,0.0
+2017-01-31 15:21:10,733  - INFO - keyword,account_count,account_count,cost are ibm watson cloud,2,2,0.0
+2017-01-31 15:21:10,733  - INFO - starting for text analysis solutions keyword
+2017-01-31 15:21:10,737  - INFO - keyword,account_count,account_count,cost are text analysis solutions,1,1,0.0
+2017-01-31 15:21:10,737  - INFO - starting for watson developer api keyword
+2017-01-31 15:21:10,740  - INFO - keyword,account_count,account_count,cost are watson developer api,1,1,0.0
+2017-01-31 15:21:10,761  - INFO - Data file for 6 partition is created
+2017-01-31 15:21:10,761  - INFO - This process 6 is complete
+2017-01-31 15:21:10,778  - INFO - Data file for 2 partition is created
+2017-01-31 15:21:10,778  - INFO - This process 2 is complete
+2017-01-31 15:21:10,893  - INFO - inside daily loop
+2017-01-31 15:21:10,894  - INFO - starting for ibm watson developer cloud keyword
+2017-01-31 15:21:10,897  - INFO - keyword,account_count,account_count,cost are ibm watson developer cloud,3,8,20.68
+2017-01-31 15:21:10,897  - INFO - starting for ibm watson cognitive computing keyword
+2017-01-31 15:21:10,899  - INFO - keyword,account_count,account_count,cost are ibm watson cognitive computing,1,14,6.66
+2017-01-31 15:21:10,900  - INFO - starting for watson cloud keyword
+2017-01-31 15:21:10,901  - INFO - keyword,account_count,account_count,cost are watson cloud,2,2,0.0
+2017-01-31 15:21:10,925  - INFO - Data file for 5 partition is created
+2017-01-31 15:21:10,925  - INFO - This process 5 is complete
+2017-01-31 15:21:11,592  - INFO - Starting aggregation
+2017-01-31 15:24:00,569  - INFO - Clearing previous csv and xlsx files
+2017-01-31 15:24:00,573  - INFO - starting for daily report
+2017-01-31 15:24:00,573  - INFO - Keyreport file is present,so skipping creation
+2017-01-31 15:24:38,409  - INFO - inside daily loop
+2017-01-31 15:24:38,456  - INFO - Data file for 9 partition is created
+2017-01-31 15:24:38,456  - INFO - This process 9 is complete
+2017-01-31 15:25:49,239  - INFO - inside daily loop
+2017-01-31 15:25:49,240  - INFO - starting for online banking protection keyword
+2017-01-31 15:25:49,262  - INFO - keyword,account_count,account_count,cost are online banking protection,1,2,0.0
+2017-01-31 15:25:49,288  - INFO - Data file for 0 partition is created
+2017-01-31 15:25:49,303  - INFO - This process 0 is complete
+2017-01-31 15:25:49,724  - INFO - inside daily loop
+2017-01-31 15:25:49,725  - INFO - starting for financial crimes management keyword
+2017-01-31 15:25:49,734  - INFO - keyword,account_count,account_count,cost are financial crimes management,1,4,0.0
+2017-01-31 15:25:49,734  - INFO - starting for digital banking services keyword
+2017-01-31 15:25:49,741  - INFO - keyword,account_count,account_count,cost are digital banking services,1,1,11.5
+2017-01-31 15:25:49,767  - INFO - Data file for 5 partition is created
+2017-01-31 15:25:49,767  - INFO - This process 5 is complete
+2017-01-31 15:25:50,444  - INFO - inside daily loop
+2017-01-31 15:25:50,448  - INFO - starting for banking fraud prevention keyword
+2017-01-31 15:25:50,459  - INFO - keyword,account_count,account_count,cost are banking fraud prevention,1,2,8.37
+2017-01-31 15:25:50,460  - INFO - starting for ibm financial crimes management keyword
+2017-01-31 15:25:50,464  - INFO - keyword,account_count,account_count,cost are ibm financial crimes management,1,4,0.0
+2017-01-31 15:25:50,465  - INFO - starting for ibm online banking protection keyword
+2017-01-31 15:25:50,475  - INFO - keyword,account_count,account_count,cost are ibm online banking protection,1,2,0.0
+2017-01-31 15:25:50,517  - INFO - Data file for 6 partition is created
+2017-01-31 15:25:50,522  - INFO - This process 6 is complete
+2017-01-31 15:25:50,828  - INFO - inside daily loop
+2017-01-31 15:25:50,838  - INFO - Data file for 8 partition is created
+2017-01-31 15:25:50,838  - INFO - This process 8 is complete
+2017-01-31 15:25:50,923  - INFO - inside daily loop
+2017-01-31 15:25:50,925  - INFO - starting for online banking transformation keyword
+2017-01-31 15:25:50,928  - INFO - keyword,account_count,account_count,cost are online banking transformation,1,1,0.0
+2017-01-31 15:25:50,928  - INFO - starting for ibm cognitive banking system keyword
+2017-01-31 15:25:50,931  - INFO - keyword,account_count,account_count,cost are ibm cognitive banking system,1,3,0.0
+2017-01-31 15:25:50,948  - INFO - Data file for 2 partition is created
+2017-01-31 15:25:50,948  - INFO - This process 2 is complete
+2017-01-31 15:25:51,400  - INFO - inside daily loop
+2017-01-31 15:25:51,410  - INFO - Data file for 1 partition is created
+2017-01-31 15:25:51,410  - INFO - This process 1 is complete
+2017-01-31 15:25:51,708  - INFO - inside daily loop
+2017-01-31 15:25:51,709  - INFO - starting for ibm financial crimes prevention keyword
+2017-01-31 15:25:51,712  - INFO - keyword,account_count,account_count,cost are ibm financial crimes prevention,1,4,0.0
+2017-01-31 15:25:51,722  - INFO - Data file for 3 partition is created
+2017-01-31 15:25:51,723  - INFO - This process 3 is complete
+2017-01-31 15:25:51,746  - INFO - inside daily loop
+2017-01-31 15:25:51,748  - INFO - starting for financial crimes prevention keyword
+2017-01-31 15:25:51,751  - INFO - keyword,account_count,account_count,cost are financial crimes prevention,1,4,0.0
+2017-01-31 15:25:51,751  - INFO - starting for ibm mobile banking payments keyword
+2017-01-31 15:25:51,754  - INFO - keyword,account_count,account_count,cost are ibm mobile banking payments,1,2,0.0
+2017-01-31 15:25:51,754  - INFO - starting for online banking services keyword
+2017-01-31 15:25:51,756  - INFO - keyword,account_count,account_count,cost are online banking services,1,1,91.7
+2017-01-31 15:25:51,757  - INFO - starting for ibm banking fraud prevention keyword
+2017-01-31 15:25:51,759  - INFO - keyword,account_count,account_count,cost are ibm banking fraud prevention,1,4,0.0
+2017-01-31 15:25:51,773  - INFO - Data file for 4 partition is created
+2017-01-31 15:25:51,773  - INFO - This process 4 is complete
+2017-01-31 15:25:52,057  - INFO - inside daily loop
+2017-01-31 15:25:52,058  - INFO - starting for cognitive banking system keyword
+2017-01-31 15:25:52,061  - INFO - keyword,account_count,account_count,cost are cognitive banking system,1,3,0.0
+2017-01-31 15:25:52,061  - INFO - starting for mobile banking payments keyword
+2017-01-31 15:25:52,063  - INFO - keyword,account_count,account_count,cost are mobile banking payments,1,2,0.0
+2017-01-31 15:25:52,075  - INFO - Data file for 7 partition is created
+2017-01-31 15:25:52,075  - INFO - This process 7 is complete
+2017-01-31 15:25:53,118  - INFO - Starting aggregation
+2017-01-31 15:28:29,698  - INFO - Clearing previous csv and xlsx files
+2017-01-31 15:28:29,702  - INFO - starting for daily report
+2017-01-31 15:28:29,702  - INFO - Keyreport file is present,so skipping creation
+2017-01-31 15:29:00,244  - INFO - inside daily loop
+2017-01-31 15:29:00,321  - INFO - Data file for 9 partition is created
+2017-01-31 15:29:00,322  - INFO - This process 9 is complete
+2017-01-31 15:30:59,211  - INFO - inside daily loop
+2017-01-31 15:30:59,213  - INFO - starting for ibm software defined networking keyword
+2017-01-31 15:30:59,231  - INFO - keyword,account_count,account_count,cost are ibm software defined networking,6,35,0.0
+2017-01-31 15:30:59,231  - INFO - starting for ibm managed mobility services keyword
+2017-01-31 15:30:59,234  - INFO - keyword,account_count,account_count,cost are ibm managed mobility services,6,29,4.1
+2017-01-31 15:30:59,237  - INFO - starting for ibm resiliency consulting keyword
+2017-01-31 15:30:59,257  - INFO - keyword,account_count,account_count,cost are ibm resiliency consulting,5,40,0.0
+2017-01-31 15:30:59,257  - INFO - starting for ibm mobility infrastructure services keyword
+2017-01-31 15:30:59,273  - INFO - keyword,account_count,account_count,cost are ibm mobility infrastructure services,5,2,0.0
+2017-01-31 15:30:59,273  - INFO - starting for mobile device procurement keyword
+2017-01-31 15:30:59,281  - INFO - keyword,account_count,account_count,cost are mobile device procurement,5,22,1.01
+2017-01-31 15:30:59,281  - INFO - starting for multinetwork services keyword
+2017-01-31 15:30:59,288  - INFO - keyword,account_count,account_count,cost are multinetwork services,5,1,0.0
+2017-01-31 15:30:59,289  - INFO - starting for ibm business continuity management keyword
+2017-01-31 15:30:59,291  - INFO - keyword,account_count,account_count,cost are ibm business continuity management,5,61,0.0
+2017-01-31 15:30:59,668  - INFO - Data file for 3 partition is created
+2017-01-31 15:30:59,687  - INFO - This process 3 is complete
+2017-01-31 15:31:01,867  - INFO - inside daily loop
+2017-01-31 15:31:01,868  - INFO - starting for managed network services keyword
+2017-01-31 15:31:01,874  - INFO - keyword,account_count,account_count,cost are managed network services,5,29,0.0
+2017-01-31 15:31:01,880  - INFO - starting for resiliency communications keyword
+2017-01-31 15:31:01,887  - INFO - keyword,account_count,account_count,cost are resiliency communications,5,3,0.0
+2017-01-31 15:31:01,888  - INFO - starting for ibm cloud networking keyword
+2017-01-31 15:31:01,896  - INFO - keyword,account_count,account_count,cost are ibm cloud networking,5,25,0.0
+2017-01-31 15:31:01,896  - INFO - starting for ibm cloud networking services keyword
+2017-01-31 15:31:01,902  - INFO - keyword,account_count,account_count,cost are ibm cloud networking services,5,21,0.0
+2017-01-31 15:31:01,904  - INFO - starting for programmable networking services keyword
+2017-01-31 15:31:01,912  - INFO - keyword,account_count,account_count,cost are programmable networking services,5,1,0.0
+2017-01-31 15:31:01,913  - INFO - starting for device procurement keyword
+2017-01-31 15:31:01,917  - INFO - keyword,account_count,account_count,cost are device procurement,1,1,0.0
+2017-01-31 15:31:01,922  - INFO - starting for systems services keyword
+2017-01-31 15:31:01,925  - INFO - keyword,account_count,account_count,cost are systems services,3,18,0.0
+2017-01-31 15:31:01,926  - INFO - starting for managed network analytics keyword
+2017-01-31 15:31:01,937  - INFO - keyword,account_count,account_count,cost are managed network analytics,5,1,0.0
+2017-01-31 15:31:01,938  - INFO - starting for managed services keyword
+2017-01-31 15:31:01,942  - INFO - keyword,account_count,account_count,cost are managed services,5,63,1925.31
+2017-01-31 15:31:01,946  - INFO - starting for automate network management keyword
+2017-01-31 15:31:01,950  - INFO - keyword,account_count,account_count,cost are automate network management,5,22,0.0
+2017-01-31 15:31:02,316  - INFO - Data file for 1 partition is created
+2017-01-31 15:31:02,316  - INFO - This process 1 is complete
+2017-01-31 15:31:02,436  - INFO - inside daily loop
+2017-01-31 15:31:02,444  - INFO - starting for disaster recovery service keyword
+2017-01-31 15:31:02,448  - INFO - keyword,account_count,account_count,cost are disaster recovery service,5,28,0.0
+2017-01-31 15:31:02,454  - INFO - starting for ibm mobility services keyword
+2017-01-31 15:31:02,468  - INFO - keyword,account_count,account_count,cost are ibm mobility services,6,36,0.0
+2017-01-31 15:31:02,468  - INFO - starting for ibm data center services keyword
+2017-01-31 15:31:02,473  - INFO - keyword,account_count,account_count,cost are ibm data center services,5,41,0.0
+2017-01-31 15:31:02,477  - INFO - starting for ibm mac managed mobility services keyword
+2017-01-31 15:31:02,488  - INFO - keyword,account_count,account_count,cost are ibm mac managed mobility services,5,23,0.0
+2017-01-31 15:31:02,488  - INFO - starting for resiliency communications management keyword
+2017-01-31 15:31:02,491  - INFO - keyword,account_count,account_count,cost are resiliency communications management,5,2,0.0
+2017-01-31 15:31:02,494  - INFO - starting for ibm multinetwork services keyword
+2017-01-31 15:31:02,500  - INFO - keyword,account_count,account_count,cost are ibm multinetwork services,5,1,0.0
+2017-01-31 15:31:02,502  - INFO - inside daily loop
+2017-01-31 15:31:02,509  - INFO - starting for resiliency consulting keyword
+2017-01-31 15:31:02,509  - INFO - starting for network communication service keyword
+2017-01-31 15:31:02,514  - INFO - keyword,account_count,account_count,cost are network communication service,5,21,0.0
+2017-01-31 15:31:02,529  - INFO - keyword,account_count,account_count,cost are resiliency consulting,5,40,0.0
+2017-01-31 15:31:02,529  - INFO - starting for data center services keyword
+2017-01-31 15:31:02,532  - INFO - keyword,account_count,account_count,cost are data center services,5,41,98.92
+2017-01-31 15:31:02,532  - INFO - starting for cloud networking keyword
+2017-01-31 15:31:02,535  - INFO - keyword,account_count,account_count,cost are cloud networking,5,25,34.87
+2017-01-31 15:31:02,535  - INFO - starting for ibm business continuity services keyword
+2017-01-31 15:31:02,537  - INFO - starting for ibm managed network analytics keyword
+2017-01-31 15:31:02,540  - INFO - keyword,account_count,account_count,cost are ibm managed network analytics,5,1,0.0
+2017-01-31 15:31:02,542  - INFO - keyword,account_count,account_count,cost are ibm business continuity services,5,32,0.0
+2017-01-31 15:31:02,648  - INFO - inside daily loop
+2017-01-31 15:31:02,650  - INFO - starting for business continuity services keyword
+2017-01-31 15:31:02,653  - INFO - keyword,account_count,account_count,cost are business continuity services,5,32,22.46
+2017-01-31 15:31:02,653  - INFO - starting for ibm network communication service keyword
+2017-01-31 15:31:02,672  - INFO - keyword,account_count,account_count,cost are ibm network communication service,5,21,0.0
+2017-01-31 15:31:02,672  - INFO - starting for ibm device procurement keyword
+2017-01-31 15:31:02,675  - INFO - keyword,account_count,account_count,cost are ibm device procurement,5,22,0.0
+2017-01-31 15:31:02,675  - INFO - starting for mobility infrastructure services keyword
+2017-01-31 15:31:02,679  - INFO - keyword,account_count,account_count,cost are mobility infrastructure services,5,24,0.0
+2017-01-31 15:31:02,679  - INFO - starting for cloud networking services keyword
+2017-01-31 15:31:02,682  - INFO - keyword,account_count,account_count,cost are cloud networking services,5,21,0.0
+2017-01-31 15:31:02,682  - INFO - starting for resiliency consulting services keyword
+2017-01-31 15:31:02,685  - INFO - keyword,account_count,account_count,cost are resiliency consulting services,4,24,0.0
+2017-01-31 15:31:02,685  - INFO - starting for mobility services management keyword
+2017-01-31 15:31:02,707  - INFO - keyword,account_count,account_count,cost are mobility services management,5,21,0.0
+2017-01-31 15:31:02,707  - INFO - starting for ibm resiliency communications keyword
+2017-01-31 15:31:02,711  - INFO - keyword,account_count,account_count,cost are ibm resiliency communications,5,3,0.0
+2017-01-31 15:31:02,711  - INFO - starting for managed mobility services keyword
+2017-01-31 15:31:02,714  - INFO - keyword,account_count,account_count,cost are managed mobility services,6,50,22.32
+2017-01-31 15:31:02,721  - INFO - Data file for 0 partition is created
+2017-01-31 15:31:02,721  - INFO - This process 0 is complete
+2017-01-31 15:31:02,829  - INFO - Data file for 8 partition is created
+2017-01-31 15:31:02,830  - INFO - This process 8 is complete
+2017-01-31 15:31:02,897  - INFO - inside daily loop
+2017-01-31 15:31:02,898  - INFO - starting for business continuity management keyword
+2017-01-31 15:31:02,915  - INFO - keyword,account_count,account_count,cost are business continuity management,5,75,8.66
+2017-01-31 15:31:02,915  - INFO - starting for ibm disaster recovery service keyword
+2017-01-31 15:31:02,918  - INFO - keyword,account_count,account_count,cost are ibm disaster recovery service,5,28,0.0
+2017-01-31 15:31:02,931  - INFO - starting for ibm programmable networking services keyword
+2017-01-31 15:31:02,934  - INFO - keyword,account_count,account_count,cost are ibm programmable networking services,5,1,0.0
+2017-01-31 15:31:02,934  - INFO - starting for ibm resiliency consulting services keyword
+2017-01-31 15:31:02,947  - INFO - keyword,account_count,account_count,cost are ibm resiliency consulting services,4,24,0.0
+2017-01-31 15:31:02,977  - INFO - inside daily loop
+2017-01-31 15:31:02,979  - INFO - starting for mobility services keyword
+2017-01-31 15:31:02,981  - INFO - inside daily loop
+2017-01-31 15:31:02,983  - INFO - starting for ibm resiliency services keyword
+2017-01-31 15:31:02,988  - INFO - keyword,account_count,account_count,cost are mobility services,6,34,209.85
+2017-01-31 15:31:02,988  - INFO - starting for ibm systems services keyword
+2017-01-31 15:31:02,989  - INFO - keyword,account_count,account_count,cost are ibm resiliency services,5,43,20.19
+2017-01-31 15:31:02,989  - INFO - starting for ibm resiliency communications management keyword
+2017-01-31 15:31:02,991  - INFO - keyword,account_count,account_count,cost are ibm systems services,3,18,0.0
+2017-01-31 15:31:02,991  - INFO - starting for mac managed mobility services keyword
+2017-01-31 15:31:02,995  - INFO - keyword,account_count,account_count,cost are mac managed mobility services,5,23,0.0
+2017-01-31 15:31:02,995  - INFO - starting for mobile infrastructure consulting services keyword
+2017-01-31 15:31:02,998  - INFO - keyword,account_count,account_count,cost are mobile infrastructure consulting services,5,22,0.0
+2017-01-31 15:31:02,998  - INFO - starting for ibm managed services keyword
+2017-01-31 15:31:03,001  - INFO - keyword,account_count,account_count,cost are ibm managed services,5,64,20.21
+2017-01-31 15:31:03,002  - INFO - keyword,account_count,account_count,cost are ibm resiliency communications management,5,2,0.0
+2017-01-31 15:31:03,002  - INFO - starting for resiliency backup service keyword
+2017-01-31 15:31:03,006  - INFO - keyword,account_count,account_count,cost are resiliency backup service,5,22,0.0
+2017-01-31 15:31:03,006  - INFO - starting for ibm managed continuity services keyword
+2017-01-31 15:31:03,009  - INFO - keyword,account_count,account_count,cost are ibm managed continuity services,5,22,0.0
+2017-01-31 15:31:03,020  - INFO - Data file for 4 partition is created
+2017-01-31 15:31:03,020  - INFO - This process 4 is complete
+2017-01-31 15:31:03,078  - INFO - Data file for 6 partition is created
+2017-01-31 15:31:03,078  - INFO - This process 6 is complete
+2017-01-31 15:31:03,155  - INFO - Data file for 7 partition is created
+2017-01-31 15:31:03,156  - INFO - This process 7 is complete
+2017-01-31 15:31:03,168  - INFO - Data file for 2 partition is created
+2017-01-31 15:31:03,168  - INFO - This process 2 is complete
+2017-01-31 15:31:03,219  - INFO - inside daily loop
+2017-01-31 15:31:03,220  - INFO - starting for ibm network consulting strategy keyword
+2017-01-31 15:31:03,224  - INFO - keyword,account_count,account_count,cost are ibm network consulting strategy,5,22,0.0
+2017-01-31 15:31:03,224  - INFO - starting for technology support services keyword
+2017-01-31 15:31:03,226  - INFO - keyword,account_count,account_count,cost are technology support services,5,23,8.42
+2017-01-31 15:31:03,226  - INFO - starting for ibm technology support services keyword
+2017-01-31 15:31:03,229  - INFO - keyword,account_count,account_count,cost are ibm technology support services,5,23,0.0
+2017-01-31 15:31:03,229  - INFO - starting for software defined networking keyword
+2017-01-31 15:31:03,232  - INFO - keyword,account_count,account_count,cost are software defined networking,6,35,180.75
+2017-01-31 15:31:03,232  - INFO - starting for resiliency services keyword
+2017-01-31 15:31:03,236  - INFO - keyword,account_count,account_count,cost are resiliency services,5,43,0.26
+2017-01-31 15:31:03,299  - INFO - Data file for 5 partition is created
+2017-01-31 15:31:03,300  - INFO - This process 5 is complete
+2017-01-31 15:31:04,258  - INFO - Starting aggregation
+2017-01-31 16:15:07,939  - INFO - Clearing previous csv and xlsx files
+2017-01-31 16:15:07,943  - INFO - starting for daily report
+2017-01-31 16:15:07,944  - INFO - Keyreport file is present,so skipping creation
+2017-01-31 16:15:15,772  - INFO - inside daily loop
+2017-01-31 16:15:15,784  - INFO - Data file for 9 partition is created
+2017-01-31 16:15:15,784  - INFO - This process 9 is complete
+2017-01-31 16:15:38,223  - INFO - inside daily loop
+2017-01-31 16:15:38,245  - INFO - Data file for 2 partition is created
+2017-01-31 16:15:38,245  - INFO - This process 2 is complete
+2017-01-31 16:15:38,814  - INFO - inside daily loop
+2017-01-31 16:15:38,823  - INFO - starting for cognitive customer insights keyword
+2017-01-31 16:15:38,830  - INFO - keyword,account_count,account_count,cost are cognitive customer insights,2,3,0.0
+2017-01-31 16:15:38,876  - INFO - Data file for 1 partition is created
+2017-01-31 16:15:38,876  - INFO - This process 1 is complete
+2017-01-31 16:15:39,033  - INFO - inside daily loop
+2017-01-31 16:15:39,034  - INFO - starting for natural language processing keyword
+2017-01-31 16:15:39,038  - INFO - keyword,account_count,account_count,cost are natural language processing,4,18,55.2
+2017-01-31 16:15:39,065  - INFO - Data file for 3 partition is created
+2017-01-31 16:15:39,066  - INFO - This process 3 is complete
+2017-01-31 16:15:39,123  - INFO - inside daily loop
+2017-01-31 16:15:39,141  - INFO - Data file for 4 partition is created
+2017-01-31 16:15:39,141  - INFO - This process 4 is complete
+2017-01-31 16:15:39,356  - INFO - inside daily loop
+2017-01-31 16:15:39,365  - INFO - Data file for 5 partition is created
+2017-01-31 16:15:39,366  - INFO - This process 5 is complete
+2017-01-31 16:15:39,588  - INFO - inside daily loop
+2017-01-31 16:15:39,592  - INFO - starting for watson cognitive search engine keyword
+2017-01-31 16:15:39,598  - INFO - keyword,account_count,account_count,cost are watson cognitive search engine,1,3,0.0
+2017-01-31 16:15:39,620  - INFO - Data file for 0 partition is created
+2017-01-31 16:15:39,620  - INFO - This process 0 is complete
+2017-01-31 16:15:39,680  - INFO - inside daily loop
+2017-01-31 16:15:39,692  - INFO - inside daily loop
+2017-01-31 16:15:39,694  - INFO - starting for cognitive analytics applications keyword
+2017-01-31 16:15:39,695  - INFO - Data file for 7 partition is created
+2017-01-31 16:15:39,696  - INFO - This process 7 is complete
+2017-01-31 16:15:39,697  - INFO - keyword,account_count,account_count,cost are cognitive analytics applications,1,2,0.0
+2017-01-31 16:15:39,705  - INFO - Data file for 6 partition is created
+2017-01-31 16:15:39,706  - INFO - This process 6 is complete
+2017-01-31 16:15:39,740  - INFO - inside daily loop
+2017-01-31 16:15:39,741  - INFO - starting for watson discovery advisor keyword
+2017-01-31 16:15:39,744  - INFO - keyword,account_count,account_count,cost are watson discovery advisor,1,1,0.0
+2017-01-31 16:15:39,751  - INFO - Data file for 8 partition is created
+2017-01-31 16:15:39,751  - INFO - This process 8 is complete
+2017-01-31 16:15:40,344  - INFO - Starting aggregation
+2017-01-31 16:16:51,017  - INFO - Clearing previous csv and xlsx files
+2017-01-31 16:16:51,021  - INFO - starting for daily report
+2017-01-31 16:16:51,021  - INFO - Keyreport file is present,so skipping creation
+2017-01-31 16:17:21,433  - INFO - inside daily loop
+2017-01-31 16:17:21,435  - INFO - starting for cognitive app development keyword
+2017-01-31 16:17:21,439  - INFO - keyword,account_count,account_count,cost are cognitive app development,1,3,0.0
+2017-01-31 16:17:21,467  - INFO - Data file for 9 partition is created
+2017-01-31 16:17:21,468  - INFO - This process 9 is complete
+2017-01-31 16:17:40,449  - INFO - inside daily loop
+2017-01-31 16:17:40,458  - INFO - Data file for 7 partition is created
+2017-01-31 16:17:40,459  - INFO - This process 7 is complete
+2017-01-31 16:17:41,051  - INFO - inside daily loop
+2017-01-31 16:17:41,078  - INFO - Data file for 3 partition is created
+2017-01-31 16:17:41,078  - INFO - This process 3 is complete
+2017-01-31 16:17:41,111  - INFO - inside daily loop
+2017-01-31 16:17:41,112  - INFO - starting for cognitive tone analyzer keyword
+2017-01-31 16:17:41,117  - INFO - keyword,account_count,account_count,cost are cognitive tone analyzer,1,4,0.0
+2017-01-31 16:17:41,130  - INFO - Data file for 8 partition is created
+2017-01-31 16:17:41,130  - INFO - This process 8 is complete
+2017-01-31 16:17:41,173  - INFO - inside daily loop
+2017-01-31 16:17:41,193  - INFO - Data file for 5 partition is created
+2017-01-31 16:17:41,193  - INFO - This process 5 is complete
+2017-01-31 16:17:41,292  - INFO - inside daily loop
+2017-01-31 16:17:41,301  - INFO - Data file for 6 partition is created
+2017-01-31 16:17:41,301  - INFO - This process 6 is complete
+2017-01-31 16:17:41,761  - INFO - inside daily loop
+2017-01-31 16:17:41,776  - INFO - Data file for 1 partition is created
+2017-01-31 16:17:41,776  - INFO - This process 1 is complete
+2017-01-31 16:17:41,789  - INFO - inside daily loop
+2017-01-31 16:17:41,799  - INFO - Data file for 0 partition is created
+2017-01-31 16:17:41,799  - INFO - This process 0 is complete
+2017-01-31 16:17:41,886  - INFO - inside daily loop
+2017-01-31 16:17:41,892  - INFO - Data file for 2 partition is created
+2017-01-31 16:17:41,892  - INFO - This process 2 is complete
+2017-01-31 16:17:41,995  - INFO - inside daily loop
+2017-01-31 16:17:41,996  - INFO - starting for cognitive visual recognition keyword
+2017-01-31 16:17:41,998  - INFO - keyword,account_count,account_count,cost are cognitive visual recognition,1,4,0.0
+2017-01-31 16:17:41,998  - INFO - starting for cognitive emotion analysis keyword
+2017-01-31 16:17:42,000  - INFO - keyword,account_count,account_count,cost are cognitive emotion analysis,1,4,0.0
+2017-01-31 16:17:42,010  - INFO - Data file for 4 partition is created
+2017-01-31 16:17:42,010  - INFO - This process 4 is complete
+2017-01-31 16:17:42,365  - INFO - Starting aggregation

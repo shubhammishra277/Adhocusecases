@@ -1,0 +1,181 @@
+2017-03-28 10:27:23,829  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1R66ZfGvjvvohUWM-OQz4lWrb6JaITDzd28v-clrbDMo/edit#gid=0': {'NOMBRE': 'IBM'}}
+2017-03-28 10:27:23,830  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1R66ZfGvjvvohUWM-OQz4lWrb6JaITDzd28v-clrbDMo/edit#gid=0': {'NOMBRE': 'IBM'}}
+2017-03-28 10:27:28,798  - INFO - Connected to drive
+2017-03-28 10:27:28,799  - INFO - Connected to google drive
+
+2017-03-28 10:27:33,037  - INFO - List of accounts ['2809296861', '7813355720', '4804168647', '2231303651', '5689562067', '8697947664', '1507219704', '7652731314', '4718565953', '4427418816', '4414603918', '9641959361', '7997640368', '8368566800', '1913979284', '2677004727', '6256210439', '5449804993', '5324634234', '7153553492', '5305821365', '1775729480', '2944469928', '7636545669', '1076682543', '7902277106', '8725279362', '8638326204', '7883681562', '4830309918', '5168582986', '7079507033', '7008363161', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '5596963937', '8652974884', '1158680681', '5905426474', '9315874047', '8808092456', '1437740590', '1980447844', '5385948464', '5481211928', '8048364176', '8317079318', '8894727133', '8950841751', '5727312516', '7653538731', '5260395623', '2055158184', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '8847228380', '3407444652', '2010858735', '8676621406', '3602460396', '3924629577', '5033784069', '6986394311', '6508276876', '2376534971', '1236436471', '7162590027', '4234305823', '4943932774', '3484811464', '9517338753', '7491622727', '9469342557', '5429001474', '1086771272', '9050771087', '1131954238', '7067472045']
+2017-03-28 10:27:33,037  - INFO - no. of Yaml files:84
+2017-03-28 10:27:33,056  - INFO - starting for this account id :2809296861
+2017-03-28 10:27:33,059  - INFO - starting for this account id :4804168647
+2017-03-28 10:27:33,061  - INFO - starting for this account id :5689562067
+2017-03-28 10:27:33,068  - INFO - starting for this account id :7813355720
+2017-03-28 10:27:33,068  - INFO - starting for this account id :8697947664
+2017-03-28 10:27:33,072  - INFO - starting for this account id :2231303651
+2017-03-28 10:27:33,080  - INFO - starting for this account id :7652731314
+2017-03-28 10:27:33,080  - INFO - starting for this account id :1507219704
+2017-03-28 10:27:33,087  - INFO - starting for this account id :4718565953
+2017-03-28 10:27:33,087  - INFO - starting for this account id :4427418816
+2017-03-28 10:27:33,092  - INFO - starting for this account id :4414603918
+2017-03-28 10:27:33,100  - INFO - starting for this account id :9641959361
+2017-03-28 10:27:33,104  - INFO - starting for this account id :2677004727
+2017-03-28 10:27:33,108  - INFO - starting for this account id :6256210439
+2017-03-28 10:27:33,108  - INFO - starting for this account id :7997640368
+2017-03-28 10:27:33,108  - INFO - starting for this account id :8368566800
+2017-03-28 10:27:33,111  - INFO - starting for this account id :5449804993
+2017-03-28 10:27:33,112  - INFO - starting for this account id :1913979284
+2017-03-28 10:27:33,116  - INFO - starting for this account id :5305821365
+2017-03-28 10:27:33,124  - INFO - starting for this account id :5324634234
+2017-03-28 10:27:33,128  - INFO - starting for this account id :7153553492
+2017-03-28 10:27:33,144  - INFO - starting for this account id :2944469928
+2017-03-28 10:27:33,147  - INFO - starting for this account id :1775729480
+2017-03-28 10:27:33,184  - INFO - starting for this account id :1076682543
+2017-03-28 10:27:33,185  - INFO - starting for this account id :7636545669
+2017-03-28 10:27:33,194  - INFO - starting for this account id :7902277106
+2017-03-28 10:27:33,219  - INFO - starting for this account id :8725279362
+2017-03-28 10:27:33,224  - INFO - starting for this account id :4830309918
+2017-03-28 10:27:33,228  - INFO - starting for this account id :8638326204
+2017-03-28 10:27:33,236  - INFO - starting for this account id :7883681562
+2017-03-28 10:27:33,236  - INFO - starting for this account id :5168582986
+2017-03-28 10:27:33,256  - INFO - starting for this account id :7008363161
+2017-03-28 10:27:33,259  - INFO - starting for this account id :9391425334
+2017-03-28 10:27:33,264  - INFO - starting for this account id :4033594085
+2017-03-28 10:27:33,264  - INFO - starting for this account id :1437740590
+2017-03-28 10:27:33,270  - INFO - starting for this account id :5643789204
+2017-03-28 10:27:33,272  - INFO - starting for this account id :1980447844
+2017-03-28 10:27:33,276  - INFO - starting for this account id :1181577747
+2017-03-28 10:27:33,276  - INFO - starting for this account id :5385948464
+2017-03-28 10:27:33,280  - INFO - starting for this account id :8808092456
+2017-03-28 10:27:33,280  - INFO - starting for this account id :7079507033
+2017-03-28 10:27:33,288  - INFO - starting for this account id :8048364176
+2017-03-28 10:27:33,288  - INFO - starting for this account id :1158680681
+2017-03-28 10:27:33,291  - INFO - starting for this account id :7194648907
+2017-03-28 10:27:33,298  - INFO - starting for this account id :5596963937
+2017-03-28 10:27:33,299  - INFO - starting for this account id :5481211928
+2017-03-28 10:27:33,291  - INFO - starting for this account id :8652974884
+2017-03-28 10:27:33,304  - INFO - starting for this account id :5905426474
+2017-03-28 10:27:33,312  - INFO - starting for this account id :9315874047
+2017-03-28 10:27:33,284  - INFO - starting for this account id :8317079318
+2017-03-28 10:27:33,320  - INFO - starting for this account id :8950841751
+2017-03-28 10:27:33,331  - INFO - starting for this account id :8894727133
+2017-03-28 10:27:33,364  - INFO - starting for this account id :7653538731
+2017-03-28 10:27:33,371  - INFO - starting for this account id :5727312516
+2017-03-28 10:27:33,412  - INFO - starting for this account id :5260395623
+2017-03-28 10:27:33,416  - INFO - starting for this account id :2055158184
+2017-03-28 10:27:33,424  - INFO - starting for this account id :3507344855
+2017-03-28 10:27:33,428  - INFO - starting for this account id :5543791114
+2017-03-28 10:27:33,432  - INFO - starting for this account id :3303736528
+2017-03-28 10:27:33,444  - INFO - starting for this account id :8847228380
+2017-03-28 10:27:33,448  - INFO - starting for this account id :4143834440
+2017-03-28 10:27:33,456  - INFO - starting for this account id :1119144035
+2017-03-28 10:27:33,460  - INFO - starting for this account id :2010858735
+2017-03-28 10:27:33,464  - INFO - starting for this account id :3407444652
+2017-03-28 10:27:33,484  - INFO - starting for this account id :8676621406
+2017-03-28 10:27:33,494  - INFO - starting for this account id :3602460396
+2017-03-28 10:27:33,536  - INFO - starting for this account id :6508276876
+2017-03-28 10:27:33,544  - INFO - starting for this account id :6986394311
+2017-03-28 10:27:33,559  - INFO - starting for this account id :5033784069
+2017-03-28 10:27:33,508  - INFO - starting for this account id :3924629577
+2017-03-28 10:27:33,580  - INFO - starting for this account id :1236436471
+2017-03-28 10:27:33,583  - INFO - starting for this account id :2376534971
+2017-03-28 10:27:33,584  - INFO - starting for this account id :7162590027
+2017-03-28 10:27:33,587  - INFO - starting for this account id :4234305823
+2017-03-28 10:27:33,601  - INFO - starting for this account id :3484811464
+2017-03-28 10:27:33,612  - INFO - starting for this account id :4943932774
+2017-03-28 10:27:33,616  - INFO - starting for this account id :9517338753
+2017-03-28 10:27:33,620  - INFO - starting for this account id :7491622727
+2017-03-28 10:27:33,628  - INFO - starting for this account id :9469342557
+2017-03-28 10:27:33,632  - INFO - starting for this account id :1086771272
+2017-03-28 10:27:33,636  - INFO - starting for this account id :5429001474
+2017-03-28 10:27:33,640  - INFO - starting for this account id :9050771087
+2017-03-28 10:27:33,644  - INFO - starting for this account id :1131954238
+2017-03-28 10:27:33,652  - INFO - starting for this account id :7067472045
+2017-03-28 10:27:40,130  - INFO - This process is complete
+2017-03-28 10:27:40,444  - INFO - This process is complete
+2017-03-28 10:27:40,671  - INFO - This process is complete
+2017-03-28 10:27:40,709  - INFO - This process is complete
+2017-03-28 10:27:40,725  - INFO - This process is complete
+2017-03-28 10:27:40,858  - INFO - This process is complete
+2017-03-28 10:27:40,983  - INFO - This process is complete
+2017-03-28 10:27:41,019  - INFO - This process is complete
+2017-03-28 10:27:41,082  - INFO - This process is complete
+2017-03-28 10:27:41,291  - INFO - This process is complete
+2017-03-28 10:27:41,434  - INFO - This process is complete
+2017-03-28 10:27:42,048  - INFO - This process is complete
+2017-03-28 10:27:42,117  - INFO - This process is complete
+2017-03-28 10:27:42,159  - INFO - This process is complete
+2017-03-28 10:27:42,275  - INFO - This process is complete
+2017-03-28 10:27:42,314  - INFO - This process is complete
+2017-03-28 10:27:42,317  - INFO - This process is complete
+2017-03-28 10:27:42,393  - INFO - This process is complete
+2017-03-28 10:27:42,462  - INFO - This process is complete
+2017-03-28 10:27:42,637  - INFO - This process is complete
+2017-03-28 10:27:42,695  - INFO - This process is complete
+2017-03-28 10:27:42,741  - INFO - This process is complete
+2017-03-28 10:27:42,799  - INFO - This process is complete
+2017-03-28 10:27:43,045  - INFO - This process is complete
+2017-03-28 10:27:43,216  - INFO - This process is complete
+2017-03-28 10:27:43,257  - INFO - This process is complete
+2017-03-28 10:27:43,370  - INFO - This process is complete
+2017-03-28 10:27:43,606  - INFO - This process is complete
+2017-03-28 10:27:43,718  - INFO - This process is complete
+2017-03-28 10:27:43,767  - INFO - This process is complete
+2017-03-28 10:27:43,933  - INFO - This process is complete
+2017-03-28 10:27:43,978  - INFO - This process is complete
+2017-03-28 10:27:44,009  - INFO - This process is complete
+2017-03-28 10:27:44,083  - INFO - This process is complete
+2017-03-28 10:27:44,098  - INFO - This process is complete
+2017-03-28 10:27:44,598  - INFO - This process is complete
+2017-03-28 10:27:44,939  - INFO - This process is complete
+2017-03-28 10:27:45,005  - INFO - This process is complete
+2017-03-28 10:27:45,054  - INFO - This process is complete
+2017-03-28 10:27:45,147  - INFO - This process is complete
+2017-03-28 10:27:45,259  - INFO - This process is complete
+2017-03-28 10:27:45,285  - INFO - This process is complete
+2017-03-28 10:27:45,390  - INFO - This process is complete
+2017-03-28 10:27:45,440  - INFO - This process is complete
+2017-03-28 10:27:45,592  - INFO - This process is complete
+2017-03-28 10:27:45,897  - INFO - This process is complete
+2017-03-28 10:27:45,939  - INFO - This process is complete
+2017-03-28 10:27:46,136  - INFO - This process is complete
+2017-03-28 10:27:46,233  - INFO - This process is complete
+2017-03-28 10:27:46,415  - INFO - This process is complete
+2017-03-28 10:27:46,572  - INFO - This process is complete
+2017-03-28 10:27:46,756  - INFO - This process is complete
+2017-03-28 10:27:46,765  - INFO - This process is complete
+2017-03-28 10:27:46,911  - INFO - This process is complete
+2017-03-28 10:27:47,179  - INFO - This process is complete
+2017-03-28 10:27:47,185  - INFO - This process is complete
+2017-03-28 10:27:47,277  - INFO - This process is complete
+2017-03-28 10:27:47,290  - INFO - This process is complete
+2017-03-28 10:27:47,444  - INFO - This process is complete
+2017-03-28 10:27:48,052  - INFO - This process is complete
+2017-03-28 10:27:48,156  - INFO - This process is complete
+2017-03-28 10:27:48,181  - INFO - This process is complete
+2017-03-28 10:27:48,894  - INFO - This process is complete
+2017-03-28 10:27:49,580  - INFO - This process is complete
+2017-03-28 10:27:49,721  - INFO - This process is complete
+2017-03-28 10:27:49,809  - INFO - This process is complete
+2017-03-28 10:27:49,895  - INFO - This process is complete
+2017-03-28 10:27:49,912  - INFO - This process is complete
+2017-03-28 10:27:51,531  - INFO - This process is complete
+2017-03-28 10:27:52,922  - INFO - This process is complete
+2017-03-28 10:27:54,572  - INFO - This process is complete
+2017-03-28 10:27:55,889  - INFO - This process is complete
+2017-03-28 10:27:56,458  - INFO - This process is complete
+2017-03-28 10:27:56,504  - INFO - This process is complete
+2017-03-28 10:27:58,071  - INFO - This process is complete
+2017-03-28 10:27:58,936  - INFO - This process is complete
+2017-03-28 10:28:01,266  - INFO - This process is complete
+2017-03-28 10:28:04,725  - INFO - This process is complete
+2017-03-28 10:28:05,516  - INFO - This process is complete
+2017-03-28 10:28:09,218  - INFO - This process is complete
+2017-03-28 10:28:10,370  - INFO - This process is complete
+2017-03-28 10:28:12,540  - INFO - This process is complete
+2017-03-28 10:28:13,248  - INFO - This process is complete
+2017-03-28 10:28:35,288  - INFO - This process is complete
+2017-03-28 10:28:35,742  - INFO - doing aggregation to create a single Keyreport file
+2017-03-28 16:00:22,228  - INFO - Clearing previous csv and xlsx files
+2017-03-28 16:00:22,298  - INFO - starting for by daily report
+2017-03-28 16:00:26,461  - ERROR - Some files are not downloaded
+None
+2017-03-28 16:00:26,462  - INFO - no input files are present for the day

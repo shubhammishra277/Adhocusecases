@@ -1,0 +1,73 @@
+2017-01-12 15:42:07,263  - INFO - List of accounts ['707-950-7033', '570-019-9066', '542-900-1474', '715-355-3492']
+2017-01-12 15:42:07,264  - INFO - no. of Yaml files:4
+2017-01-12 15:42:07,267  - INFO - starting for this account id :707-950-7033
+2017-01-12 15:42:07,269  - INFO - starting for this account id :570-019-9066
+2017-01-12 15:42:07,272  - INFO - starting for this account id :542-900-1474
+2017-01-12 15:42:07,277  - INFO - starting for this account id :715-355-3492
+2017-01-12 15:42:15,104  - INFO - This process is complete
+2017-01-12 15:42:15,232  - INFO - This process is complete
+2017-01-12 15:42:15,484  - INFO - This process is complete
+2017-01-12 15:43:28,192  - INFO - This process is complete
+2017-01-12 15:43:28,382  - INFO - doing aggregation to create a single Keyreport file
+2017-01-12 15:48:11,834  - INFO - starting for daily report
+2017-01-12 15:51:17,464  - INFO - starting for daily report
+2017-01-12 15:58:18,902  - INFO - starting for daily report
+2017-01-12 16:05:12,757  - INFO - starting for daily report
+2017-01-12 16:08:52,974  - INFO - starting for daily report
+2017-01-12 16:11:41,517  - INFO - starting for daily report
+2017-01-12 16:19:34,481  - INFO - starting for daily report
+2017-01-12 16:23:04,482  - INFO - starting for daily report
+2017-01-12 16:29:47,105  - INFO - starting for daily report
+2017-01-12 16:32:56,471  - INFO - starting for daily report
+2017-01-12 16:35:10,616  - INFO - starting for daily report
+2017-01-12 16:35:45,017  - INFO - starting for daily report
+2017-01-12 16:35:45,050  - INFO - List of accounts ['707-950-7033', '570-019-9066', '542-900-1474', '715-355-3492']
+2017-01-12 16:35:45,051  - INFO - no. of Yaml files:4
+2017-01-12 16:35:45,055  - INFO - starting for this account id :707-950-7033
+2017-01-12 16:35:45,058  - INFO - starting for this account id :570-019-9066
+2017-01-12 16:35:45,059  - INFO - starting for this account id :542-900-1474
+2017-01-12 16:35:45,062  - INFO - starting for this account id :715-355-3492
+2017-01-12 16:36:05,332  - INFO - This process is complete
+2017-01-12 16:36:37,076  - INFO - This process is complete
+2017-01-12 16:37:31,843  - INFO - This process is complete
+2017-01-12 16:51:20,854  - INFO - This process is complete
+2017-01-12 16:51:21,330  - INFO - doing aggregation to create a single Keyreport file
+2017-01-12 16:58:08,571  - INFO - starting for by monthly report
+2017-01-12 16:58:15,852  - ERROR - Keyword file is not present
+Traceback (most recent call last):
+  File "test_bak.py", line 17, in keywordparser
+    f=open("%s/keywords.txt"%filepath,"r")
+IOError: [Errno 20] Not a directory: '/home/shubham/Desktop/Documents/Documents_Media/keywords.txt/keywords.txt'
+2017-01-12 16:59:33,297  - INFO - starting for by monthly report
+2017-01-12 16:59:39,069  - ERROR - Keyword file is not present
+Traceback (most recent call last):
+  File "test_bak.py", line 17, in keywordparser
+    f=open("%s/keywords.txt"%filepath,"r")
+IOError: [Errno 20] Not a directory: '/home/shubham/Desktop/Documents/Documents_Media/keywords.txt/keywords.txt'
+2017-01-12 17:01:30,242  - INFO - starting for by monthly report
+2017-01-12 17:06:32,150  - INFO - starting for by monthly report
+2017-01-12 17:08:36,660  - INFO - starting for by monthly report
+2017-01-12 17:08:42,316  - ERROR - Keyword file is not present
+Traceback (most recent call last):
+  File "test_bak.py", line 17, in keywordparser
+    f=open("%s/keywords.txt"%filepath,"r")
+IOError: [Errno 20] Not a directory: '/home/shubham/Desktop/Documents/Documents_Media/keywords.txt/keywords.txt'
+2017-01-12 17:09:13,838  - INFO - starting for by monthly report
+2017-01-12 17:11:56,157  - ERROR - Keyword file is not present
+Traceback (most recent call last):
+  File "test_bak.py", line 17, in keywordparser
+    f=open("%s/keywords.txt"%filepath,"r")
+IOError: [Errno 20] Not a directory: '/home/shubham/Desktop/Documents/Documents_Media/keywords.txt/keywords.txt'
+2017-01-12 17:13:20,473  - INFO - starting for by monthly report
+2017-01-12 17:13:53,977  - INFO - starting for by monthly report
+2017-01-12 17:16:29,296  - ERROR - Keyword file is not present
+Traceback (most recent call last):
+  File "test_bak.py", line 17, in keywordparser
+    f=open("%s/keywords.txt"%filepath,"r")
+IOError: [Errno 20] Not a directory: '/home/shubham/Desktop/Documents/Documents_Media/keywords.txt/keywords.txt'
+2017-01-12 17:17:33,046  - INFO - starting for by monthly report
+2017-01-12 17:21:26,381  - ERROR - Keyword file is not present
+Traceback (most recent call last):
+  File "test_bak.py", line 17, in keywordparser
+    f=open("%s/keywords.txt"%filepath,"r")
+IOError: [Errno 20] Not a directory: '/home/shubham/Desktop/Documents/Documents_Media/keywords.txt/keywords.txt'

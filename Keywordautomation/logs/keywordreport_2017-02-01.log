@@ -1,0 +1,473 @@
+2017-02-01 12:37:59,910  - INFO - Clearing previous csv and xlsx files
+2017-02-01 12:38:00,030  - INFO - starting for by monthly report
+2017-02-01 12:38:00,031  - INFO - Keyreport file not present,so creating it
+2017-02-01 12:38:00,072  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-02-01 12:38:00,073  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-02-01 12:38:02,093  - INFO - Connected to drive
+2017-02-01 12:38:02,093  - INFO - Connected to google drive
+
+2017-02-01 12:38:07,528  - INFO - List of accounts ['7813355720', '4804168647', '2231303651', '5689562067', '8697947664', '7652731314', '4718565953', '4427418816', '4414603918', '9641959361', '7997640368', '8368566800', '1913979284', '2677004727', '5449804993', '5305821365', '1775729480', '2944469928', '7636545669', '7902277106', '8725279362', '8638326204', '7883681562', '4830309918', '7008363161', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '8652974884', '1158680681', '5905426474', '9315874047', '8808092456', '1437740590', '1980447844', '5481211928', '8048364176', '8317079318', '8894727133', '8950841751', '5727312516', '5260395623', '2055158184', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '8847228380', '2010858735', '8676621406', '3924629577', '5033784069', '6986394311', '6508276876', '1236436471', '7162590027', '4234305823', '9343489685', '3484811464', '9517338753', '7491622727', '9469342557', '1086771272', '9050771087', '7067472045']
+2017-02-01 12:38:07,528  - INFO - no. of Yaml files:68
+2017-02-01 12:38:07,635  - INFO - starting for this account id :4804168647
+2017-02-01 12:38:07,636  - INFO - starting for this account id :7813355720
+2017-02-01 12:38:07,640  - INFO - starting for this account id :2231303651
+2017-02-01 12:38:07,654  - INFO - starting for this account id :7652731314
+2017-02-01 12:38:07,662  - INFO - starting for this account id :5689562067
+2017-02-01 12:38:07,677  - INFO - starting for this account id :4718565953
+2017-02-01 12:38:07,681  - INFO - starting for this account id :8368566800
+2017-02-01 12:38:07,686  - INFO - starting for this account id :8697947664
+2017-02-01 12:38:07,687  - INFO - starting for this account id :4427418816
+2017-02-01 12:38:07,695  - INFO - starting for this account id :4414603918
+2017-02-01 12:38:07,700  - INFO - starting for this account id :1913979284
+2017-02-01 12:38:07,710  - INFO - starting for this account id :7997640368
+2017-02-01 12:38:07,714  - INFO - starting for this account id :9641959361
+2017-02-01 12:38:07,726  - INFO - starting for this account id :2677004727
+2017-02-01 12:38:07,746  - INFO - starting for this account id :5305821365
+2017-02-01 12:38:07,757  - INFO - starting for this account id :2944469928
+2017-02-01 12:38:07,742  - INFO - starting for this account id :1775729480
+2017-02-01 12:38:07,755  - INFO - starting for this account id :5449804993
+2017-02-01 12:38:07,806  - INFO - starting for this account id :7902277106
+2017-02-01 12:38:07,812  - INFO - starting for this account id :7636545669
+2017-02-01 12:38:07,834  - INFO - starting for this account id :8725279362
+2017-02-01 12:38:07,835  - INFO - starting for this account id :4830309918
+2017-02-01 12:38:07,846  - INFO - starting for this account id :8638326204
+2017-02-01 12:38:07,854  - INFO - starting for this account id :7883681562
+2017-02-01 12:38:07,857  - INFO - starting for this account id :7008363161
+2017-02-01 12:38:07,872  - INFO - starting for this account id :9391425334
+2017-02-01 12:38:07,885  - INFO - starting for this account id :4033594085
+2017-02-01 12:38:07,892  - INFO - starting for this account id :1181577747
+2017-02-01 12:38:07,926  - INFO - starting for this account id :7194648907
+2017-02-01 12:38:07,941  - INFO - starting for this account id :8652974884
+2017-02-01 12:38:07,948  - INFO - starting for this account id :5643789204
+2017-02-01 12:38:07,966  - INFO - starting for this account id :1158680681
+2017-02-01 12:38:07,977  - INFO - starting for this account id :8808092456
+2017-02-01 12:38:07,992  - INFO - starting for this account id :1437740590
+2017-02-01 12:38:07,997  - INFO - starting for this account id :5905426474
+2017-02-01 12:38:08,003  - INFO - starting for this account id :1980447844
+2017-02-01 12:38:08,008  - INFO - starting for this account id :5481211928
+2017-02-01 12:38:08,013  - INFO - starting for this account id :8048364176
+2017-02-01 12:38:08,018  - INFO - starting for this account id :9315874047
+2017-02-01 12:38:08,021  - INFO - starting for this account id :8317079318
+2017-02-01 12:38:08,033  - INFO - starting for this account id :8894727133
+2017-02-01 12:38:08,044  - INFO - starting for this account id :8950841751
+2017-02-01 12:38:08,062  - INFO - starting for this account id :3507344855
+2017-02-01 12:38:08,065  - INFO - starting for this account id :1119144035
+2017-02-01 12:38:08,068  - INFO - starting for this account id :5727312516
+2017-02-01 12:38:08,058  - INFO - starting for this account id :5260395623
+2017-02-01 12:38:08,071  - INFO - starting for this account id :4143834440
+2017-02-01 12:38:08,095  - INFO - starting for this account id :2055158184
+2017-02-01 12:38:08,132  - INFO - starting for this account id :8847228380
+2017-02-01 12:38:08,150  - INFO - starting for this account id :5543791114
+2017-02-01 12:38:08,155  - INFO - starting for this account id :3303736528
+2017-02-01 12:38:08,179  - INFO - starting for this account id :8676621406
+2017-02-01 12:38:08,192  - INFO - starting for this account id :2010858735
+2017-02-01 12:38:08,244  - INFO - starting for this account id :4234305823
+2017-02-01 12:38:08,280  - INFO - starting for this account id :9343489685
+2017-02-01 12:38:08,283  - INFO - starting for this account id :3924629577
+2017-02-01 12:38:08,266  - INFO - starting for this account id :1236436471
+2017-02-01 12:38:08,293  - INFO - starting for this account id :3484811464
+2017-02-01 12:38:08,301  - INFO - starting for this account id :7162590027
+2017-02-01 12:38:08,312  - INFO - starting for this account id :6508276876
+2017-02-01 12:38:08,323  - INFO - starting for this account id :5033784069
+2017-02-01 12:38:08,323  - INFO - starting for this account id :9517338753
+2017-02-01 12:38:08,338  - INFO - starting for this account id :9469342557
+2017-02-01 12:38:08,341  - INFO - starting for this account id :6986394311
+2017-02-01 12:38:08,375  - INFO - starting for this account id :7491622727
+2017-02-01 12:38:08,381  - INFO - starting for this account id :1086771272
+2017-02-01 12:38:08,389  - INFO - starting for this account id :9050771087
+2017-02-01 12:38:08,420  - INFO - starting for this account id :7067472045
+2017-02-01 12:38:18,128  - INFO - This process is complete
+2017-02-01 12:38:20,217  - INFO - This process is complete
+2017-02-01 12:38:21,412  - INFO - This process is complete
+2017-02-01 12:38:22,736  - INFO - This process is complete
+2017-02-01 12:38:23,852  - INFO - This process is complete
+2017-02-01 12:38:24,751  - INFO - This process is complete
+2017-02-01 12:38:28,193  - INFO - This process is complete
+2017-02-01 12:38:34,851  - ERROR - error occured for 5481211928 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 78, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 72, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1495, in _DownloadReport
+    response = self._DownloadReportAsStream(post_body, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1546, in _DownloadReportAsStream
+    return self.url_opener.open(request)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+2017-02-01 12:38:34,935  - INFO - This process is complete
+2017-02-01 12:38:35,478  - INFO - This process is complete
+2017-02-01 12:38:36,138  - INFO - This process is complete
+2017-02-01 12:38:36,229  - INFO - This process is complete
+2017-02-01 12:38:38,756  - INFO - This process is complete
+2017-02-01 12:38:40,824  - INFO - This process is complete
+2017-02-01 12:38:45,808  - INFO - This process is complete
+2017-02-01 12:38:55,292  - INFO - This process is complete
+2017-02-01 12:38:56,404  - INFO - This process is complete
+2017-02-01 12:39:00,289  - INFO - This process is complete
+2017-02-01 12:39:03,148  - INFO - This process is complete
+2017-02-01 12:39:07,904  - INFO - This process is complete
+2017-02-01 12:39:07,982  - INFO - This process is complete
+2017-02-01 12:39:13,548  - INFO - This process is complete
+2017-02-01 12:39:15,852  - INFO - This process is complete
+2017-02-01 12:39:18,689  - INFO - This process is complete
+2017-02-01 12:39:21,265  - INFO - This process is complete
+2017-02-01 12:39:21,893  - INFO - This process is complete
+2017-02-01 12:39:33,764  - INFO - This process is complete
+2017-02-01 12:39:34,329  - INFO - This process is complete
+2017-02-01 12:39:43,292  - INFO - This process is complete
+2017-02-01 12:39:44,300  - INFO - This process is complete
+2017-02-01 12:39:53,340  - INFO - This process is complete
+2017-02-01 12:40:05,925  - INFO - This process is complete
+2017-02-01 12:40:21,264  - INFO - This process is complete
+2017-02-01 12:40:27,707  - INFO - This process is complete
+2017-02-01 12:40:45,821  - INFO - This process is complete
+2017-02-01 12:40:47,213  - INFO - This process is complete
+2017-02-01 12:40:55,690  - INFO - This process is complete
+2017-02-01 12:41:02,675  - INFO - This process is complete
+2017-02-01 12:41:11,406  - INFO - This process is complete
+2017-02-01 12:41:40,558  - INFO - This process is complete
+2017-02-01 12:41:46,856  - INFO - This process is complete
+2017-02-01 12:41:53,617  - INFO - This process is complete
+2017-02-01 12:42:03,893  - INFO - This process is complete
+2017-02-01 12:42:07,481  - INFO - This process is complete
+2017-02-01 12:42:07,872  - INFO - This process is complete
+2017-02-01 12:42:56,263  - INFO - This process is complete
+2017-02-01 12:42:56,559  - INFO - This process is complete
+2017-02-01 12:43:00,649  - INFO - This process is complete
+2017-02-01 12:43:12,705  - INFO - This process is complete
+2017-02-01 12:43:28,160  - INFO - This process is complete
+2017-02-01 12:43:43,936  - INFO - This process is complete
+2017-02-01 12:44:31,393  - INFO - This process is complete
+2017-02-01 12:44:43,750  - INFO - This process is complete
+2017-02-01 12:44:53,898  - INFO - This process is complete
+2017-02-01 12:45:21,536  - INFO - This process is complete
+2017-02-01 12:46:02,560  - INFO - This process is complete
+2017-02-01 12:46:15,279  - INFO - This process is complete
+2017-02-01 12:46:30,962  - INFO - This process is complete
+2017-02-01 12:47:42,738  - INFO - This process is complete
+2017-02-01 12:48:04,328  - INFO - This process is complete
+2017-02-01 12:48:18,152  - INFO - This process is complete
+2017-02-01 12:48:50,365  - INFO - This process is complete
+2017-02-01 12:49:08,593  - INFO - This process is complete
+2017-02-01 12:50:45,562  - INFO - This process is complete
+2017-02-01 12:51:27,737  - INFO - This process is complete
+2017-02-01 12:54:41,700  - INFO - This process is complete
+2017-02-01 12:56:30,856  - INFO - This process is complete
+2017-02-01 12:59:45,081  - INFO - This process is complete
+2017-02-01 13:01:09,585  - INFO - This process is complete
+2017-02-01 13:01:10,214  - INFO - doing aggregation to create a single Keyreport file
+2017-02-01 14:36:26,466  - INFO - Clearing previous csv and xlsx files
+2017-02-01 14:36:26,559  - INFO - starting for by monthly report
+2017-02-01 14:36:26,560  - INFO - Keyreport file not present,so creating it
+2017-02-01 14:36:26,609  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-02-01 14:36:26,610  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-02-01 14:36:27,489  - INFO - Connected to drive
+2017-02-01 14:36:27,489  - INFO - Connected to google drive
+
+2017-02-01 14:36:34,022  - INFO - List of accounts ['7813355720', '4804168647', '2231303651', '5689562067', '8697947664', '7652731314', '4718565953', '4427418816', '4414603918', '9641959361', '7997640368', '8368566800', '1913979284', '2677004727', '5449804993', '5305821365', '1775729480', '2944469928', '7636545669', '7902277106', '8725279362', '8638326204', '7883681562', '4830309918', '7008363161', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '8652974884', '1158680681', '5905426474', '9315874047', '8808092456', '1437740590', '1980447844', '5481211928', '8048364176', '8317079318', '8894727133', '8950841751', '5727312516', '5260395623', '2055158184', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '8847228380', '2010858735', '8676621406', '3924629577', '5033784069', '6986394311', '6508276876', '1236436471', '7162590027', '4234305823', '9343489685', '3484811464', '9517338753', '7491622727', '9469342557', '1086771272', '9050771087', '7067472045']
+2017-02-01 14:36:34,022  - INFO - no. of Yaml files:68
+2017-02-01 14:36:34,092  - INFO - starting for this account id :7813355720
+2017-02-01 14:36:34,094  - INFO - starting for this account id :4804168647
+2017-02-01 14:36:34,097  - INFO - starting for this account id :2231303651
+2017-02-01 14:36:34,114  - INFO - starting for this account id :8697947664
+2017-02-01 14:36:34,115  - INFO - starting for this account id :5689562067
+2017-02-01 14:36:34,117  - INFO - starting for this account id :4427418816
+2017-02-01 14:36:34,121  - INFO - starting for this account id :9641959361
+2017-02-01 14:36:34,125  - INFO - starting for this account id :7652731314
+2017-02-01 14:36:34,128  - INFO - starting for this account id :8368566800
+2017-02-01 14:36:34,130  - INFO - starting for this account id :7997640368
+2017-02-01 14:36:34,133  - INFO - starting for this account id :4718565953
+2017-02-01 14:36:34,137  - INFO - starting for this account id :4414603918
+2017-02-01 14:36:34,140  - INFO - starting for this account id :2677004727
+2017-02-01 14:36:34,141  - INFO - starting for this account id :1775729480
+2017-02-01 14:36:34,145  - INFO - starting for this account id :5449804993
+2017-02-01 14:36:34,148  - INFO - starting for this account id :1913979284
+2017-02-01 14:36:34,149  - INFO - starting for this account id :5305821365
+2017-02-01 14:36:34,153  - INFO - starting for this account id :2944469928
+2017-02-01 14:36:34,157  - INFO - starting for this account id :7902277106
+2017-02-01 14:36:34,161  - INFO - starting for this account id :7636545669
+2017-02-01 14:36:34,187  - INFO - starting for this account id :8638326204
+2017-02-01 14:36:34,203  - INFO - starting for this account id :8725279362
+2017-02-01 14:36:34,204  - INFO - starting for this account id :4830309918
+2017-02-01 14:36:34,213  - INFO - starting for this account id :7883681562
+2017-02-01 14:36:34,227  - INFO - starting for this account id :7008363161
+2017-02-01 14:36:34,245  - INFO - starting for this account id :9391425334
+2017-02-01 14:36:34,264  - INFO - starting for this account id :4033594085
+2017-02-01 14:36:34,274  - INFO - starting for this account id :1181577747
+2017-02-01 14:36:34,297  - INFO - starting for this account id :5643789204
+2017-02-01 14:36:34,309  - INFO - starting for this account id :7194648907
+2017-02-01 14:36:34,313  - INFO - starting for this account id :8652974884
+2017-02-01 14:36:34,331  - INFO - starting for this account id :1158680681
+2017-02-01 14:36:34,345  - INFO - starting for this account id :5905426474
+2017-02-01 14:36:34,352  - INFO - starting for this account id :8808092456
+2017-02-01 14:36:34,359  - INFO - starting for this account id :9315874047
+2017-02-01 14:36:34,389  - INFO - starting for this account id :1980447844
+2017-02-01 14:36:34,409  - INFO - starting for this account id :1437740590
+2017-02-01 14:36:34,413  - INFO - starting for this account id :5481211928
+2017-02-01 14:36:34,419  - INFO - starting for this account id :8048364176
+2017-02-01 14:36:34,428  - INFO - starting for this account id :8950841751
+2017-02-01 14:36:34,431  - INFO - starting for this account id :5727312516
+2017-02-01 14:36:34,436  - INFO - starting for this account id :5260395623
+2017-02-01 14:36:34,449  - INFO - starting for this account id :8894727133
+2017-02-01 14:36:34,449  - INFO - starting for this account id :2055158184
+2017-02-01 14:36:34,449  - INFO - starting for this account id :4143834440
+2017-02-01 14:36:34,452  - INFO - starting for this account id :3507344855
+2017-02-01 14:36:34,453  - INFO - starting for this account id :8317079318
+2017-02-01 14:36:34,460  - INFO - starting for this account id :1119144035
+2017-02-01 14:36:34,477  - INFO - starting for this account id :3303736528
+2017-02-01 14:36:34,505  - INFO - starting for this account id :5543791114
+2017-02-01 14:36:34,512  - INFO - starting for this account id :8847228380
+2017-02-01 14:36:34,541  - INFO - starting for this account id :8676621406
+2017-02-01 14:36:34,555  - INFO - starting for this account id :2010858735
+2017-02-01 14:36:34,580  - INFO - starting for this account id :3924629577
+2017-02-01 14:36:34,589  - INFO - starting for this account id :5033784069
+2017-02-01 14:36:34,597  - INFO - starting for this account id :6986394311
+2017-02-01 14:36:34,606  - INFO - starting for this account id :6508276876
+2017-02-01 14:36:34,622  - INFO - starting for this account id :4234305823
+2017-02-01 14:36:34,625  - INFO - starting for this account id :1236436471
+2017-02-01 14:36:34,632  - INFO - starting for this account id :9343489685
+2017-02-01 14:36:34,633  - INFO - starting for this account id :9517338753
+2017-02-01 14:36:34,634  - INFO - starting for this account id :7162590027
+2017-02-01 14:36:34,642  - INFO - starting for this account id :7491622727
+2017-02-01 14:36:34,657  - INFO - starting for this account id :3484811464
+2017-02-01 14:36:34,658  - INFO - starting for this account id :1086771272
+2017-02-01 14:36:34,669  - INFO - starting for this account id :9469342557
+2017-02-01 14:36:34,687  - INFO - starting for this account id :7067472045
+2017-02-01 14:36:34,723  - INFO - starting for this account id :9050771087
+2017-02-01 14:36:41,450  - INFO - This process is complete
+2017-02-01 14:36:41,901  - INFO - This process is complete
+2017-02-01 14:36:43,797  - INFO - This process is complete
+2017-02-01 14:36:43,989  - INFO - This process is complete
+2017-02-01 14:36:44,521  - INFO - This process is complete
+2017-02-01 14:36:44,722  - INFO - This process is complete
+2017-02-01 14:36:44,873  - INFO - This process is complete
+2017-02-01 14:36:45,548  - INFO - This process is complete
+2017-02-01 14:36:45,624  - INFO - This process is complete
+2017-02-01 14:36:46,789  - INFO - This process is complete
+2017-02-01 14:36:46,985  - INFO - This process is complete
+2017-02-01 14:36:47,314  - INFO - This process is complete
+2017-02-01 14:36:47,463  - INFO - This process is complete
+2017-02-01 14:36:47,548  - INFO - This process is complete
+2017-02-01 14:36:47,633  - INFO - This process is complete
+2017-02-01 14:36:50,391  - INFO - This process is complete
+2017-02-01 14:36:51,597  - INFO - This process is complete
+2017-02-01 14:36:52,712  - INFO - This process is complete
+2017-02-01 14:36:54,697  - INFO - This process is complete
+2017-02-01 14:36:56,869  - INFO - This process is complete
+2017-02-01 14:36:58,081  - INFO - This process is complete
+2017-02-01 14:36:59,137  - INFO - This process is complete
+2017-02-01 14:37:01,674  - INFO - This process is complete
+2017-02-01 14:37:01,923  - INFO - This process is complete
+2017-02-01 14:37:03,338  - INFO - This process is complete
+2017-02-01 14:37:04,294  - INFO - This process is complete
+2017-02-01 14:37:04,514  - INFO - This process is complete
+2017-02-01 14:37:04,768  - INFO - This process is complete
+2017-02-01 14:37:04,891  - INFO - This process is complete
+2017-02-01 14:37:05,493  - INFO - This process is complete
+2017-02-01 14:37:12,125  - INFO - This process is complete
+2017-02-01 14:37:12,464  - INFO - This process is complete
+2017-02-01 14:37:12,903  - INFO - This process is complete
+2017-02-01 14:37:14,110  - INFO - This process is complete
+2017-02-01 14:37:16,249  - INFO - This process is complete
+2017-02-01 14:37:19,623  - INFO - This process is complete
+2017-02-01 14:37:23,800  - INFO - This process is complete
+2017-02-01 14:37:31,078  - INFO - This process is complete
+2017-02-01 14:37:33,415  - INFO - This process is complete
+2017-02-01 14:37:33,717  - INFO - This process is complete
+2017-02-01 14:37:35,329  - INFO - This process is complete
+2017-02-01 14:37:35,371  - INFO - This process is complete
+2017-02-01 14:37:38,617  - INFO - This process is complete
+2017-02-01 14:37:44,383  - INFO - This process is complete
+2017-02-01 14:37:57,439  - INFO - This process is complete
+2017-02-01 14:38:09,777  - INFO - This process is complete
+2017-02-01 14:38:12,097  - INFO - This process is complete
+2017-02-01 14:38:12,253  - INFO - This process is complete
+2017-02-01 14:38:19,492  - INFO - This process is complete
+2017-02-01 14:38:53,761  - INFO - This process is complete
+2017-02-01 14:39:01,419  - INFO - This process is complete
+2017-02-01 14:39:07,292  - INFO - This process is complete
+2017-02-01 14:39:14,866  - INFO - This process is complete
+2017-02-01 14:39:23,956  - INFO - This process is complete
+2017-02-01 14:39:24,133  - INFO - This process is complete
+2017-02-01 14:39:35,817  - INFO - This process is complete
+2017-02-01 14:39:37,298  - INFO - This process is complete
+2017-02-01 14:39:47,510  - INFO - This process is complete
+2017-02-01 14:39:58,967  - INFO - This process is complete
+2017-02-01 14:39:59,028  - INFO - This process is complete
+2017-02-01 14:40:10,617  - INFO - This process is complete
+2017-02-01 14:40:11,783  - INFO - This process is complete
+2017-02-01 14:40:23,502  - INFO - This process is complete
+2017-02-01 14:40:24,498  - INFO - This process is complete
+2017-02-01 14:41:24,286  - INFO - This process is complete
+2017-02-01 14:43:35,221  - INFO - This process is complete
+2017-02-01 14:44:23,160  - INFO - This process is complete
+2017-02-01 14:44:43,252  - INFO - This process is complete
+2017-02-01 14:44:43,262  - INFO - doing aggregation to create a single Keyreport file
+2017-02-01 14:44:53,970  - INFO - Keyreport file is present,so skipping creation
+2017-02-01 14:45:32,906  - INFO - inside monthly loop
+2017-02-01 14:45:32,924  - INFO - starting for maas360 ios app enablement solutions_Phrase keyword
+2017-02-01 14:45:32,936  - INFO - keyword,account_count,account_count,cost are maas360 ios app enablement solutions_Phrase,1,1,0.0
+2017-02-01 14:45:32,951  - INFO - starting for IBM corporate data threats_Exact keyword
+2017-02-01 14:45:32,954  - INFO - keyword,account_count,account_count,cost are IBM corporate data threats_Exact,1,2,0.0
+2017-02-01 14:45:32,980  - INFO - Data file for 9 partition is created
+2017-02-01 14:45:32,989  - INFO - This process 9 is complete
+2017-02-01 14:48:12,792  - INFO - Clearing previous csv and xlsx files
+2017-02-01 14:48:12,796  - INFO - starting for daily report
+2017-02-01 14:48:12,797  - INFO - Keyreport file is present,so skipping creation
+2017-02-01 14:48:36,165  - INFO - inside daily loop
+2017-02-01 14:48:36,171  - INFO - starting for ibm public safety analytics keyword
+2017-02-01 14:48:36,178  - INFO - keyword,account_count,account_count,cost are ibm public safety analytics,1,1,0.0
+2017-02-01 14:48:36,191  - INFO - Data file for 9 partition is created
+2017-02-01 14:48:36,199  - INFO - This process 9 is complete
+2017-02-01 14:49:33,355  - INFO - inside daily loop
+2017-02-01 14:49:33,365  - INFO - Data file for 1 partition is created
+2017-02-01 14:49:33,365  - INFO - This process 1 is complete
+2017-02-01 14:49:33,917  - INFO - inside daily loop
+2017-02-01 14:49:33,918  - INFO - starting for ibm public safety software keyword
+2017-02-01 14:49:33,926  - INFO - keyword,account_count,account_count,cost are ibm public safety software,1,1,0.0
+2017-02-01 14:49:33,929  - INFO - starting for predictive policing keyword
+2017-02-01 14:49:33,936  - INFO - keyword,account_count,account_count,cost are predictive policing,1,1,0.0
+2017-02-01 14:49:33,962  - INFO - Data file for 3 partition is created
+2017-02-01 14:49:33,971  - INFO - This process 3 is complete
+2017-02-01 14:49:34,057  - INFO - inside daily loop
+2017-02-01 14:49:34,059  - INFO - starting for public safety software keyword
+2017-02-01 14:49:34,062  - INFO - keyword,account_count,account_count,cost are public safety software,1,1,0.0
+2017-02-01 14:49:34,062  - INFO - starting for ibm public safety systems keyword
+2017-02-01 14:49:34,065  - INFO - keyword,account_count,account_count,cost are ibm public safety systems,2,9,0.0
+2017-02-01 14:49:34,105  - INFO - Data file for 8 partition is created
+2017-02-01 14:49:34,105  - INFO - This process 8 is complete
+2017-02-01 14:49:34,320  - INFO - inside daily loop
+2017-02-01 14:49:34,321  - INFO - starting for ibm crime prevention technology keyword
+2017-02-01 14:49:34,325  - INFO - keyword,account_count,account_count,cost are ibm crime prevention technology,2,3,0.0
+2017-02-01 14:49:34,325  - INFO - starting for crime prevention technology keyword
+2017-02-01 14:49:34,341  - INFO - keyword,account_count,account_count,cost are crime prevention technology,2,3,0.0
+2017-02-01 14:49:34,373  - INFO - Data file for 2 partition is created
+2017-02-01 14:49:34,378  - INFO - This process 2 is complete
+2017-02-01 14:49:34,380  - INFO - inside daily loop
+2017-02-01 14:49:34,382  - INFO - starting for public safety solutions keyword
+2017-02-01 14:49:34,395  - INFO - keyword,account_count,account_count,cost are public safety solutions,2,9,0.0
+2017-02-01 14:49:34,395  - INFO - starting for police analytics keyword
+2017-02-01 14:49:34,398  - INFO - keyword,account_count,account_count,cost are police analytics,2,4,0.0
+2017-02-01 14:49:34,398  - INFO - starting for crime prevention keyword
+2017-02-01 14:49:34,401  - INFO - keyword,account_count,account_count,cost are crime prevention,2,3,0.0
+2017-02-01 14:49:34,436  - INFO - Data file for 5 partition is created
+2017-02-01 14:49:34,436  - INFO - This process 5 is complete
+2017-02-01 14:49:34,711  - INFO - inside daily loop
+2017-02-01 14:49:34,713  - INFO - starting for ibm police analytics keyword
+2017-02-01 14:49:34,717  - INFO - keyword,account_count,account_count,cost are ibm police analytics,2,2,0.0
+2017-02-01 14:49:34,718  - INFO - starting for ibm public safety analysis keyword
+2017-02-01 14:49:34,722  - INFO - keyword,account_count,account_count,cost are ibm public safety analysis,2,9,0.0
+2017-02-01 14:49:34,732  - INFO - inside daily loop
+2017-02-01 14:49:34,733  - INFO - starting for ibm predictive policing keyword
+2017-02-01 14:49:34,737  - INFO - keyword,account_count,account_count,cost are ibm predictive policing,1,1,0.0
+2017-02-01 14:49:34,746  - INFO - Data file for 6 partition is created
+2017-02-01 14:49:34,746  - INFO - This process 6 is complete
+2017-02-01 14:49:34,751  - INFO - Data file for 0 partition is created
+2017-02-01 14:49:34,751  - INFO - This process 0 is complete
+2017-02-01 14:49:34,933  - INFO - inside daily loop
+2017-02-01 14:49:34,934  - INFO - starting for ibm crime prevention keyword
+2017-02-01 14:49:34,937  - INFO - keyword,account_count,account_count,cost are ibm crime prevention,2,3,0.0
+2017-02-01 14:49:34,937  - INFO - starting for public safety systems keyword
+2017-02-01 14:49:34,939  - INFO - keyword,account_count,account_count,cost are public safety systems,2,9,0.0
+2017-02-01 14:49:34,939  - INFO - starting for public safety analysis keyword
+2017-02-01 14:49:34,941  - INFO - keyword,account_count,account_count,cost are public safety analysis,2,9,0.0
+2017-02-01 14:49:34,941  - INFO - starting for ibm public safety solutions keyword
+2017-02-01 14:49:34,943  - INFO - keyword,account_count,account_count,cost are ibm public safety solutions,2,9,0.0
+2017-02-01 14:49:34,974  - INFO - Data file for 4 partition is created
+2017-02-01 14:49:34,974  - INFO - This process 4 is complete
+2017-02-01 14:49:35,160  - INFO - inside daily loop
+2017-02-01 14:49:35,161  - INFO - starting for public safety analytics keyword
+2017-02-01 14:49:35,164  - INFO - keyword,account_count,account_count,cost are public safety analytics,1,1,0.0
+2017-02-01 14:49:35,169  - INFO - Data file for 7 partition is created
+2017-02-01 14:49:35,169  - INFO - This process 7 is complete
+2017-02-01 14:49:36,158  - INFO - Starting aggregation
+2017-02-01 15:00:40,399  - INFO - Clearing previous csv and xlsx files
+2017-02-01 15:00:40,403  - INFO - starting for daily report
+2017-02-01 15:00:40,403  - INFO - Keyreport file is present,so skipping creation
+2017-02-01 15:00:42,628  - ERROR - Keyword file is not present
+Traceback (most recent call last):
+  File "test_bak.py", line 17, in keywordparser
+    f=open("%s/keywords.txt"%filepath,"r")
+IOError: [Errno 2] No such file or directory: '/home/shubham/Desktop/Documents/Documents_Media/keywords.txt'
+2017-02-01 16:02:32,222  - INFO - Clearing previous csv and xlsx files
+2017-02-01 16:02:32,246  - INFO - starting for daily report
+2017-02-01 16:02:32,247  - INFO - Keyreport file is present,so skipping creation
+2017-02-01 16:02:40,472  - INFO - inside daily loop
+2017-02-01 16:02:40,502  - INFO - Data file for 9 partition is created
+2017-02-01 16:02:40,510  - INFO - This process 9 is complete
+2017-02-01 16:03:33,659  - INFO - inside daily loop
+2017-02-01 16:03:33,698  - INFO - Data file for 4 partition is created
+2017-02-01 16:03:33,699  - INFO - This process 4 is complete
+2017-02-01 16:03:34,467  - INFO - inside daily loop
+2017-02-01 16:03:34,494  - INFO - Data file for 8 partition is created
+2017-02-01 16:03:34,499  - INFO - This process 8 is complete
+2017-02-01 16:03:34,501  - INFO - inside daily loop
+2017-02-01 16:03:34,520  - INFO - Data file for 0 partition is created
+2017-02-01 16:03:34,520  - INFO - This process 0 is complete
+2017-02-01 16:03:35,321  - INFO - inside daily loop
+2017-02-01 16:03:35,331  - INFO - Data file for 2 partition is created
+2017-02-01 16:03:35,332  - INFO - This process 2 is complete
+2017-02-01 16:03:35,498  - INFO - inside daily loop
+2017-02-01 16:03:35,507  - INFO - Data file for 5 partition is created
+2017-02-01 16:03:35,508  - INFO - This process 5 is complete
+2017-02-01 16:03:35,633  - INFO - inside daily loop
+2017-02-01 16:03:35,644  - INFO - Data file for 6 partition is created
+2017-02-01 16:03:35,644  - INFO - This process 6 is complete
+2017-02-01 16:03:35,647  - INFO - inside daily loop
+2017-02-01 16:03:35,657  - INFO - Data file for 3 partition is created
+2017-02-01 16:03:35,657  - INFO - This process 3 is complete
+2017-02-01 16:03:35,894  - INFO - inside daily loop
+2017-02-01 16:03:35,902  - INFO - Data file for 1 partition is created
+2017-02-01 16:03:35,902  - INFO - This process 1 is complete
+2017-02-01 16:03:35,974  - INFO - inside daily loop
+2017-02-01 16:03:35,982  - INFO - Data file for 7 partition is created
+2017-02-01 16:03:35,982  - INFO - This process 7 is complete
+2017-02-01 16:03:37,018  - INFO - Starting aggregation
+2017-02-01 16:04:44,754  - INFO - Clearing previous csv and xlsx files
+2017-02-01 16:04:44,758  - INFO - starting for daily report
+2017-02-01 16:04:44,759  - INFO - Keyreport file is present,so skipping creation
+2017-02-01 16:04:53,870  - INFO - inside daily loop
+2017-02-01 16:04:53,915  - INFO - Data file for 9 partition is created
+2017-02-01 16:04:53,918  - INFO - This process 9 is complete
+2017-02-01 16:05:51,793  - INFO - inside daily loop
+2017-02-01 16:05:51,811  - INFO - Data file for 0 partition is created
+2017-02-01 16:05:51,811  - INFO - This process 0 is complete
+2017-02-01 16:05:51,880  - INFO - inside daily loop
+2017-02-01 16:05:51,955  - INFO - Data file for 3 partition is created
+2017-02-01 16:05:51,957  - INFO - This process 3 is complete
+2017-02-01 16:05:52,501  - INFO - inside daily loop
+2017-02-01 16:05:52,520  - INFO - Data file for 6 partition is created
+2017-02-01 16:05:52,529  - INFO - inside daily loop
+2017-02-01 16:05:52,529  - INFO - This process 6 is complete
+2017-02-01 16:05:52,530  - INFO - inside daily loop
+2017-02-01 16:05:52,548  - INFO - Data file for 4 partition is created
+2017-02-01 16:05:52,548  - INFO - This process 4 is complete
+2017-02-01 16:05:52,550  - INFO - Data file for 1 partition is created
+2017-02-01 16:05:52,550  - INFO - This process 1 is complete
+2017-02-01 16:05:52,706  - INFO - inside daily loop
+2017-02-01 16:05:52,716  - INFO - Data file for 5 partition is created
+2017-02-01 16:05:52,716  - INFO - This process 5 is complete
+2017-02-01 16:05:52,837  - INFO - inside daily loop
+2017-02-01 16:05:52,844  - INFO - inside daily loop
+2017-02-01 16:05:52,849  - INFO - Data file for 8 partition is created
+2017-02-01 16:05:52,849  - INFO - This process 8 is complete
+2017-02-01 16:05:52,852  - INFO - Data file for 7 partition is created
+2017-02-01 16:05:52,853  - INFO - This process 7 is complete
+2017-02-01 16:05:52,924  - INFO - inside daily loop
+2017-02-01 16:05:52,934  - INFO - Data file for 2 partition is created
+2017-02-01 16:05:52,934  - INFO - This process 2 is complete
+2017-02-01 16:05:53,528  - INFO - Starting aggregation

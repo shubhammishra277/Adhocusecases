@@ -1,0 +1,1000 @@
+2017-01-17 10:21:58,906  - INFO - Clearing previous csv and xlsx files
+2017-01-17 10:21:58,936  - INFO - starting for by monthly report
+2017-01-17 10:21:58,937  - INFO - Keyreport file is present,so skipping creation
+2017-01-17 10:23:05,932  - INFO - inside monthly loop
+2017-01-17 10:23:05,946  - INFO - starting for maas360 ios app enablement solutions_Phrase keyword
+2017-01-17 10:23:05,952  - INFO - keyword,account_count,account_count,cost are maas360 ios app enablement solutions_Phrase,1,1,0.0
+2017-01-17 10:23:05,952  - INFO - starting for ibm improve net promoter scores_Phrase keyword
+2017-01-17 10:23:05,955  - INFO - keyword,account_count,account_count,cost are ibm improve net promoter scores_Phrase,1,4,0.0
+2017-01-17 10:23:06,033  - INFO - Data file for 9 partition is created
+2017-01-17 10:23:06,034  - INFO - This process 9 is complete
+2017-01-17 10:28:27,552  - INFO - Clearing previous csv and xlsx files
+2017-01-17 10:28:27,617  - INFO - starting for daily report
+2017-01-17 10:28:27,619  - INFO - Keyreport file is present,so skipping creation
+2017-01-17 10:28:34,495  - INFO - inside daily loop
+2017-01-17 10:28:34,568  - INFO - Data file for 9 partition is created
+2017-01-17 10:28:34,569  - INFO - This process 9 is complete
+2017-01-17 10:29:17,836  - INFO - inside daily loop
+2017-01-17 10:29:17,880  - INFO - Data file for 3 partition is created
+2017-01-17 10:29:17,880  - INFO - This process 3 is complete
+2017-01-17 10:29:18,733  - INFO - inside daily loop
+2017-01-17 10:29:18,735  - INFO - starting for ibm cognitive engagement keyword
+2017-01-17 10:29:18,889  - INFO - keyword,account_count,account_count,cost are ibm cognitive engagement,1,3,0.0
+2017-01-17 10:29:18,930  - INFO - Data file for 5 partition is created
+2017-01-17 10:29:18,930  - INFO - This process 5 is complete
+2017-01-17 10:29:19,391  - INFO - inside daily loop
+2017-01-17 10:29:19,409  - INFO - Data file for 8 partition is created
+2017-01-17 10:29:19,423  - INFO - This process 8 is complete
+2017-01-17 10:29:19,723  - INFO - inside daily loop
+2017-01-17 10:29:19,756  - INFO - Data file for 7 partition is created
+2017-01-17 10:29:19,764  - INFO - This process 7 is complete
+2017-01-17 10:29:19,815  - INFO - inside daily loop
+2017-01-17 10:29:19,833  - INFO - Data file for 2 partition is created
+2017-01-17 10:29:19,833  - INFO - This process 2 is complete
+2017-01-17 10:29:19,888  - INFO - inside daily loop
+2017-01-17 10:29:19,928  - INFO - Data file for 0 partition is created
+2017-01-17 10:29:19,928  - INFO - This process 0 is complete
+2017-01-17 10:29:20,005  - INFO - inside daily loop
+2017-01-17 10:29:20,023  - INFO - Data file for 6 partition is created
+2017-01-17 10:29:20,023  - INFO - This process 6 is complete
+2017-01-17 10:29:20,109  - INFO - inside daily loop
+2017-01-17 10:29:20,124  - INFO - Data file for 4 partition is created
+2017-01-17 10:29:20,125  - INFO - This process 4 is complete
+2017-01-17 10:29:20,511  - INFO - inside daily loop
+2017-01-17 10:29:20,527  - INFO - Data file for 1 partition is created
+2017-01-17 10:29:20,527  - INFO - This process 1 is complete
+2017-01-17 10:29:21,592  - INFO - Starting aggregation
+2017-01-17 12:38:09,889  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'val'}}
+2017-01-17 12:38:09,913  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'val'}}
+2017-01-17 12:38:13,726  - INFO - Connected to drive
+2017-01-17 12:38:13,726  - INFO - Connected to google drive
+
+2017-01-17 14:00:27,729  - INFO - Clearing previous csv and xlsx files
+2017-01-17 14:00:27,864  - INFO - starting for daily report
+2017-01-17 14:00:27,865  - INFO - Keyreport file is present,so skipping creation
+2017-01-17 14:00:51,858  - INFO - inside daily loop
+2017-01-17 14:05:02,679  - INFO - Clearing previous csv and xlsx files
+2017-01-17 14:05:02,806  - INFO - starting for daily report
+2017-01-17 14:05:02,806  - INFO - Keyreport file not present,so creating it
+2017-01-17 14:05:02,846  - INFO - List of accounts ['7813355720', '4804168647', '2231303651', '6372357822', '5689562067', '3928424441', '1507219704', '7652731314', '1714974586', '4718565953', '9641959361', '7997640368', '8368566800', '2677004727', '6256210439', '5324634234', '7153553492', '5305821365', '1775729480', '9131727252', '2944469928', '7636545669', '1076682543', '7902277106', '8725279362', '3353585421', '4830309918', '5168582986', '7079507033', '7008363161', '4481142455', '4398118890', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '5596963937', '8472846621', '8652974884', '1158680681', '9287781289', '1437740590', '5385948464', '1331699720', '5481211928', '8048364176', '8317079318', '8950841751', '5727312516', '7653538731', '5260395623', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '5245501118', '1323425483', '8676621406', '3602460396', '3924629577', '5033784069', '6986394311', '6508276876', '2376534971', '2423551094', '2667930712', '1236436471', '7162590027', '4234305823', '2266036377', '9517338753', '7491622727', '3759825336', '9469342557', '9476993990', '6146172511', '1086771272', '9050771087', '1131954238', '4488454096']
+2017-01-17 14:05:02,847  - INFO - no. of Yaml files:82
+2017-01-17 14:05:02,906  - INFO - starting for this account id :7813355720
+2017-01-17 14:05:02,907  - INFO - starting for this account id :4804168647
+2017-01-17 14:05:02,911  - INFO - starting for this account id :2231303651
+2017-01-17 14:05:02,912  - INFO - starting for this account id :6372357822
+2017-01-17 14:05:02,917  - INFO - starting for this account id :5689562067
+2017-01-17 14:05:02,919  - INFO - starting for this account id :3928424441
+2017-01-17 14:05:02,922  - INFO - starting for this account id :1507219704
+2017-01-17 14:05:02,925  - INFO - starting for this account id :1714974586
+2017-01-17 14:05:02,926  - INFO - starting for this account id :7652731314
+2017-01-17 14:05:02,940  - INFO - starting for this account id :4718565953
+2017-01-17 14:05:02,942  - INFO - starting for this account id :9641959361
+2017-01-17 14:05:02,952  - INFO - starting for this account id :8368566800
+2017-01-17 14:05:02,953  - INFO - starting for this account id :7997640368
+2017-01-17 14:05:02,965  - INFO - starting for this account id :6256210439
+2017-01-17 14:05:02,966  - INFO - starting for this account id :2677004727
+2017-01-17 14:05:02,973  - INFO - starting for this account id :1076682543
+2017-01-17 14:05:02,976  - INFO - starting for this account id :7153553492
+2017-01-17 14:05:02,979  - INFO - starting for this account id :8725279362
+2017-01-17 14:05:02,980  - INFO - starting for this account id :5324634234
+2017-01-17 14:05:02,992  - INFO - starting for this account id :7902277106
+2017-01-17 14:05:02,989  - INFO - starting for this account id :3353585421
+2017-01-17 14:05:02,977  - INFO - starting for this account id :7636545669
+2017-01-17 14:05:03,016  - INFO - starting for this account id :7079507033
+2017-01-17 14:05:03,029  - INFO - starting for this account id :9131727252
+2017-01-17 14:05:03,037  - INFO - starting for this account id :2944469928
+2017-01-17 14:05:03,038  - INFO - starting for this account id :5305821365
+2017-01-17 14:05:03,044  - INFO - starting for this account id :4830309918
+2017-01-17 14:05:03,044  - INFO - starting for this account id :1775729480
+2017-01-17 14:05:03,052  - INFO - starting for this account id :4398118890
+2017-01-17 14:05:03,054  - INFO - starting for this account id :5168582986
+2017-01-17 14:05:03,086  - INFO - starting for this account id :4481142455
+2017-01-17 14:05:03,113  - INFO - starting for this account id :1181577747
+2017-01-17 14:05:03,117  - INFO - starting for this account id :7008363161
+2017-01-17 14:05:03,186  - INFO - starting for this account id :4033594085
+2017-01-17 14:05:03,209  - INFO - starting for this account id :9391425334
+2017-01-17 14:05:03,323  - INFO - starting for this account id :5643789204
+2017-01-17 14:05:03,338  - INFO - starting for this account id :7194648907
+2017-01-17 14:05:03,417  - INFO - starting for this account id :8472846621
+2017-01-17 14:05:03,446  - INFO - starting for this account id :5596963937
+2017-01-17 14:05:03,543  - INFO - starting for this account id :8652974884
+2017-01-17 14:05:03,567  - INFO - starting for this account id :9287781289
+2017-01-17 14:05:03,574  - INFO - starting for this account id :1158680681
+2017-01-17 14:05:03,659  - INFO - starting for this account id :5385948464
+2017-01-17 14:05:03,660  - INFO - starting for this account id :1437740590
+2017-01-17 14:05:03,685  - INFO - starting for this account id :8048364176
+2017-01-17 14:05:03,701  - INFO - starting for this account id :8317079318
+2017-01-17 14:05:03,681  - INFO - starting for this account id :1331699720
+2017-01-17 14:05:03,716  - INFO - starting for this account id :8950841751
+2017-01-17 14:05:03,693  - INFO - starting for this account id :5481211928
+2017-01-17 14:05:03,732  - INFO - starting for this account id :5727312516
+2017-01-17 14:05:03,780  - INFO - starting for this account id :5260395623
+2017-01-17 14:05:03,812  - INFO - starting for this account id :3507344855
+2017-01-17 14:05:03,760  - INFO - starting for this account id :7653538731
+2017-01-17 14:05:03,830  - INFO - starting for this account id :4143834440
+2017-01-17 14:05:03,848  - INFO - starting for this account id :3303736528
+2017-01-17 14:05:03,852  - INFO - starting for this account id :1119144035
+2017-01-17 14:05:03,889  - INFO - starting for this account id :5543791114
+2017-01-17 14:05:03,935  - INFO - starting for this account id :5245501118
+2017-01-17 14:05:03,946  - INFO - starting for this account id :1323425483
+2017-01-17 14:05:03,946  - INFO - starting for this account id :8676621406
+2017-01-17 14:05:04,068  - INFO - starting for this account id :5033784069
+2017-01-17 14:05:04,056  - INFO - starting for this account id :3924629577
+2017-01-17 14:05:04,129  - INFO - starting for this account id :6508276876
+2017-01-17 14:05:04,141  - INFO - starting for this account id :6986394311
+2017-01-17 14:05:04,151  - INFO - starting for this account id :3602460396
+2017-01-17 14:05:04,185  - INFO - starting for this account id :2423551094
+2017-01-17 14:05:04,217  - INFO - starting for this account id :2376534971
+2017-01-17 14:05:04,222  - INFO - starting for this account id :2667930712
+2017-01-17 14:05:04,272  - INFO - starting for this account id :4234305823
+2017-01-17 14:05:04,283  - INFO - starting for this account id :7162590027
+2017-01-17 14:05:04,293  - INFO - starting for this account id :1236436471
+2017-01-17 14:05:04,327  - INFO - starting for this account id :9517338753
+2017-01-17 14:05:04,352  - INFO - starting for this account id :7491622727
+2017-01-17 14:05:04,355  - INFO - starting for this account id :2266036377
+2017-01-17 14:05:04,356  - INFO - starting for this account id :3759825336
+2017-01-17 14:05:04,367  - INFO - starting for this account id :9469342557
+2017-01-17 14:05:04,392  - INFO - starting for this account id :9476993990
+2017-01-17 14:05:04,421  - INFO - starting for this account id :6146172511
+2017-01-17 14:05:04,423  - INFO - starting for this account id :1086771272
+2017-01-17 14:05:04,505  - INFO - starting for this account id :4488454096
+2017-01-17 14:05:04,516  - INFO - starting for this account id :9050771087
+2017-01-17 14:05:04,469  - INFO - starting for this account id :1131954238
+2017-01-17 14:05:13,341  - INFO - This process is complete
+2017-01-17 14:05:14,809  - INFO - This process is complete
+2017-01-17 14:05:15,030  - INFO - This process is complete
+2017-01-17 14:05:15,229  - INFO - This process is complete
+2017-01-17 14:05:15,947  - INFO - This process is complete
+2017-01-17 14:05:16,376  - INFO - This process is complete
+2017-01-17 14:05:19,764  - INFO - This process is complete
+2017-01-17 14:05:20,900  - INFO - This process is complete
+2017-01-17 14:05:21,994  - INFO - This process is complete
+2017-01-17 14:05:23,213  - INFO - This process is complete
+2017-01-17 14:05:28,944  - INFO - This process is complete
+2017-01-17 14:05:31,340  - INFO - This process is complete
+2017-01-17 14:05:36,432  - INFO - This process is complete
+2017-01-17 14:05:38,951  - INFO - This process is complete
+2017-01-17 14:05:43,304  - INFO - This process is complete
+2017-01-17 14:05:45,103  - INFO - This process is complete
+2017-01-17 14:05:46,726  - INFO - This process is complete
+2017-01-17 14:05:48,756  - INFO - This process is complete
+2017-01-17 14:05:49,039  - INFO - This process is complete
+2017-01-17 14:05:49,552  - INFO - This process is complete
+2017-01-17 14:05:50,619  - INFO - This process is complete
+2017-01-17 14:05:54,616  - INFO - This process is complete
+2017-01-17 14:05:57,529  - INFO - This process is complete
+2017-01-17 14:05:58,374  - INFO - This process is complete
+2017-01-17 14:06:01,396  - INFO - This process is complete
+2017-01-17 14:06:03,860  - INFO - This process is complete
+2017-01-17 14:06:05,518  - INFO - This process is complete
+2017-01-17 14:06:06,988  - INFO - This process is complete
+2017-01-17 14:06:10,616  - INFO - This process is complete
+2017-01-17 14:06:11,685  - INFO - This process is complete
+2017-01-17 14:06:13,976  - INFO - This process is complete
+2017-01-17 14:06:14,168  - INFO - This process is complete
+2017-01-17 14:06:14,182  - INFO - This process is complete
+2017-01-17 14:06:17,301  - INFO - This process is complete
+2017-01-17 14:06:18,321  - INFO - This process is complete
+2017-01-17 14:06:19,703  - INFO - This process is complete
+2017-01-17 14:06:20,170  - INFO - This process is complete
+2017-01-17 14:06:20,380  - INFO - This process is complete
+2017-01-17 14:06:20,539  - INFO - This process is complete
+2017-01-17 14:06:21,878  - INFO - This process is complete
+2017-01-17 14:06:22,320  - INFO - This process is complete
+2017-01-17 14:06:32,779  - INFO - This process is complete
+2017-01-17 14:06:42,778  - INFO - This process is complete
+2017-01-17 14:06:46,047  - INFO - This process is complete
+2017-01-17 14:06:48,082  - INFO - This process is complete
+2017-01-17 14:06:49,928  - INFO - This process is complete
+2017-01-17 14:06:50,240  - INFO - This process is complete
+2017-01-17 14:06:52,059  - INFO - This process is complete
+2017-01-17 14:06:54,491  - INFO - This process is complete
+2017-01-17 14:06:59,266  - INFO - This process is complete
+2017-01-17 14:07:01,456  - INFO - This process is complete
+2017-01-17 14:07:06,895  - INFO - This process is complete
+2017-01-17 14:07:15,105  - INFO - This process is complete
+2017-01-17 14:07:16,776  - INFO - This process is complete
+2017-01-17 14:07:21,712  - INFO - This process is complete
+2017-01-17 14:07:24,493  - INFO - This process is complete
+2017-01-17 14:07:25,097  - INFO - This process is complete
+2017-01-17 14:07:27,075  - INFO - This process is complete
+2017-01-17 14:07:32,986  - INFO - This process is complete
+2017-01-17 14:07:33,965  - INFO - This process is complete
+2017-01-17 14:07:39,472  - INFO - This process is complete
+2017-01-17 14:07:50,307  - INFO - This process is complete
+2017-01-17 14:08:03,729  - INFO - This process is complete
+2017-01-17 14:08:04,523  - INFO - This process is complete
+2017-01-17 14:08:22,586  - INFO - This process is complete
+2017-01-17 14:08:26,843  - INFO - This process is complete
+2017-01-17 14:08:39,748  - INFO - This process is complete
+2017-01-17 14:09:04,650  - INFO - This process is complete
+2017-01-17 14:09:20,251  - INFO - This process is complete
+2017-01-17 14:09:40,172  - INFO - This process is complete
+2017-01-17 14:10:27,958  - INFO - This process is complete
+2017-01-17 14:10:34,221  - INFO - This process is complete
+2017-01-17 14:12:58,206  - INFO - This process is complete
+2017-01-17 14:13:02,786  - INFO - This process is complete
+2017-01-17 14:13:18,370  - INFO - This process is complete
+2017-01-17 14:14:32,617  - INFO - This process is complete
+2017-01-17 14:15:07,710  - INFO - This process is complete
+2017-01-17 14:16:24,106  - INFO - This process is complete
+2017-01-17 14:17:25,957  - INFO - This process is complete
+2017-01-17 14:18:48,322  - INFO - This process is complete
+2017-01-17 14:25:04,379  - INFO - This process is complete
+2017-01-17 14:32:06,111  - INFO - This process is complete
+2017-01-17 14:32:06,477  - INFO - doing aggregation to create a single Keyreport file
+2017-01-17 14:32:30,722  - INFO - Keyreport file is present,so skipping creation
+2017-01-17 14:32:34,228  - INFO - inside daily loop
+2017-01-17 14:32:34,291  - INFO - Data file for 9 partition is created
+2017-01-17 14:32:34,293  - INFO - This process 9 is complete
+2017-01-17 14:33:40,823  - INFO - inside daily loop
+2017-01-17 14:33:41,510  - INFO - inside daily loop
+2017-01-17 14:33:41,728  - INFO - Data file for 2 partition is created
+2017-01-17 14:33:41,728  - INFO - This process 2 is complete
+2017-01-17 14:33:41,730  - INFO - Data file for 4 partition is created
+2017-01-17 14:33:41,730  - INFO - This process 4 is complete
+2017-01-17 14:33:42,176  - INFO - inside daily loop
+2017-01-17 14:33:42,186  - INFO - inside daily loop
+2017-01-17 14:33:42,196  - INFO - Data file for 0 partition is created
+2017-01-17 14:33:42,197  - INFO - This process 0 is complete
+2017-01-17 14:33:42,210  - INFO - Data file for 7 partition is created
+2017-01-17 14:33:42,210  - INFO - This process 7 is complete
+2017-01-17 14:33:42,366  - INFO - inside daily loop
+2017-01-17 14:33:42,383  - INFO - Data file for 3 partition is created
+2017-01-17 14:33:42,384  - INFO - This process 3 is complete
+2017-01-17 14:33:42,471  - INFO - inside daily loop
+2017-01-17 14:33:42,481  - INFO - Data file for 1 partition is created
+2017-01-17 14:33:42,482  - INFO - This process 1 is complete
+2017-01-17 14:33:42,557  - INFO - inside daily loop
+2017-01-17 14:33:42,564  - INFO - Data file for 6 partition is created
+2017-01-17 14:33:42,564  - INFO - This process 6 is complete
+2017-01-17 14:33:42,756  - INFO - inside daily loop
+2017-01-17 14:33:42,764  - INFO - Data file for 8 partition is created
+2017-01-17 14:33:42,764  - INFO - This process 8 is complete
+2017-01-17 14:33:43,538  - INFO - inside daily loop
+2017-01-17 14:33:43,539  - INFO - starting for ibm cognitive engagement keyword
+2017-01-17 14:33:43,863  - INFO - keyword,account_count,account_count,cost are ibm cognitive engagement,1,3,0.0
+2017-01-17 14:33:43,885  - INFO - Data file for 5 partition is created
+2017-01-17 14:33:43,886  - INFO - This process 5 is complete
+2017-01-17 14:33:44,139  - INFO - Starting aggregation
+2017-01-17 15:02:30,434  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test'}}
+2017-01-17 15:02:30,434  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test'}}
+2017-01-17 15:02:31,805  - INFO - Connected to drive
+2017-01-17 15:02:31,806  - INFO - Connected to google drive
+
+2017-01-17 15:05:24,167  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'val'}}
+2017-01-17 15:05:24,168  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'val'}}
+2017-01-17 15:05:25,477  - INFO - Connected to drive
+2017-01-17 15:05:25,477  - INFO - Connected to google drive
+
+2017-01-17 15:06:55,093  - INFO - Clearing previous csv and xlsx files
+2017-01-17 15:06:55,151  - INFO - starting for daily report
+2017-01-17 15:06:55,152  - INFO - Keyreport file not present,so creating it
+2017-01-17 15:06:55,153  - INFO - List of accounts ['7813355720', '4804168647', '2231303651', '6372357822', '5689562067', '3928424441', '1507219704', '7652731314', '1714974586', '4718565953', '9641959361', '7997640368', '8368566800', '2677004727', '6256210439', '5324634234', '7153553492', '5305821365', '1775729480', '9131727252', '2944469928', '7636545669', '1076682543', '7902277106', '8725279362', '3353585421', '4830309918', '5168582986', '7079507033', '7008363161', '4481142455', '4398118890', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '5596963937', '8472846621', '8652974884', '1158680681', '9287781289', '1437740590', '5385948464', '1331699720', '5481211928', '8048364176', '8317079318', '8950841751', '5727312516', '7653538731', '5260395623', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '5245501118', '1323425483', '8676621406', '3602460396', '3924629577', '5033784069', '6986394311', '6508276876', '2376534971', '2423551094', '2667930712', '1236436471', '7162590027', '4234305823', '2266036377', '9517338753', '7491622727', '3759825336', '9469342557', '9476993990', '6146172511', '1086771272', '9050771087', '1131954238', '4488454096']
+2017-01-17 15:06:55,153  - INFO - no. of Yaml files:82
+2017-01-17 15:06:55,187  - INFO - starting for this account id :7813355720
+2017-01-17 15:06:55,190  - INFO - starting for this account id :4804168647
+2017-01-17 15:06:55,197  - INFO - starting for this account id :6372357822
+2017-01-17 15:06:55,198  - INFO - starting for this account id :2231303651
+2017-01-17 15:06:55,205  - INFO - starting for this account id :5689562067
+2017-01-17 15:06:55,219  - INFO - starting for this account id :3928424441
+2017-01-17 15:06:55,220  - INFO - starting for this account id :2677004727
+2017-01-17 15:06:55,223  - INFO - starting for this account id :1507219704
+2017-01-17 15:06:55,224  - INFO - starting for this account id :6256210439
+2017-01-17 15:06:55,228  - INFO - starting for this account id :8368566800
+2017-01-17 15:06:55,232  - INFO - starting for this account id :1714974586
+2017-01-17 15:06:55,234  - INFO - starting for this account id :7652731314
+2017-01-17 15:06:55,235  - INFO - starting for this account id :5324634234
+2017-01-17 15:06:55,240  - INFO - starting for this account id :4718565953
+2017-01-17 15:06:55,244  - INFO - starting for this account id :9641959361
+2017-01-17 15:06:55,252  - INFO - starting for this account id :7153553492
+2017-01-17 15:06:55,254  - INFO - starting for this account id :7997640368
+2017-01-17 15:06:55,262  - INFO - starting for this account id :5305821365
+2017-01-17 15:06:55,268  - INFO - starting for this account id :9131727252
+2017-01-17 15:06:55,282  - INFO - starting for this account id :2944469928
+2017-01-17 15:06:55,285  - INFO - starting for this account id :1775729480
+2017-01-17 15:06:55,300  - INFO - starting for this account id :7636545669
+2017-01-17 15:06:55,308  - INFO - starting for this account id :1076682543
+2017-01-17 15:06:55,333  - INFO - starting for this account id :7902277106
+2017-01-17 15:06:55,340  - INFO - starting for this account id :8725279362
+2017-01-17 15:06:55,404  - INFO - starting for this account id :3353585421
+2017-01-17 15:06:55,420  - INFO - starting for this account id :4830309918
+2017-01-17 15:06:55,426  - INFO - starting for this account id :5168582986
+2017-01-17 15:06:55,461  - INFO - starting for this account id :7079507033
+2017-01-17 15:06:55,468  - INFO - starting for this account id :7008363161
+2017-01-17 15:06:55,490  - INFO - starting for this account id :9391425334
+2017-01-17 15:06:55,493  - INFO - starting for this account id :4481142455
+2017-01-17 15:06:55,497  - INFO - starting for this account id :4398118890
+2017-01-17 15:06:55,505  - INFO - starting for this account id :4033594085
+2017-01-17 15:06:55,514  - INFO - starting for this account id :5643789204
+2017-01-17 15:06:55,524  - INFO - starting for this account id :1181577747
+2017-01-17 15:06:55,532  - INFO - starting for this account id :5596963937
+2017-01-17 15:06:55,540  - INFO - starting for this account id :7194648907
+2017-01-17 15:06:55,547  - INFO - starting for this account id :8652974884
+2017-01-17 15:06:55,564  - INFO - starting for this account id :8472846621
+2017-01-17 15:06:55,588  - INFO - starting for this account id :1437740590
+2017-01-17 15:06:55,592  - INFO - starting for this account id :9287781289
+2017-01-17 15:06:55,606  - INFO - starting for this account id :1158680681
+2017-01-17 15:06:55,624  - INFO - starting for this account id :5385948464
+2017-01-17 15:06:55,659  - INFO - starting for this account id :1331699720
+2017-01-17 15:06:55,664  - INFO - starting for this account id :8317079318
+2017-01-17 15:06:55,668  - INFO - starting for this account id :8048364176
+2017-01-17 15:06:55,669  - INFO - starting for this account id :5481211928
+2017-01-17 15:06:55,681  - INFO - starting for this account id :8950841751
+2017-01-17 15:06:55,692  - INFO - starting for this account id :7653538731
+2017-01-17 15:06:55,706  - INFO - starting for this account id :5727312516
+2017-01-17 15:06:55,714  - INFO - starting for this account id :5260395623
+2017-01-17 15:06:55,715  - INFO - starting for this account id :3507344855
+2017-01-17 15:06:55,728  - INFO - starting for this account id :4143834440
+2017-01-17 15:06:55,729  - INFO - starting for this account id :1119144035
+2017-01-17 15:06:55,748  - INFO - starting for this account id :3303736528
+2017-01-17 15:06:55,782  - INFO - starting for this account id :1323425483
+2017-01-17 15:06:55,792  - INFO - starting for this account id :5543791114
+2017-01-17 15:06:55,795  - INFO - starting for this account id :8676621406
+2017-01-17 15:06:55,805  - INFO - starting for this account id :3602460396
+2017-01-17 15:06:55,805  - INFO - starting for this account id :5245501118
+2017-01-17 15:06:55,808  - INFO - starting for this account id :3924629577
+2017-01-17 15:06:55,808  - INFO - starting for this account id :2667930712
+2017-01-17 15:06:55,812  - INFO - starting for this account id :5033784069
+2017-01-17 15:06:55,816  - INFO - starting for this account id :1236436471
+2017-01-17 15:06:55,820  - INFO - starting for this account id :2423551094
+2017-01-17 15:06:55,823  - INFO - starting for this account id :6986394311
+2017-01-17 15:06:55,845  - INFO - starting for this account id :6508276876
+2017-01-17 15:06:55,846  - INFO - starting for this account id :4234305823
+2017-01-17 15:06:55,848  - INFO - starting for this account id :7162590027
+2017-01-17 15:06:55,860  - INFO - starting for this account id :7491622727
+2017-01-17 15:06:55,871  - INFO - starting for this account id :9517338753
+2017-01-17 15:06:55,872  - INFO - starting for this account id :2266036377
+2017-01-17 15:06:55,876  - INFO - starting for this account id :2376534971
+2017-01-17 15:06:55,888  - INFO - starting for this account id :9469342557
+2017-01-17 15:06:55,895  - INFO - starting for this account id :3759825336
+2017-01-17 15:06:55,902  - INFO - starting for this account id :9476993990
+2017-01-17 15:06:55,935  - INFO - starting for this account id :6146172511
+2017-01-17 15:06:55,953  - INFO - starting for this account id :1086771272
+2017-01-17 15:06:55,970  - INFO - starting for this account id :9050771087
+2017-01-17 15:06:56,021  - INFO - starting for this account id :1131954238
+2017-01-17 15:06:56,028  - INFO - starting for this account id :4488454096
+2017-01-17 15:07:03,836  - INFO - This process is complete
+2017-01-17 15:07:04,088  - INFO - This process is complete
+2017-01-17 15:07:06,390  - INFO - This process is complete
+2017-01-17 15:07:06,846  - INFO - This process is complete
+2017-01-17 15:07:08,208  - INFO - This process is complete
+2017-01-17 15:07:08,878  - INFO - This process is complete
+2017-01-17 15:07:10,040  - INFO - This process is complete
+2017-01-17 15:07:11,773  - INFO - This process is complete
+2017-01-17 15:07:12,013  - INFO - This process is complete
+2017-01-17 15:07:12,062  - INFO - This process is complete
+2017-01-17 15:07:12,489  - INFO - This process is complete
+2017-01-17 15:07:19,230  - INFO - This process is complete
+2017-01-17 15:07:20,555  - INFO - This process is complete
+2017-01-17 15:07:20,803  - INFO - This process is complete
+2017-01-17 15:07:21,543  - INFO - This process is complete
+2017-01-17 15:07:26,100  - INFO - This process is complete
+2017-01-17 15:07:30,482  - INFO - This process is complete
+2017-01-17 15:07:32,319  - INFO - This process is complete
+2017-01-17 15:07:32,603  - INFO - This process is complete
+2017-01-17 15:07:34,378  - INFO - This process is complete
+2017-01-17 15:07:34,732  - INFO - This process is complete
+2017-01-17 15:07:35,163  - INFO - This process is complete
+2017-01-17 15:07:38,075  - INFO - This process is complete
+2017-01-17 15:07:38,764  - INFO - This process is complete
+2017-01-17 15:07:41,536  - INFO - This process is complete
+2017-01-17 15:07:42,744  - INFO - This process is complete
+2017-01-17 15:07:43,638  - INFO - This process is complete
+2017-01-17 15:07:44,771  - INFO - This process is complete
+2017-01-17 15:07:49,561  - INFO - This process is complete
+2017-01-17 15:07:50,561  - INFO - This process is complete
+2017-01-17 15:07:52,707  - INFO - This process is complete
+2017-01-17 15:07:53,470  - INFO - This process is complete
+2017-01-17 15:08:00,282  - INFO - This process is complete
+2017-01-17 15:08:09,063  - INFO - This process is complete
+2017-01-17 15:08:11,958  - INFO - This process is complete
+2017-01-17 15:08:12,824  - INFO - This process is complete
+2017-01-17 15:08:15,367  - INFO - This process is complete
+2017-01-17 15:08:16,241  - INFO - This process is complete
+2017-01-17 15:08:19,376  - INFO - This process is complete
+2017-01-17 15:08:25,232  - INFO - This process is complete
+2017-01-17 15:08:26,983  - INFO - This process is complete
+2017-01-17 15:08:27,845  - INFO - This process is complete
+2017-01-17 15:08:28,249  - INFO - This process is complete
+2017-01-17 15:08:29,941  - INFO - This process is complete
+2017-01-17 15:08:49,059  - INFO - This process is complete
+2017-01-17 15:08:50,702  - INFO - This process is complete
+2017-01-17 15:08:50,894  - INFO - This process is complete
+2017-01-17 15:08:54,930  - INFO - This process is complete
+2017-01-17 15:09:06,743  - INFO - This process is complete
+2017-01-17 15:09:10,007  - INFO - This process is complete
+2017-01-17 15:09:15,530  - INFO - This process is complete
+2017-01-17 15:09:16,856  - INFO - This process is complete
+2017-01-17 15:09:31,715  - INFO - This process is complete
+2017-01-17 15:09:40,697  - INFO - This process is complete
+2017-01-17 15:09:40,781  - INFO - This process is complete
+2017-01-17 15:09:43,716  - INFO - This process is complete
+2017-01-17 15:09:46,178  - INFO - This process is complete
+2017-01-17 15:09:46,376  - INFO - This process is complete
+2017-01-17 15:09:53,507  - ERROR - error occured for 5324634234 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,506  - ERROR - error occured for 9469342557 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,589  - INFO - This process is complete
+2017-01-17 15:09:53,590  - INFO - This process is complete
+2017-01-17 15:09:53,504  - ERROR - error occured for 5689562067 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,592  - INFO - This process is complete
+2017-01-17 15:09:53,505  - ERROR - error occured for 7813355720 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,504  - ERROR - error occured for 8950841751 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,593  - INFO - This process is complete
+2017-01-17 15:09:53,600  - INFO - This process is complete
+2017-01-17 15:09:53,508  - ERROR - error occured for 4143834440 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,504  - ERROR - error occured for 5596963937 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,608  - INFO - This process is complete
+2017-01-17 15:09:53,608  - INFO - This process is complete
+2017-01-17 15:09:53,505  - ERROR - error occured for 2376534971 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,612  - INFO - This process is complete
+2017-01-17 15:09:53,504  - ERROR - error occured for 2944469928 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,504  - ERROR - error occured for 1086771272 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,615  - INFO - This process is complete
+2017-01-17 15:09:53,506  - ERROR - error occured for 3759825336 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,618  - INFO - This process is complete
+2017-01-17 15:09:53,504  - ERROR - error occured for 1331699720 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,619  - INFO - This process is complete
+2017-01-17 15:09:53,504  - ERROR - error occured for 6372357822 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,619  - INFO - This process is complete
+2017-01-17 15:09:53,507  - ERROR - error occured for 3303736528 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,507  - ERROR - error occured for 4718565953 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,631  - INFO - This process is complete
+2017-01-17 15:09:53,632  - INFO - This process is complete
+2017-01-17 15:09:53,507  - ERROR - error occured for 4481142455 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,507  - ERROR - error occured for 1119144035 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,634  - INFO - This process is complete
+2017-01-17 15:09:53,504  - ERROR - error occured for 9517338753 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,635  - INFO - This process is complete
+2017-01-17 15:09:53,635  - INFO - This process is complete
+2017-01-17 15:09:53,506  - ERROR - error occured for 7491622727 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,640  - INFO - This process is complete
+2017-01-17 15:09:53,643  - INFO - This process is complete
+2017-01-17 15:09:53,504  - ERROR - error occured for 9391425334 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,650  - INFO - This process is complete
+2017-01-17 15:09:53,504  - ERROR - error occured for 5033784069 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,658  - INFO - This process is complete
+2017-01-17 15:09:53,504  - ERROR - error occured for 9131727252 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,658  - INFO - This process is complete
+2017-01-17 15:09:53,507  - ERROR - error occured for 5643789204 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,663  - INFO - This process is complete
+2017-01-17 15:09:53,507  - ERROR - error occured for 5245501118 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 71, in GetKeywordURLs
+    skip_report_summary=True, include_zero_impressions=True)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/common.py", line 486, in Wrapper
+    return utility_method(*args, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1225, in DownloadReport
+    output, **kwargs)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1499, in _DownloadReport
+    else response.read())
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 612, in read
+    s = self.fp.read(amt)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 384, in read
+    data = self._sock.recv(left)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-17 15:09:53,670  - INFO - This process is complete
+2017-01-17 15:10:08,510  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'val'}}
+2017-01-17 15:10:08,511  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'val'}}
+2017-01-17 15:10:10,917  - INFO - Connected to drive
+2017-01-17 15:10:10,918  - INFO - Connected to google drive
+
+2017-01-17 17:09:59,623  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-01-17 17:09:59,650  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-01-17 17:10:06,727  - INFO - Connected to drive
+2017-01-17 17:10:06,728  - INFO - Connected to google drive
+

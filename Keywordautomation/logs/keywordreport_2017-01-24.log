@@ -1,0 +1,742 @@
+2017-01-24 15:49:13,720  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-01-24 15:49:13,720  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-01-24 15:49:16,408  - INFO - Connected to drive
+2017-01-24 15:49:16,409  - INFO - Connected to google drive
+
+2017-01-24 15:51:06,724  - INFO - Clearing previous csv and xlsx files
+2017-01-24 15:51:06,734  - INFO - starting for daily report
+2017-01-24 15:51:06,735  - INFO - Keyreport file not present,so creating it
+2017-01-24 15:51:06,735  - INFO - List of accounts ['2231303651', '8697947664', '7636545669', '8725279362', '7008363161', '1980447844', '3924629577', '6986394311', '9343489685', '9476993990', '4488454096', '7067472045']
+2017-01-24 15:51:06,735  - INFO - no. of Yaml files:12
+2017-01-24 15:51:06,740  - INFO - starting for this account id :2231303651
+2017-01-24 15:51:06,742  - INFO - starting for this account id :8697947664
+2017-01-24 15:51:06,744  - INFO - starting for this account id :7636545669
+2017-01-24 15:51:06,763  - INFO - starting for this account id :8725279362
+2017-01-24 15:51:06,767  - INFO - starting for this account id :1980447844
+2017-01-24 15:51:06,768  - INFO - starting for this account id :7008363161
+2017-01-24 15:51:06,777  - INFO - starting for this account id :3924629577
+2017-01-24 15:51:06,784  - INFO - starting for this account id :6986394311
+2017-01-24 15:51:06,785  - INFO - starting for this account id :4488454096
+2017-01-24 15:51:06,790  - INFO - starting for this account id :9476993990
+2017-01-24 15:51:06,795  - INFO - starting for this account id :7067472045
+2017-01-24 15:51:06,803  - INFO - starting for this account id :9343489685
+2017-01-24 15:51:12,342  - ERROR - error occured for 2231303651 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 136, in __init__
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1195, in do_open
+    h.request(req.get_method(), req.get_selector(), req.data, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1057, in request
+    self._send_request(method, url, body, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1097, in _send_request
+    self.endheaders(body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1053, in endheaders
+    self._send_output(message_body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 897, in _send_output
+    self.send(msg)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 859, in send
+    self.connect()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1278, in connect
+    server_hostname=server_hostname)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 353, in wrap_socket
+    _context=self)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 601, in __init__
+    self.do_handshake()
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 830, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+2017-01-24 15:51:12,344  - ERROR - error occured for 7067472045 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 136, in __init__
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-24 15:51:12,452  - INFO - This process is complete
+2017-01-24 15:51:12,452  - INFO - This process is complete
+2017-01-24 15:51:12,341  - ERROR - error occured for 7636545669 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 136, in __init__
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1195, in do_open
+    h.request(req.get_method(), req.get_selector(), req.data, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1057, in request
+    self._send_request(method, url, body, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1097, in _send_request
+    self.endheaders(body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1053, in endheaders
+    self._send_output(message_body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 897, in _send_output
+    self.send(msg)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 859, in send
+    self.connect()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1278, in connect
+    server_hostname=server_hostname)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 353, in wrap_socket
+    _context=self)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 601, in __init__
+    self.do_handshake()
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 830, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+2017-01-24 15:51:12,453  - INFO - This process is complete
+2017-01-24 15:51:12,346  - ERROR - error occured for 8725279362 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 159, in __init__
+    self.build_schema()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 220, in build_schema
+    self.schema = container.load(self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 92, in load
+    child.open_imports(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 301, in open_imports
+    imported = imp.open(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 581, in open
+    result = self.download(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 597, in download
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1195, in do_open
+    h.request(req.get_method(), req.get_selector(), req.data, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1057, in request
+    self._send_request(method, url, body, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1097, in _send_request
+    self.endheaders(body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1053, in endheaders
+    self._send_output(message_body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 897, in _send_output
+    self.send(msg)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 859, in send
+    self.connect()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1278, in connect
+    server_hostname=server_hostname)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 353, in wrap_socket
+    _context=self)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 601, in __init__
+    self.do_handshake()
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 830, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+2017-01-24 15:51:12,346  - ERROR - error occured for 8697947664 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 159, in __init__
+    self.build_schema()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 220, in build_schema
+    self.schema = container.load(self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 92, in load
+    child.open_imports(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 301, in open_imports
+    imported = imp.open(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 581, in open
+    result = self.download(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 597, in download
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1195, in do_open
+    h.request(req.get_method(), req.get_selector(), req.data, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1057, in request
+    self._send_request(method, url, body, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1097, in _send_request
+    self.endheaders(body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1053, in endheaders
+    self._send_output(message_body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 897, in _send_output
+    self.send(msg)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 859, in send
+    self.connect()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1278, in connect
+    server_hostname=server_hostname)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 353, in wrap_socket
+    _context=self)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 601, in __init__
+    self.do_handshake()
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 830, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+2017-01-24 15:51:12,459  - INFO - This process is complete
+2017-01-24 15:51:12,459  - INFO - This process is complete
+2017-01-24 15:51:12,347  - ERROR - error occured for 6986394311 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 159, in __init__
+    self.build_schema()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 220, in build_schema
+    self.schema = container.load(self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 92, in load
+    child.open_imports(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 301, in open_imports
+    imported = imp.open(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 581, in open
+    result = self.download(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 597, in download
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1195, in do_open
+    h.request(req.get_method(), req.get_selector(), req.data, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1057, in request
+    self._send_request(method, url, body, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1097, in _send_request
+    self.endheaders(body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1053, in endheaders
+    self._send_output(message_body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 897, in _send_output
+    self.send(msg)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 859, in send
+    self.connect()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1278, in connect
+    server_hostname=server_hostname)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 353, in wrap_socket
+    _context=self)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 601, in __init__
+    self.do_handshake()
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 830, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+2017-01-24 15:51:12,464  - INFO - This process is complete
+2017-01-24 15:51:12,342  - ERROR - error occured for 3924629577 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 136, in __init__
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-24 15:51:12,467  - INFO - This process is complete
+2017-01-24 15:51:12,347  - ERROR - error occured for 7008363161 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 136, in __init__
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1195, in do_open
+    h.request(req.get_method(), req.get_selector(), req.data, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1057, in request
+    self._send_request(method, url, body, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1097, in _send_request
+    self.endheaders(body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1053, in endheaders
+    self._send_output(message_body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 897, in _send_output
+    self.send(msg)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 859, in send
+    self.connect()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1278, in connect
+    server_hostname=server_hostname)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 353, in wrap_socket
+    _context=self)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 601, in __init__
+    self.do_handshake()
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 830, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+2017-01-24 15:51:12,468  - INFO - This process is complete
+2017-01-24 15:51:12,341  - ERROR - error occured for 1980447844 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 136, in __init__
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-24 15:51:12,471  - INFO - This process is complete
+2017-01-24 15:51:12,341  - ERROR - error occured for 4488454096 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 136, in __init__
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-24 15:51:12,473  - INFO - This process is complete
+2017-01-24 15:51:12,342  - ERROR - error occured for 9476993990 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 136, in __init__
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/home/shubham/anaconda2/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+2017-01-24 15:51:12,474  - INFO - This process is complete
+2017-01-24 15:51:12,344  - ERROR - error occured for 9343489685 
+Traceback (most recent call last):
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 77, in filegenerator
+    GetKeywordURLs(account)
+  File "/home/shubham/Desktop/Documents/Documents_Media/keywords_bak.py", line 37, in GetKeywordURLs
+    report_downloader = ADWORDS_CLIENT.GetReportDownloader()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 441, in GetReportDownloader
+    return ReportDownloader(self, version, server)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/googleads/adwords.py", line 1169, in __init__
+    cache=self._adwords_client.cache).wsdl.schema
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/client.py", line 115, in __init__
+    self.wsdl = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 150, in open
+    d = self.fn(url, self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 159, in __init__
+    self.build_schema()
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/wsdl.py", line 220, in build_schema
+    self.schema = container.load(self.options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 92, in load
+    child.open_imports(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/schema.py", line 301, in open_imports
+    imported = imp.open(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 581, in open
+    result = self.download(options)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/xsd/sxbasic.py", line 597, in download
+    d = reader.open(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 74, in open
+    d = self.download(url)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/reader.py", line 92, in download
+    fp = self.options.transport.open(Request(url))
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 67, in open
+    return self.u2open(u2request)
+  File "/home/shubham/anaconda2/lib/python2.7/site-packages/suds/transport/http.py", line 132, in u2open
+    return url.open(u2request, timeout=tm)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1241, in https_open
+    context=self._context)
+  File "/home/shubham/anaconda2/lib/python2.7/urllib2.py", line 1195, in do_open
+    h.request(req.get_method(), req.get_selector(), req.data, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1057, in request
+    self._send_request(method, url, body, headers)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1097, in _send_request
+    self.endheaders(body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1053, in endheaders
+    self._send_output(message_body)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 897, in _send_output
+    self.send(msg)
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 859, in send
+    self.connect()
+  File "/home/shubham/anaconda2/lib/python2.7/httplib.py", line 1278, in connect
+    server_hostname=server_hostname)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 353, in wrap_socket
+    _context=self)
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 601, in __init__
+    self.do_handshake()
+  File "/home/shubham/anaconda2/lib/python2.7/ssl.py", line 830, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+2017-01-24 15:51:12,476  - INFO - This process is complete
+2017-01-24 15:51:45,465  - INFO - Clearing previous csv and xlsx files
+2017-01-24 15:51:45,472  - INFO - starting for daily report
+2017-01-24 15:51:45,472  - INFO - Keyreport file not present,so creating it
+2017-01-24 15:51:45,472  - INFO - List of accounts ['2231303651', '8697947664', '7636545669', '8725279362', '7008363161', '1980447844', '3924629577', '6986394311', '9343489685', '9476993990', '4488454096', '7067472045']
+2017-01-24 15:51:45,472  - INFO - no. of Yaml files:12
+2017-01-24 15:51:45,477  - INFO - starting for this account id :2231303651
+2017-01-24 15:51:45,481  - INFO - starting for this account id :8697947664
+2017-01-24 15:51:45,485  - INFO - starting for this account id :7636545669
+2017-01-24 15:51:45,506  - INFO - starting for this account id :8725279362
+2017-01-24 15:51:45,520  - INFO - starting for this account id :3924629577
+2017-01-24 15:51:45,515  - INFO - starting for this account id :7008363161
+2017-01-24 15:51:45,524  - INFO - starting for this account id :1980447844
+2017-01-24 15:51:45,532  - INFO - starting for this account id :9343489685
+2017-01-24 15:51:45,544  - INFO - starting for this account id :6986394311
+2017-01-24 15:51:45,552  - INFO - starting for this account id :9476993990
+2017-01-24 15:51:45,560  - INFO - starting for this account id :7067472045
+2017-01-24 15:51:45,572  - INFO - starting for this account id :4488454096
+2017-01-24 15:51:54,353  - INFO - This process is complete
+2017-01-24 15:51:54,926  - INFO - This process is complete
+2017-01-24 15:51:55,110  - INFO - This process is complete
+2017-01-24 15:51:57,207  - INFO - This process is complete
+2017-01-24 15:51:58,601  - INFO - This process is complete
+2017-01-24 15:51:58,685  - INFO - This process is complete
+2017-01-24 15:51:59,027  - INFO - This process is complete
+2017-01-24 15:52:08,616  - INFO - This process is complete
+2017-01-24 15:52:12,940  - INFO - This process is complete
+2017-01-24 15:52:26,838  - INFO - This process is complete
+2017-01-24 15:52:37,535  - INFO - This process is complete
+2017-01-24 15:52:38,975  - INFO - This process is complete
+2017-01-24 15:52:39,575  - INFO - doing aggregation to create a single Keyreport file
+2017-01-24 15:52:40,395  - INFO - Keyreport file is present,so skipping creation
+2017-01-24 15:52:41,610  - INFO - inside daily loop
+2017-01-24 15:52:41,631  - INFO - Data file for 9 partition is created
+2017-01-24 15:52:41,637  - INFO - This process 9 is complete
+2017-01-24 15:52:47,498  - INFO - inside daily loop
+2017-01-24 15:52:47,532  - INFO - Data file for 0 partition is created
+2017-01-24 15:52:47,533  - INFO - This process 0 is complete
+2017-01-24 15:52:47,683  - INFO - inside daily loop
+2017-01-24 15:52:47,705  - INFO - Data file for 7 partition is created
+2017-01-24 15:52:47,706  - INFO - This process 7 is complete
+2017-01-24 15:52:47,831  - INFO - inside daily loop
+2017-01-24 15:52:47,856  - INFO - Data file for 2 partition is created
+2017-01-24 15:52:47,856  - INFO - This process 2 is complete
+2017-01-24 15:52:47,972  - INFO - inside daily loop
+2017-01-24 15:52:47,991  - INFO - Data file for 1 partition is created
+2017-01-24 15:52:47,991  - INFO - This process 1 is complete
+2017-01-24 15:52:47,994  - INFO - inside daily loop
+2017-01-24 15:52:48,004  - INFO - inside daily loop
+2017-01-24 15:52:48,009  - INFO - Data file for 3 partition is created
+2017-01-24 15:52:48,009  - INFO - This process 3 is complete
+2017-01-24 15:52:48,026  - INFO - Data file for 8 partition is created
+2017-01-24 15:52:48,026  - INFO - This process 8 is complete
+2017-01-24 15:52:48,047  - INFO - inside daily loop
+2017-01-24 15:52:48,055  - INFO - inside daily loop
+2017-01-24 15:52:48,068  - INFO - Data file for 6 partition is created
+2017-01-24 15:52:48,068  - INFO - This process 6 is complete
+2017-01-24 15:52:48,069  - INFO - Data file for 5 partition is created
+2017-01-24 15:52:48,069  - INFO - This process 5 is complete
+2017-01-24 15:52:48,144  - INFO - inside daily loop
+2017-01-24 15:52:48,150  - INFO - Data file for 4 partition is created
+2017-01-24 15:52:48,151  - INFO - This process 4 is complete
+2017-01-24 15:52:48,566  - INFO - Starting aggregation

@@ -1,0 +1,638 @@
+2017-03-15 23:49:58,950  - INFO - Clearing previous csv and xlsx files
+2017-03-15 23:50:01,212  - INFO - file named IBM_key2.csv downloaded successfully
+2017-03-15 23:50:02,747  - INFO - file named IBM_key1.csv downloaded successfully
+2017-03-15 23:50:02,748  - INFO - starting for daily report
+2017-03-15 23:50:02,749  - INFO - Keyreport file not present,so creating it
+2017-03-15 23:50:02,773  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-03-15 23:50:02,774  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-03-15 23:50:03,649  - INFO - Connected to drive
+2017-03-15 23:50:03,650  - INFO - Connected to google drive
+
+2017-03-15 23:50:06,373  - INFO - List of accounts ['2809296861', '7813355720', '4804168647', '2231303651', '5689562067', '8697947664', '1507219704', '7652731314', '4718565953', '4427418816', '4414603918', '9641959361', '7997640368', '8368566800', '1913979284', '2677004727', '6256210439', '5449804993', '5324634234', '7153553492', '5305821365', '1775729480', '2944469928', '7636545669', '1076682543', '7902277106', '8725279362', '8638326204', '7883681562', '4830309918', '5168582986', '7079507033', '7008363161', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '5596963937', '8652974884', '1158680681', '5905426474', '9315874047', '8808092456', '1437740590', '1980447844', '5385948464', '5481211928', '8048364176', '8317079318', '8894727133', '8950841751', '5727312516', '7653538731', '5260395623', '2055158184', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '8847228380', '3407444652', '2010858735', '8676621406', '3602460396', '3924629577', '5033784069', '6986394311', '6508276876', '2376534971', '1236436471', '7162590027', '4234305823', '4943932774', '3484811464', '9517338753', '7491622727', '9469342557', '5429001474', '1086771272', '9050771087', '1131954238', '7067472045']
+2017-03-15 23:50:06,373  - INFO - no. of Yaml files:84
+2017-03-15 23:50:06,380  - INFO - starting for this account id :2809296861
+2017-03-15 23:50:06,385  - INFO - starting for this account id :7813355720
+2017-03-15 23:50:06,396  - INFO - starting for this account id :2231303651
+2017-03-15 23:50:06,397  - INFO - starting for this account id :4804168647
+2017-03-15 23:50:06,404  - INFO - starting for this account id :5689562067
+2017-03-15 23:50:06,413  - INFO - starting for this account id :7652731314
+2017-03-15 23:50:06,413  - INFO - starting for this account id :8697947664
+2017-03-15 23:50:06,416  - INFO - starting for this account id :4718565953
+2017-03-15 23:50:06,421  - INFO - starting for this account id :4427418816
+2017-03-15 23:50:06,423  - INFO - starting for this account id :1507219704
+2017-03-15 23:50:06,436  - INFO - starting for this account id :4414603918
+2017-03-15 23:50:06,453  - INFO - starting for this account id :9641959361
+2017-03-15 23:50:06,456  - INFO - starting for this account id :8368566800
+2017-03-15 23:50:06,449  - INFO - starting for this account id :7997640368
+2017-03-15 23:50:06,465  - INFO - starting for this account id :1913979284
+2017-03-15 23:50:06,518  - INFO - starting for this account id :2677004727
+2017-03-15 23:50:06,525  - INFO - starting for this account id :6256210439
+2017-03-15 23:50:06,552  - INFO - starting for this account id :5449804993
+2017-03-15 23:50:06,596  - INFO - starting for this account id :5324634234
+2017-03-15 23:50:06,640  - INFO - starting for this account id :5305821365
+2017-03-15 23:50:06,649  - INFO - starting for this account id :7153553492
+2017-03-15 23:50:06,654  - INFO - starting for this account id :7636545669
+2017-03-15 23:50:06,673  - INFO - starting for this account id :8725279362
+2017-03-15 23:50:06,689  - INFO - starting for this account id :4830309918
+2017-03-15 23:50:06,691  - INFO - starting for this account id :1076682543
+2017-03-15 23:50:06,692  - INFO - starting for this account id :7883681562
+2017-03-15 23:50:06,697  - INFO - starting for this account id :8638326204
+2017-03-15 23:50:06,718  - INFO - starting for this account id :5168582986
+2017-03-15 23:50:06,718  - INFO - starting for this account id :2944469928
+2017-03-15 23:50:06,722  - INFO - starting for this account id :7902277106
+2017-03-15 23:50:06,721  - INFO - starting for this account id :1775729480
+2017-03-15 23:50:06,740  - INFO - starting for this account id :7079507033
+2017-03-15 23:50:06,751  - INFO - starting for this account id :7008363161
+2017-03-15 23:50:06,761  - INFO - starting for this account id :9391425334
+2017-03-15 23:50:06,791  - INFO - starting for this account id :4033594085
+2017-03-15 23:50:06,852  - INFO - starting for this account id :5643789204
+2017-03-15 23:50:06,861  - INFO - starting for this account id :1181577747
+2017-03-15 23:50:06,901  - INFO - starting for this account id :9315874047
+2017-03-15 23:50:06,904  - INFO - starting for this account id :8808092456
+2017-03-15 23:50:06,903  - INFO - starting for this account id :8652974884
+2017-03-15 23:50:06,913  - INFO - starting for this account id :1980447844
+2017-03-15 23:50:06,915  - INFO - starting for this account id :1158680681
+2017-03-15 23:50:06,916  - INFO - starting for this account id :1437740590
+2017-03-15 23:50:06,929  - INFO - starting for this account id :5385948464
+2017-03-15 23:50:06,929  - INFO - starting for this account id :5905426474
+2017-03-15 23:50:06,941  - INFO - starting for this account id :5481211928
+2017-03-15 23:50:06,979  - INFO - starting for this account id :8048364176
+2017-03-15 23:50:07,003  - INFO - starting for this account id :8317079318
+2017-03-15 23:50:07,019  - INFO - starting for this account id :5596963937
+2017-03-15 23:50:07,034  - INFO - starting for this account id :7194648907
+2017-03-15 23:50:07,057  - INFO - starting for this account id :5727312516
+2017-03-15 23:50:07,069  - INFO - starting for this account id :7653538731
+2017-03-15 23:50:07,073  - INFO - starting for this account id :8894727133
+2017-03-15 23:50:07,077  - INFO - starting for this account id :8950841751
+2017-03-15 23:50:07,089  - INFO - starting for this account id :5260395623
+2017-03-15 23:50:07,118  - INFO - starting for this account id :3507344855
+2017-03-15 23:50:07,124  - INFO - starting for this account id :4143834440
+2017-03-15 23:50:07,107  - INFO - starting for this account id :2055158184
+2017-03-15 23:50:07,139  - INFO - starting for this account id :1119144035
+2017-03-15 23:50:07,161  - INFO - starting for this account id :3303736528
+2017-03-15 23:50:07,165  - INFO - starting for this account id :5543791114
+2017-03-15 23:50:07,201  - INFO - starting for this account id :2010858735
+2017-03-15 23:50:07,203  - INFO - starting for this account id :8847228380
+2017-03-15 23:50:07,213  - INFO - starting for this account id :8676621406
+2017-03-15 23:50:07,219  - INFO - starting for this account id :3407444652
+2017-03-15 23:50:07,220  - INFO - starting for this account id :3602460396
+2017-03-15 23:50:07,247  - INFO - starting for this account id :3924629577
+2017-03-15 23:50:07,275  - INFO - starting for this account id :5033784069
+2017-03-15 23:50:07,313  - INFO - starting for this account id :6986394311
+2017-03-15 23:50:07,330  - INFO - starting for this account id :6508276876
+2017-03-15 23:50:07,346  - INFO - starting for this account id :2376534971
+2017-03-15 23:50:07,360  - INFO - starting for this account id :1236436471
+2017-03-15 23:50:07,392  - INFO - starting for this account id :7162590027
+2017-03-15 23:50:07,405  - INFO - starting for this account id :3484811464
+2017-03-15 23:50:07,407  - INFO - starting for this account id :4234305823
+2017-03-15 23:50:07,407  - INFO - starting for this account id :4943932774
+2017-03-15 23:50:07,449  - INFO - starting for this account id :9517338753
+2017-03-15 23:50:07,453  - INFO - starting for this account id :7491622727
+2017-03-15 23:50:07,469  - INFO - starting for this account id :9469342557
+2017-03-15 23:50:07,472  - INFO - starting for this account id :5429001474
+2017-03-15 23:50:07,475  - INFO - starting for this account id :1086771272
+2017-03-15 23:50:07,490  - INFO - starting for this account id :7067472045
+2017-03-15 23:50:07,493  - INFO - starting for this account id :1131954238
+2017-03-15 23:50:07,493  - INFO - starting for this account id :9050771087
+2017-03-15 23:50:09,997  - INFO - This process is complete
+2017-03-15 23:50:10,565  - INFO - This process is complete
+2017-03-15 23:50:10,584  - INFO - This process is complete
+2017-03-15 23:50:10,930  - INFO - This process is complete
+2017-03-15 23:50:11,096  - INFO - This process is complete
+2017-03-15 23:50:11,111  - INFO - This process is complete
+2017-03-15 23:50:11,260  - INFO - This process is complete
+2017-03-15 23:50:11,275  - INFO - This process is complete
+2017-03-15 23:50:11,415  - INFO - This process is complete
+2017-03-15 23:50:11,451  - INFO - This process is complete
+2017-03-15 23:50:12,090  - INFO - This process is complete
+2017-03-15 23:50:12,324  - INFO - This process is complete
+2017-03-15 23:50:12,377  - INFO - This process is complete
+2017-03-15 23:50:12,470  - INFO - This process is complete
+2017-03-15 23:50:12,486  - INFO - This process is complete
+2017-03-15 23:50:12,495  - INFO - This process is complete
+2017-03-15 23:50:12,544  - INFO - This process is complete
+2017-03-15 23:50:12,612  - INFO - This process is complete
+2017-03-15 23:50:12,632  - INFO - This process is complete
+2017-03-15 23:50:12,659  - INFO - This process is complete
+2017-03-15 23:50:12,678  - INFO - This process is complete
+2017-03-15 23:50:12,743  - INFO - This process is complete
+2017-03-15 23:50:13,017  - INFO - This process is complete
+2017-03-15 23:50:13,614  - INFO - This process is complete
+2017-03-15 23:50:14,395  - INFO - This process is complete
+2017-03-15 23:50:14,395  - INFO - This process is complete
+2017-03-15 23:50:14,398  - INFO - This process is complete
+2017-03-15 23:50:14,695  - INFO - This process is complete
+2017-03-15 23:50:14,709  - INFO - This process is complete
+2017-03-15 23:50:14,854  - INFO - This process is complete
+2017-03-15 23:50:14,881  - INFO - This process is complete
+2017-03-15 23:50:15,060  - INFO - This process is complete
+2017-03-15 23:50:15,060  - INFO - This process is complete
+2017-03-15 23:50:15,061  - INFO - This process is complete
+2017-03-15 23:50:15,689  - INFO - This process is complete
+2017-03-15 23:50:16,793  - INFO - This process is complete
+2017-03-15 23:50:16,915  - INFO - This process is complete
+2017-03-15 23:50:16,942  - INFO - This process is complete
+2017-03-15 23:50:17,088  - INFO - This process is complete
+2017-03-15 23:50:17,225  - INFO - This process is complete
+2017-03-15 23:50:17,238  - INFO - This process is complete
+2017-03-15 23:50:17,453  - INFO - This process is complete
+2017-03-15 23:50:17,460  - INFO - This process is complete
+2017-03-15 23:50:17,462  - INFO - This process is complete
+2017-03-15 23:50:17,514  - INFO - This process is complete
+2017-03-15 23:50:17,592  - INFO - This process is complete
+2017-03-15 23:50:17,731  - INFO - This process is complete
+2017-03-15 23:50:17,790  - INFO - This process is complete
+2017-03-15 23:50:17,834  - INFO - This process is complete
+2017-03-15 23:50:17,933  - INFO - This process is complete
+2017-03-15 23:50:18,346  - INFO - This process is complete
+2017-03-15 23:50:18,395  - INFO - This process is complete
+2017-03-15 23:50:19,544  - INFO - This process is complete
+2017-03-15 23:50:19,559  - INFO - This process is complete
+2017-03-15 23:50:20,194  - INFO - This process is complete
+2017-03-15 23:50:20,214  - INFO - This process is complete
+2017-03-15 23:50:20,320  - INFO - This process is complete
+2017-03-15 23:50:20,721  - INFO - This process is complete
+2017-03-15 23:50:21,061  - INFO - This process is complete
+2017-03-15 23:50:21,095  - INFO - This process is complete
+2017-03-15 23:50:21,293  - INFO - This process is complete
+2017-03-15 23:50:22,111  - INFO - This process is complete
+2017-03-15 23:50:22,940  - INFO - This process is complete
+2017-03-15 23:50:23,591  - INFO - This process is complete
+2017-03-15 23:50:23,661  - INFO - This process is complete
+2017-03-15 23:50:24,939  - INFO - This process is complete
+2017-03-15 23:50:25,864  - INFO - This process is complete
+2017-03-15 23:50:26,272  - INFO - This process is complete
+2017-03-15 23:50:26,630  - INFO - This process is complete
+2017-03-15 23:50:28,584  - INFO - This process is complete
+2017-03-15 23:50:28,942  - INFO - This process is complete
+2017-03-15 23:50:29,334  - INFO - This process is complete
+2017-03-15 23:50:32,014  - INFO - This process is complete
+2017-03-15 23:50:33,720  - INFO - This process is complete
+2017-03-15 23:50:35,814  - INFO - This process is complete
+2017-03-15 23:50:36,441  - INFO - This process is complete
+2017-03-15 23:50:36,464  - INFO - This process is complete
+2017-03-15 23:50:36,717  - INFO - This process is complete
+2017-03-15 23:50:37,494  - INFO - This process is complete
+2017-03-15 23:50:38,487  - INFO - This process is complete
+2017-03-15 23:50:54,102  - INFO - This process is complete
+2017-03-15 23:50:55,059  - INFO - This process is complete
+2017-03-15 23:50:58,843  - INFO - This process is complete
+2017-03-15 23:51:03,895  - INFO - This process is complete
+2017-03-15 23:51:04,570  - INFO - doing aggregation to create a single Keyreport file
+2017-03-15 23:51:14,049  - INFO - Keyreport file is present,so skipping creation
+2017-03-15 23:51:15,031  - INFO - No of unique keywors for daily report 232
+2017-03-15 23:51:15,035  - INFO - process no. 0 started 
+2017-03-15 23:51:15,039  - INFO - process no. 1 started 
+2017-03-15 23:51:15,043  - INFO - process no. 2 started 
+2017-03-15 23:51:15,068  - INFO - process no. 3 started 
+2017-03-15 23:51:15,071  - INFO - process no. 4 started 
+2017-03-15 23:51:15,100  - INFO - process no. 5 started 
+2017-03-15 23:51:15,108  - INFO - process no. 8 started 
+2017-03-15 23:51:15,109  - INFO - process no. 6 started 
+2017-03-15 23:51:15,111  - INFO - process no. 10 started 
+2017-03-15 23:51:15,118  - INFO - process no. 7 started 
+2017-03-15 23:51:15,126  - INFO - process no. 12 started 
+2017-03-15 23:51:15,130  - INFO - process no. 9 started 
+2017-03-15 23:51:15,133  - INFO - process no. 11 started 
+2017-03-15 23:51:15,137  - INFO - process no. 13 started 
+2017-03-15 23:51:15,145  - INFO - process no. 14 started 
+2017-03-15 23:51:44,843  - INFO - inside daily loop
+2017-03-15 23:51:44,893  - INFO - Data file for 14 partition is created
+2017-03-15 23:51:44,898  - INFO - This process 14 is complete
+2017-03-15 23:52:10,490  - INFO - inside daily loop
+2017-03-15 23:52:10,542  - INFO - Data file for 2 partition is created
+2017-03-15 23:52:10,543  - INFO - This process 2 is complete
+2017-03-15 23:52:10,834  - INFO - inside daily loop
+2017-03-15 23:52:10,862  - INFO - inside daily loop
+2017-03-15 23:52:10,863  - INFO - Data file for 4 partition is created
+2017-03-15 23:52:10,863  - INFO - This process 4 is complete
+2017-03-15 23:52:10,897  - INFO - Data file for 13 partition is created
+2017-03-15 23:52:10,910  - INFO - This process 13 is complete
+2017-03-15 23:52:11,796  - INFO - inside daily loop
+2017-03-15 23:52:11,805  - INFO - Data file for 6 partition is created
+2017-03-15 23:52:11,820  - INFO - This process 6 is complete
+2017-03-15 23:52:12,062  - INFO - inside daily loop
+2017-03-15 23:52:12,072  - INFO - Data file for 12 partition is created
+2017-03-15 23:52:12,082  - INFO - This process 12 is complete
+2017-03-15 23:52:12,190  - INFO - inside daily loop
+2017-03-15 23:52:12,237  - INFO - Data file for 7 partition is created
+2017-03-15 23:52:12,237  - INFO - This process 7 is complete
+2017-03-15 23:52:12,309  - INFO - inside daily loop
+2017-03-15 23:52:12,328  - INFO - Data file for 0 partition is created
+2017-03-15 23:52:12,328  - INFO - This process 0 is complete
+2017-03-15 23:52:12,417  - INFO - inside daily loop
+2017-03-15 23:52:12,427  - INFO - Data file for 11 partition is created
+2017-03-15 23:52:12,427  - INFO - This process 11 is complete
+2017-03-15 23:52:12,458  - INFO - inside daily loop
+2017-03-15 23:52:12,484  - INFO - Data file for 10 partition is created
+2017-03-15 23:52:12,495  - INFO - This process 10 is complete
+2017-03-15 23:52:12,630  - INFO - inside daily loop
+2017-03-15 23:52:12,632  - INFO - starting for ibm identity governance and administration keyword
+2017-03-15 23:52:12,635  - INFO - keyword,account_count,account_count,cost are ibm identity governance and administration,1,2,0.0
+2017-03-15 23:52:12,662  - INFO - Data file for 5 partition is created
+2017-03-15 23:52:12,662  - INFO - This process 5 is complete
+2017-03-15 23:52:12,701  - INFO - inside daily loop
+2017-03-15 23:52:12,720  - INFO - Data file for 9 partition is created
+2017-03-15 23:52:12,720  - INFO - This process 9 is complete
+2017-03-15 23:52:12,723  - INFO - inside daily loop
+2017-03-15 23:52:12,734  - INFO - Data file for 1 partition is created
+2017-03-15 23:52:12,734  - INFO - This process 1 is complete
+2017-03-15 23:52:12,889  - INFO - inside daily loop
+2017-03-15 23:52:12,891  - INFO - starting for identity governance and administration keyword
+2017-03-15 23:52:12,893  - INFO - keyword,account_count,account_count,cost are identity governance and administration,1,2,0.0
+2017-03-15 23:52:12,901  - INFO - Data file for 3 partition is created
+2017-03-15 23:52:12,901  - INFO - This process 3 is complete
+2017-03-15 23:52:13,040  - INFO - inside daily loop
+2017-03-15 23:52:13,049  - INFO - Data file for 8 partition is created
+2017-03-15 23:52:13,049  - INFO - This process 8 is complete
+2017-03-15 23:52:15,217  - INFO - Starting aggregation
+2017-03-15 23:54:33,511  - INFO - Clearing previous csv and xlsx files
+2017-03-15 23:54:35,459  - INFO - file named IBM_key2.csv downloaded successfully
+2017-03-15 23:54:36,877  - INFO - file named IBM_key1.csv downloaded successfully
+2017-03-15 23:54:36,877  - INFO - starting for daily report
+2017-03-15 23:54:36,878  - INFO - Keyreport file not present,so creating it
+2017-03-15 23:54:36,887  - INFO - url of sheet which we are hitting {'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-03-15 23:54:36,888  - INFO - URL from which we are getting list of accounts:{'https://docs.google.com/spreadsheets/d/1TnhTtkISzPJvWOL06PnsVet7lcJEBbqjF7SeXLXH4jo/edit#gid=0': {'NOMBRE': 'test2'}}
+2017-03-15 23:54:37,587  - INFO - Connected to drive
+2017-03-15 23:54:37,590  - INFO - Connected to google drive
+
+2017-03-15 23:54:40,280  - INFO - List of accounts ['2809296861', '7813355720', '4804168647', '2231303651', '5689562067', '8697947664', '1507219704', '7652731314', '4718565953', '4427418816', '4414603918', '9641959361', '7997640368', '8368566800', '1913979284', '2677004727', '6256210439', '5449804993', '5324634234', '7153553492', '5305821365', '1775729480', '2944469928', '7636545669', '1076682543', '7902277106', '8725279362', '8638326204', '7883681562', '4830309918', '5168582986', '7079507033', '7008363161', '9391425334', '4033594085', '1181577747', '5643789204', '7194648907', '5596963937', '8652974884', '1158680681', '5905426474', '9315874047', '8808092456', '1437740590', '1980447844', '5385948464', '5481211928', '8048364176', '8317079318', '8894727133', '8950841751', '5727312516', '7653538731', '5260395623', '2055158184', '3507344855', '4143834440', '1119144035', '3303736528', '5543791114', '8847228380', '3407444652', '2010858735', '8676621406', '3602460396', '3924629577', '5033784069', '6986394311', '6508276876', '2376534971', '1236436471', '7162590027', '4234305823', '4943932774', '3484811464', '9517338753', '7491622727', '9469342557', '5429001474', '1086771272', '9050771087', '1131954238', '7067472045']
+2017-03-15 23:54:40,280  - INFO - no. of Yaml files:84
+2017-03-15 23:54:40,359  - INFO - starting for this account id :2809296861
+2017-03-15 23:54:40,361  - INFO - starting for this account id :7813355720
+2017-03-15 23:54:40,364  - INFO - starting for this account id :4804168647
+2017-03-15 23:54:40,394  - INFO - starting for this account id :5689562067
+2017-03-15 23:54:40,387  - INFO - starting for this account id :2231303651
+2017-03-15 23:54:40,404  - INFO - starting for this account id :4718565953
+2017-03-15 23:54:40,405  - INFO - starting for this account id :4427418816
+2017-03-15 23:54:40,410  - INFO - starting for this account id :8697947664
+2017-03-15 23:54:40,412  - INFO - starting for this account id :7652731314
+2017-03-15 23:54:40,414  - INFO - starting for this account id :1507219704
+2017-03-15 23:54:40,448  - INFO - starting for this account id :4414603918
+2017-03-15 23:54:40,458  - INFO - starting for this account id :7997640368
+2017-03-15 23:54:40,460  - INFO - starting for this account id :8368566800
+2017-03-15 23:54:40,469  - INFO - starting for this account id :6256210439
+2017-03-15 23:54:40,477  - INFO - starting for this account id :2677004727
+2017-03-15 23:54:40,481  - INFO - starting for this account id :1913979284
+2017-03-15 23:54:40,483  - INFO - starting for this account id :9641959361
+2017-03-15 23:54:40,495  - INFO - starting for this account id :5449804993
+2017-03-15 23:54:40,525  - INFO - starting for this account id :7153553492
+2017-03-15 23:54:40,526  - INFO - starting for this account id :5324634234
+2017-03-15 23:54:40,548  - INFO - starting for this account id :5305821365
+2017-03-15 23:54:40,563  - INFO - starting for this account id :7636545669
+2017-03-15 23:54:40,564  - INFO - starting for this account id :1775729480
+2017-03-15 23:54:40,571  - INFO - starting for this account id :2944469928
+2017-03-15 23:54:40,583  - INFO - starting for this account id :1076682543
+2017-03-15 23:54:40,589  - INFO - starting for this account id :7902277106
+2017-03-15 23:54:40,605  - INFO - starting for this account id :7079507033
+2017-03-15 23:54:40,612  - INFO - starting for this account id :8725279362
+2017-03-15 23:54:40,616  - INFO - starting for this account id :7008363161
+2017-03-15 23:54:40,625  - INFO - starting for this account id :9391425334
+2017-03-15 23:54:40,627  - INFO - starting for this account id :5168582986
+2017-03-15 23:54:40,631  - INFO - starting for this account id :7883681562
+2017-03-15 23:54:40,633  - INFO - starting for this account id :8638326204
+2017-03-15 23:54:40,636  - INFO - starting for this account id :4830309918
+2017-03-15 23:54:40,659  - INFO - starting for this account id :4033594085
+2017-03-15 23:54:40,668  - INFO - starting for this account id :5643789204
+2017-03-15 23:54:40,681  - INFO - starting for this account id :7194648907
+2017-03-15 23:54:40,698  - INFO - starting for this account id :5596963937
+2017-03-15 23:54:40,671  - INFO - starting for this account id :1181577747
+2017-03-15 23:54:40,714  - INFO - starting for this account id :8652974884
+2017-03-15 23:54:40,738  - INFO - starting for this account id :1158680681
+2017-03-15 23:54:40,744  - INFO - starting for this account id :5905426474
+2017-03-15 23:54:40,768  - INFO - starting for this account id :9315874047
+2017-03-15 23:54:40,780  - INFO - starting for this account id :8808092456
+2017-03-15 23:54:40,784  - INFO - starting for this account id :1437740590
+2017-03-15 23:54:40,798  - INFO - starting for this account id :1980447844
+2017-03-15 23:54:40,819  - INFO - starting for this account id :8048364176
+2017-03-15 23:54:40,828  - INFO - starting for this account id :5385948464
+2017-03-15 23:54:40,834  - INFO - starting for this account id :5481211928
+2017-03-15 23:54:40,837  - INFO - starting for this account id :8317079318
+2017-03-15 23:54:40,863  - INFO - starting for this account id :8894727133
+2017-03-15 23:54:40,895  - INFO - starting for this account id :3507344855
+2017-03-15 23:54:40,897  - INFO - starting for this account id :2055158184
+2017-03-15 23:54:40,902  - INFO - starting for this account id :5260395623
+2017-03-15 23:54:40,910  - INFO - starting for this account id :4143834440
+2017-03-15 23:54:40,936  - INFO - starting for this account id :3303736528
+2017-03-15 23:54:40,950  - INFO - starting for this account id :7653538731
+2017-03-15 23:54:40,942  - INFO - starting for this account id :8950841751
+2017-03-15 23:54:40,957  - INFO - starting for this account id :5727312516
+2017-03-15 23:54:40,982  - INFO - starting for this account id :1119144035
+2017-03-15 23:54:40,987  - INFO - starting for this account id :5543791114
+2017-03-15 23:54:41,039  - INFO - starting for this account id :3407444652
+2017-03-15 23:54:41,054  - INFO - starting for this account id :8847228380
+2017-03-15 23:54:41,077  - INFO - starting for this account id :2010858735
+2017-03-15 23:54:41,090  - INFO - starting for this account id :6986394311
+2017-03-15 23:54:41,090  - INFO - starting for this account id :8676621406
+2017-03-15 23:54:41,094  - INFO - starting for this account id :3602460396
+2017-03-15 23:54:41,107  - INFO - starting for this account id :5033784069
+2017-03-15 23:54:41,133  - INFO - starting for this account id :4943932774
+2017-03-15 23:54:41,133  - INFO - starting for this account id :6508276876
+2017-03-15 23:54:41,147  - INFO - starting for this account id :3484811464
+2017-03-15 23:54:41,147  - INFO - starting for this account id :4234305823
+2017-03-15 23:54:41,171  - INFO - starting for this account id :9517338753
+2017-03-15 23:54:41,192  - INFO - starting for this account id :7491622727
+2017-03-15 23:54:41,195  - INFO - starting for this account id :9469342557
+2017-03-15 23:54:41,208  - INFO - starting for this account id :3924629577
+2017-03-15 23:54:41,211  - INFO - starting for this account id :2376534971
+2017-03-15 23:54:41,214  - INFO - starting for this account id :5429001474
+2017-03-15 23:54:41,242  - INFO - starting for this account id :1086771272
+2017-03-15 23:54:41,276  - INFO - starting for this account id :9050771087
+2017-03-15 23:54:41,294  - INFO - starting for this account id :1236436471
+2017-03-15 23:54:41,317  - INFO - starting for this account id :1131954238
+2017-03-15 23:54:41,320  - INFO - starting for this account id :7162590027
+2017-03-15 23:54:41,346  - INFO - starting for this account id :7067472045
+2017-03-15 23:54:44,132  - INFO - This process is complete
+2017-03-15 23:54:44,639  - INFO - This process is complete
+2017-03-15 23:54:44,818  - INFO - This process is complete
+2017-03-15 23:54:45,057  - INFO - This process is complete
+2017-03-15 23:54:45,295  - INFO - This process is complete
+2017-03-15 23:54:45,404  - INFO - This process is complete
+2017-03-15 23:54:45,593  - INFO - This process is complete
+2017-03-15 23:54:45,601  - INFO - This process is complete
+2017-03-15 23:54:45,823  - INFO - This process is complete
+2017-03-15 23:54:45,841  - INFO - This process is complete
+2017-03-15 23:54:45,907  - INFO - This process is complete
+2017-03-15 23:54:45,979  - INFO - This process is complete
+2017-03-15 23:54:46,032  - INFO - This process is complete
+2017-03-15 23:54:46,246  - INFO - This process is complete
+2017-03-15 23:54:46,246  - INFO - This process is complete
+2017-03-15 23:54:46,280  - INFO - This process is complete
+2017-03-15 23:54:46,393  - INFO - This process is complete
+2017-03-15 23:54:46,394  - INFO - This process is complete
+2017-03-15 23:54:46,444  - INFO - This process is complete
+2017-03-15 23:54:46,879  - INFO - This process is complete
+2017-03-15 23:54:47,349  - INFO - This process is complete
+2017-03-15 23:54:47,726  - INFO - This process is complete
+2017-03-15 23:54:48,140  - INFO - This process is complete
+2017-03-15 23:54:48,421  - INFO - This process is complete
+2017-03-15 23:54:48,517  - INFO - This process is complete
+2017-03-15 23:54:48,732  - INFO - This process is complete
+2017-03-15 23:54:48,805  - INFO - This process is complete
+2017-03-15 23:54:49,042  - INFO - This process is complete
+2017-03-15 23:54:49,282  - INFO - This process is complete
+2017-03-15 23:54:49,803  - INFO - This process is complete
+2017-03-15 23:54:50,559  - INFO - This process is complete
+2017-03-15 23:54:50,643  - INFO - This process is complete
+2017-03-15 23:54:51,059  - INFO - This process is complete
+2017-03-15 23:54:51,077  - INFO - This process is complete
+2017-03-15 23:54:51,121  - INFO - This process is complete
+2017-03-15 23:54:51,187  - INFO - This process is complete
+2017-03-15 23:54:51,197  - INFO - This process is complete
+2017-03-15 23:54:51,248  - INFO - This process is complete
+2017-03-15 23:54:51,283  - INFO - This process is complete
+2017-03-15 23:54:51,285  - INFO - This process is complete
+2017-03-15 23:54:51,304  - INFO - This process is complete
+2017-03-15 23:54:51,325  - INFO - This process is complete
+2017-03-15 23:54:51,372  - INFO - This process is complete
+2017-03-15 23:54:51,384  - INFO - This process is complete
+2017-03-15 23:54:51,534  - INFO - This process is complete
+2017-03-15 23:54:51,598  - INFO - This process is complete
+2017-03-15 23:54:51,598  - INFO - This process is complete
+2017-03-15 23:54:52,280  - INFO - This process is complete
+2017-03-15 23:54:52,291  - INFO - This process is complete
+2017-03-15 23:54:52,314  - INFO - This process is complete
+2017-03-15 23:54:53,023  - INFO - This process is complete
+2017-03-15 23:54:53,094  - INFO - This process is complete
+2017-03-15 23:54:53,237  - INFO - This process is complete
+2017-03-15 23:54:53,364  - INFO - This process is complete
+2017-03-15 23:54:54,529  - INFO - This process is complete
+2017-03-15 23:54:55,286  - INFO - This process is complete
+2017-03-15 23:54:55,555  - INFO - This process is complete
+2017-03-15 23:54:55,599  - INFO - This process is complete
+2017-03-15 23:54:56,151  - INFO - This process is complete
+2017-03-15 23:54:57,165  - INFO - This process is complete
+2017-03-15 23:54:58,213  - INFO - This process is complete
+2017-03-15 23:54:58,337  - INFO - This process is complete
+2017-03-15 23:54:58,412  - INFO - This process is complete
+2017-03-15 23:54:58,472  - INFO - This process is complete
+2017-03-15 23:54:59,316  - INFO - This process is complete
+2017-03-15 23:54:59,462  - INFO - This process is complete
+2017-03-15 23:54:59,775  - INFO - This process is complete
+2017-03-15 23:55:00,164  - INFO - This process is complete
+2017-03-15 23:55:00,781  - INFO - This process is complete
+2017-03-15 23:55:01,457  - INFO - This process is complete
+2017-03-15 23:55:04,510  - INFO - This process is complete
+2017-03-15 23:55:04,511  - INFO - This process is complete
+2017-03-15 23:55:04,865  - INFO - This process is complete
+2017-03-15 23:55:06,000  - INFO - This process is complete
+2017-03-15 23:55:06,403  - INFO - This process is complete
+2017-03-15 23:55:06,777  - INFO - This process is complete
+2017-03-15 23:55:07,563  - INFO - This process is complete
+2017-03-15 23:55:08,451  - INFO - This process is complete
+2017-03-15 23:55:09,822  - INFO - This process is complete
+2017-03-15 23:55:11,799  - INFO - This process is complete
+2017-03-15 23:55:19,311  - INFO - This process is complete
+2017-03-15 23:55:27,537  - INFO - This process is complete
+2017-03-15 23:55:28,748  - INFO - This process is complete
+2017-03-15 23:55:32,123  - INFO - This process is complete
+2017-03-15 23:55:32,380  - INFO - doing aggregation to create a single Keyreport file
+2017-03-15 23:55:39,264  - INFO - Keyreport file is present,so skipping creation
+2017-03-15 23:55:40,223  - INFO - No of unique keywors for daily report 232
+2017-03-15 23:55:40,228  - INFO - process no. 0 started 
+2017-03-15 23:55:40,236  - INFO - process no. 1 started 
+2017-03-15 23:55:40,255  - INFO - process no. 2 started 
+2017-03-15 23:55:40,263  - INFO - process no. 3 started 
+2017-03-15 23:55:40,267  - INFO - process no. 4 started 
+2017-03-15 23:55:40,277  - INFO - process no. 5 started 
+2017-03-15 23:55:40,297  - INFO - process no. 9 started 
+2017-03-15 23:55:40,308  - INFO - process no. 7 started 
+2017-03-15 23:55:40,309  - INFO - process no. 10 started 
+2017-03-15 23:55:40,311  - INFO - process no. 6 started 
+2017-03-15 23:55:40,325  - INFO - process no. 8 started 
+2017-03-15 23:55:40,331  - INFO - process no. 11 started 
+2017-03-15 23:55:40,336  - INFO - process no. 13 started 
+2017-03-15 23:55:40,347  - INFO - process no. 12 started 
+2017-03-15 23:55:40,355  - INFO - process no. 14 started 
+2017-03-15 23:56:13,576  - INFO - inside daily loop
+2017-03-15 23:56:13,607  - INFO - Data file for 14 partition is created
+2017-03-15 23:56:13,613  - INFO - This process 14 is complete
+2017-03-15 23:56:41,271  - INFO - inside daily loop
+2017-03-15 23:56:41,313  - INFO - Data file for 6 partition is created
+2017-03-15 23:56:41,315  - INFO - This process 6 is complete
+2017-03-15 23:56:41,481  - INFO - inside daily loop
+2017-03-15 23:56:41,528  - INFO - Data file for 1 partition is created
+2017-03-15 23:56:41,532  - INFO - This process 1 is complete
+2017-03-15 23:56:42,346  - INFO - inside daily loop
+2017-03-15 23:56:42,367  - INFO - inside daily loop
+2017-03-15 23:56:42,385  - INFO - Data file for 7 partition is created
+2017-03-15 23:56:42,385  - INFO - This process 7 is complete
+2017-03-15 23:56:42,395  - INFO - Data file for 4 partition is created
+2017-03-15 23:56:42,398  - INFO - This process 4 is complete
+2017-03-15 23:56:42,508  - INFO - inside daily loop
+2017-03-15 23:56:42,560  - INFO - Data file for 13 partition is created
+2017-03-15 23:56:42,564  - INFO - This process 13 is complete
+2017-03-15 23:56:42,629  - INFO - inside daily loop
+2017-03-15 23:56:42,632  - INFO - starting for ibm identity governance and administration keyword
+2017-03-15 23:56:42,666  - INFO - keyword,account_count,account_count,cost are ibm identity governance and administration,1,2,0.0
+2017-03-15 23:56:42,690  - INFO - Data file for 5 partition is created
+2017-03-15 23:56:42,691  - INFO - This process 5 is complete
+2017-03-15 23:56:42,817  - INFO - inside daily loop
+2017-03-15 23:56:42,834  - INFO - Data file for 8 partition is created
+2017-03-15 23:56:42,834  - INFO - This process 8 is complete
+2017-03-15 23:56:42,882  - INFO - inside daily loop
+2017-03-15 23:56:42,891  - INFO - Data file for 9 partition is created
+2017-03-15 23:56:42,891  - INFO - This process 9 is complete
+2017-03-15 23:56:43,023  - INFO - inside daily loop
+2017-03-15 23:56:43,049  - INFO - Data file for 12 partition is created
+2017-03-15 23:56:43,049  - INFO - This process 12 is complete
+2017-03-15 23:56:43,286  - INFO - inside daily loop
+2017-03-15 23:56:43,295  - INFO - Data file for 10 partition is created
+2017-03-15 23:56:43,296  - INFO - This process 10 is complete
+2017-03-15 23:56:43,355  - INFO - inside daily loop
+2017-03-15 23:56:43,368  - INFO - Data file for 2 partition is created
+2017-03-15 23:56:43,368  - INFO - This process 2 is complete
+2017-03-15 23:56:43,370  - INFO - inside daily loop
+2017-03-15 23:56:43,374  - INFO - starting for identity governance and administration keyword
+2017-03-15 23:56:43,377  - INFO - keyword,account_count,account_count,cost are identity governance and administration,1,2,0.0
+2017-03-15 23:56:43,397  - INFO - Data file for 3 partition is created
+2017-03-15 23:56:43,398  - INFO - This process 3 is complete
+2017-03-15 23:56:43,475  - INFO - inside daily loop
+2017-03-15 23:56:43,482  - INFO - Data file for 0 partition is created
+2017-03-15 23:56:43,482  - INFO - This process 0 is complete
+2017-03-15 23:56:43,527  - INFO - inside daily loop
+2017-03-15 23:56:43,534  - INFO - Data file for 11 partition is created
+2017-03-15 23:56:43,534  - INFO - This process 11 is complete
+2017-03-15 23:56:45,407  - INFO - Starting aggregation
+2017-03-15 23:57:27,685  - INFO - Clearing previous csv and xlsx files
+2017-03-15 23:57:29,628  - INFO - file named IBM_key2.csv downloaded successfully
+2017-03-15 23:57:30,756  - INFO - file named IBM_key1.csv downloaded successfully
+2017-03-15 23:57:30,756  - INFO - starting for daily report
+2017-03-15 23:57:30,758  - INFO - Keyreport file is present,so skipping creation
+2017-03-15 23:57:31,767  - INFO - No of unique keywors for daily report 232
+2017-03-15 23:57:31,777  - INFO - process no. 0 started 
+2017-03-15 23:57:31,781  - INFO - process no. 1 started 
+2017-03-15 23:57:31,785  - INFO - process no. 2 started 
+2017-03-15 23:57:31,815  - INFO - process no. 4 started 
+2017-03-15 23:57:31,816  - INFO - process no. 3 started 
+2017-03-15 23:57:31,821  - INFO - process no. 5 started 
+2017-03-15 23:57:31,842  - INFO - process no. 9 started 
+2017-03-15 23:57:31,842  - INFO - process no. 6 started 
+2017-03-15 23:57:31,852  - INFO - process no. 10 started 
+2017-03-15 23:57:31,854  - INFO - process no. 7 started 
+2017-03-15 23:57:31,858  - INFO - process no. 12 started 
+2017-03-15 23:57:31,861  - INFO - process no. 8 started 
+2017-03-15 23:57:31,866  - INFO - process no. 13 started 
+2017-03-15 23:57:31,878  - INFO - process no. 14 started 
+2017-03-15 23:57:31,888  - INFO - process no. 11 started 
+2017-03-15 23:58:00,946  - INFO - inside daily loop
+2017-03-15 23:58:01,015  - INFO - Data file for 14 partition is created
+2017-03-15 23:58:01,018  - INFO - This process 14 is complete
+2017-03-15 23:58:28,573  - INFO - inside daily loop
+2017-03-15 23:58:28,611  - INFO - Data file for 13 partition is created
+2017-03-15 23:58:28,614  - INFO - This process 13 is complete
+2017-03-15 23:58:29,216  - INFO - inside daily loop
+2017-03-15 23:58:29,261  - INFO - Data file for 1 partition is created
+2017-03-15 23:58:29,267  - INFO - This process 1 is complete
+2017-03-15 23:58:29,321  - INFO - inside daily loop
+2017-03-15 23:58:29,366  - INFO - Data file for 9 partition is created
+2017-03-15 23:58:29,383  - INFO - This process 9 is complete
+2017-03-15 23:58:29,730  - INFO - inside daily loop
+2017-03-15 23:58:29,745  - INFO - inside daily loop
+2017-03-15 23:58:29,746  - INFO - Data file for 12 partition is created
+2017-03-15 23:58:29,750  - INFO - This process 12 is complete
+2017-03-15 23:58:29,754  - INFO - inside daily loop
+2017-03-15 23:58:29,778  - INFO - Data file for 11 partition is created
+2017-03-15 23:58:29,778  - INFO - This process 11 is complete
+2017-03-15 23:58:29,818  - INFO - Data file for 2 partition is created
+2017-03-15 23:58:29,818  - INFO - This process 2 is complete
+2017-03-15 23:58:29,872  - INFO - inside daily loop
+2017-03-15 23:58:29,882  - INFO - Data file for 8 partition is created
+2017-03-15 23:58:29,901  - INFO - This process 8 is complete
+2017-03-15 23:58:30,125  - INFO - inside daily loop
+2017-03-15 23:58:30,173  - INFO - Data file for 6 partition is created
+2017-03-15 23:58:30,174  - INFO - This process 6 is complete
+2017-03-15 23:58:30,253  - INFO - inside daily loop
+2017-03-15 23:58:30,294  - INFO - Data file for 10 partition is created
+2017-03-15 23:58:30,295  - INFO - This process 10 is complete
+2017-03-15 23:58:30,366  - INFO - inside daily loop
+2017-03-15 23:58:30,369  - INFO - inside daily loop
+2017-03-15 23:58:30,370  - INFO - inside daily loop
+2017-03-15 23:58:30,370  - INFO - starting for ibm identity governance and administration keyword
+2017-03-15 23:58:30,372  - INFO - starting for identity governance and administration keyword
+2017-03-15 23:58:30,378  - INFO - keyword,account_count,account_count,cost are identity governance and administration,1,2,0.0
+2017-03-15 23:58:30,379  - INFO - keyword,account_count,account_count,cost are ibm identity governance and administration,1,2,0.0
+2017-03-15 23:58:30,409  - INFO - Data file for 3 partition is created
+2017-03-15 23:58:30,410  - INFO - Data file for 5 partition is created
+2017-03-15 23:58:30,411  - INFO - This process 5 is complete
+2017-03-15 23:58:30,414  - INFO - This process 3 is complete
+2017-03-15 23:58:30,416  - INFO - Data file for 7 partition is created
+2017-03-15 23:58:30,418  - INFO - This process 7 is complete
+2017-03-15 23:58:30,625  - INFO - inside daily loop
+2017-03-15 23:58:30,631  - INFO - Data file for 0 partition is created
+2017-03-15 23:58:30,632  - INFO - This process 0 is complete
+2017-03-15 23:58:30,665  - INFO - inside daily loop
+2017-03-15 23:58:30,671  - INFO - Data file for 4 partition is created
+2017-03-15 23:58:30,671  - INFO - This process 4 is complete
+2017-03-15 23:58:31,926  - INFO - Starting aggregation
+2017-03-15 23:58:53,699  - INFO - Clearing previous csv and xlsx files
+2017-03-15 23:58:55,411  - INFO - file named IBM_key2.csv downloaded successfully
+2017-03-15 23:58:56,569  - INFO - file named IBM_key1.csv downloaded successfully
+2017-03-15 23:58:56,569  - INFO - starting for daily report
+2017-03-15 23:58:56,571  - INFO - Keyreport file is present,so skipping creation
+2017-03-15 23:58:57,574  - INFO - No of unique keywors for daily report 232
+2017-03-15 23:58:57,584  - INFO - process no. 0 started 
+2017-03-15 23:58:57,590  - INFO - process no. 1 started 
+2017-03-15 23:58:57,597  - INFO - process no. 3 started 
+2017-03-15 23:58:57,602  - INFO - process no. 2 started 
+2017-03-15 23:58:57,631  - INFO - process no. 5 started 
+2017-03-15 23:58:57,642  - INFO - process no. 6 started 
+2017-03-15 23:58:57,626  - INFO - process no. 4 started 
+2017-03-15 23:58:57,661  - INFO - process no. 10 started 
+2017-03-15 23:58:57,664  - INFO - process no. 7 started 
+2017-03-15 23:58:57,678  - INFO - process no. 12 started 
+2017-03-15 23:58:57,678  - INFO - process no. 13 started 
+2017-03-15 23:58:57,688  - INFO - process no. 9 started 
+2017-03-15 23:58:57,689  - INFO - process no. 8 started 
+2017-03-15 23:58:57,692  - INFO - process no. 14 started 
+2017-03-15 23:58:57,695  - INFO - process no. 11 started 
+2017-03-15 23:59:27,946  - INFO - inside daily loop
+2017-03-15 23:59:28,009  - INFO - Data file for 14 partition is created
+2017-03-15 23:59:28,009  - INFO - This process 14 is complete
+2017-03-15 23:59:56,418  - INFO - inside daily loop
+2017-03-15 23:59:56,455  - INFO - Data file for 0 partition is created
+2017-03-15 23:59:56,458  - INFO - This process 0 is complete
+2017-03-15 23:59:57,705  - INFO - inside daily loop
+2017-03-15 23:59:57,715  - INFO - inside daily loop
+2017-03-15 23:59:57,718  - INFO - starting for identity governance and administration keyword
+2017-03-15 23:59:57,725  - INFO - keyword,account_count,account_count,cost are identity governance and administration,1,2,0.0
+2017-03-15 23:59:57,727  - INFO - Data file for 9 partition is created
+2017-03-15 23:59:57,740  - INFO - This process 9 is complete
+2017-03-15 23:59:57,755  - INFO - Data file for 3 partition is created
+2017-03-15 23:59:57,755  - INFO - This process 3 is complete
+2017-03-15 23:59:58,290  - INFO - inside daily loop
+2017-03-15 23:59:58,292  - INFO - starting for ibm identity governance and administration keyword
+2017-03-15 23:59:58,296  - INFO - keyword,account_count,account_count,cost are ibm identity governance and administration,1,2,0.0
+2017-03-15 23:59:58,333  - INFO - Data file for 5 partition is created
+2017-03-15 23:59:58,344  - INFO - This process 5 is complete
+2017-03-15 23:59:58,413  - INFO - inside daily loop
+2017-03-15 23:59:58,436  - INFO - Data file for 11 partition is created
+2017-03-15 23:59:58,441  - INFO - This process 11 is complete
+2017-03-15 23:59:58,532  - INFO - inside daily loop
+2017-03-15 23:59:58,570  - INFO - Data file for 12 partition is created
+2017-03-15 23:59:58,570  - INFO - This process 12 is complete
+2017-03-15 23:59:58,651  - INFO - inside daily loop
+2017-03-15 23:59:58,673  - INFO - Data file for 7 partition is created
+2017-03-15 23:59:58,683  - INFO - This process 7 is complete
+2017-03-15 23:59:58,776  - INFO - inside daily loop
+2017-03-15 23:59:58,788  - INFO - Data file for 2 partition is created
+2017-03-15 23:59:58,788  - INFO - This process 2 is complete
+2017-03-15 23:59:58,946  - INFO - inside daily loop
+2017-03-15 23:59:58,956  - INFO - Data file for 10 partition is created
+2017-03-15 23:59:58,956  - INFO - This process 10 is complete
+2017-03-15 23:59:59,078  - INFO - inside daily loop
+2017-03-15 23:59:59,089  - INFO - Data file for 1 partition is created
+2017-03-15 23:59:59,097  - INFO - This process 1 is complete
+2017-03-15 23:59:59,234  - INFO - inside daily loop
+2017-03-15 23:59:59,245  - INFO - Data file for 6 partition is created
+2017-03-15 23:59:59,245  - INFO - This process 6 is complete
+2017-03-15 23:59:59,279  - INFO - inside daily loop
+2017-03-15 23:59:59,292  - INFO - Data file for 4 partition is created
+2017-03-15 23:59:59,292  - INFO - This process 4 is complete
+2017-03-15 23:59:59,297  - INFO - inside daily loop
+2017-03-15 23:59:59,312  - INFO - Data file for 8 partition is created
+2017-03-15 23:59:59,312  - INFO - This process 8 is complete
+2017-03-15 23:59:59,422  - INFO - inside daily loop
+2017-03-15 23:59:59,428  - INFO - Data file for 13 partition is created
+2017-03-15 23:59:59,428  - INFO - This process 13 is complete
+2017-03-16 00:00:02,759  - INFO - Starting aggregation
