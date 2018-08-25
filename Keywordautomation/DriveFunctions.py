@@ -4,7 +4,7 @@
 '''################################ METADATA ################################'''
 __authors__ = 'Shubham Mishra'
 __maintainer__ = 'Shubham Mishra'
-__email__ = "shubham.mishra@ogilvy.com"
+
 
 '''############################### LIBRARIES ################################'''
 from oauth2client.service_account import ServiceAccountCredentials
